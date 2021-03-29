@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## Survey link
-Here is a <a href="https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_5uLNi6Vbl5kIHum">link to our survey</a></li> on potential workshop discussion topics.
+Here is a <a href="https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_5uLNi6Vbl5kIHum">link to our survey</a> on potential workshop discussion topics.
 
 
 ![Workshop flyer](./files/Sea_Ice_Workshop_Flyer.png)
