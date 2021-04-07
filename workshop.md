@@ -1,6 +1,6 @@
 ---
 title: Upcoming workshop
-layout: default
+layout: workshop
 ---
 
 ## Survey link
