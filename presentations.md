@@ -6,7 +6,7 @@ layout: default_workshop
 
 <table>
     <thead>
-        <th colspan="2">Participating Groups</th>
+        <th colspan="2">Presentations from participating groups</th>
     </thead>
     <tbody>
         <tr>
