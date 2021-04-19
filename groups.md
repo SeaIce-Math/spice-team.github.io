@@ -2,7 +2,7 @@
 title: Groups
 layout: default_workshop
 ---
-
+[a relative link](workshop_groups/brandon.md)
 
 <table>
     <thead>
