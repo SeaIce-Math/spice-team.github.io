@@ -3,7 +3,7 @@ title: Upcoming workshop
 layout: default_workshop
 ---
 
-<p><a href="https://github.com/SPIce-Team/spice-team.github.io/raw/master/files/Workshop_Flyerpdf">Download flyer</a></p>
+<p><a href="https://github.com/SPIce-Team/spice-team.github.io/raw/master/files/Workshop_Flyer.pdf">Download flyer</a></p>
 <p><a href="https://github.com/SPIce-Team/spice-team.github.io/raw/master/files/WorkshopGroups.pdf">Download list of participating groups</a></p>
 
 ## What is it about? 
