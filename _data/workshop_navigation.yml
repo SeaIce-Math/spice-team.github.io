@@ -1,7 +1,7 @@
 docs_list_title: Sea Ice workshop
 docs:
   
-- title: Workshop Homepage
+- title: Home
   url: workshop.html
  
 - title: Groups
@@ -10,5 +10,3 @@ docs:
 - title: Schedule
   url: schedule.html
 
-- title: MURI Website
-  url: index.html
