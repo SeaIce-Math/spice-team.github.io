@@ -8,3 +8,5 @@ layout: default_workshop
 Brandon Montemuro: bpm5026@uw.edu
 
 Georgy Manucharyan: gmanuch@uw.edu
+
+Dimitris Giannakis: dimitris@cims.nyu.edu
