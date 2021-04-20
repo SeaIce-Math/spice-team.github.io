@@ -1,5 +1,5 @@
 ---
-title: Groups
+title: presentations
 layout: default_workshop
 ---
 
