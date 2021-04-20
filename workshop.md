@@ -1,5 +1,5 @@
 ---
-title: Upcoming workshop
+title: Workshop on Modeling the Granular Nature of Sea Ice”
 layout: default_workshop
 ---
 
