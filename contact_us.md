@@ -5,6 +5,6 @@ layout: default_workshop
 
 
 ## Contact the organizers
-Brandon Montemruo: bpm5026@uw.edu
+Brandon Montemuro: bpm5026@uw.edu
 
 Georgy Manucharyan: gmanuch@uw.edu
