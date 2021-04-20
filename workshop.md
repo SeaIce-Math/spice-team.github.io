@@ -4,10 +4,7 @@ layout: default_workshop
 ---
 
 
-## Survey link
-<a href="https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_5uLNi6Vbl5kIHum">Survey on discussion topics</a>
-
-<p><a href="https://github.com/SPIce-Team/spice-team.github.io/raw/master/files/Workshop_Flyer.pdf">Download workshop flyer</a></p>
+<a href="https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_5uLNi6Vbl5kIHum">Survey on discussion topics</a> <p><a href="https://github.com/SPIce-Team/spice-team.github.io/raw/master/files/Workshop_Flyer.pdf">Download workshop flyer</a></p>
 
 ## What is it about? 
 <p align="justify">
