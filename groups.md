@@ -4,4 +4,4 @@ layout: default_workshop
 ---
 
 
-![Participating Groups](./files/groups.png)
+![Participating Groups](./files/Groups.png)
