@@ -10,7 +10,7 @@ layout: default_workshop
     </thead>
     <tbody>
         <tr>
-            <td align="center">Brandon and Georgy, University of Washington<br>
+            <td align="center">Brandon and Georgy; University of Washington<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -32,7 +32,7 @@ layout: default_workshop
             </td>       
         </tr>
                 <tr>
-            <td align="center">Devin, Brendan and Max, CRREL<br>
+            <td align="center">Devin, Brendan and Max; CRREL<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
