@@ -1,3 +1,4 @@
+---
 title: Upcoming workshop
 layout: default_group
 ---
