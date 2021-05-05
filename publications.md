@@ -4,7 +4,7 @@ layout: default
 ---
 ## Submitted/In preparation:
 
-
+- Davis, A.D. & Giannakis, D., (2021), Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. In revision. [[link](https://arxiv.org/abs/2104.15124)]
 - Manucharyan, G.E. & Thompson A.F., (2020), Heavy footprints of
   upper-ocean eddies on weakened Arctic sea ice in marginal ice
   zones. **Nature Communications**, in revision.
