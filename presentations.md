@@ -32,7 +32,7 @@ layout: default_workshop
             </td>       
         </tr>
                 <tr>
-            <td align="center">Devin, Brendan and Max; CRREL<br>
+            <td align="center">Devin, Brendan, and Max; CRREL<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -54,7 +54,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="center">Anders , Olga, Alistair; Aarhus and Princeton<br>
+            <td align="center">Anders , Olga, and Alistair; Aarhus and Princeton<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
