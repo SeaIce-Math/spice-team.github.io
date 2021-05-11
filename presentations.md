@@ -57,8 +57,8 @@ layout: default_workshop
         </tr>
         <tr>
             <td align="left">A. Damsgaard <sup>1,2</sup>, O. Sergienko<sup>1</sup>, and A. Adcroft<sup>1</sup><br>
-                1: <i>Princeton University</i><br>
-                2: <i>Aarhus University</i><br>
+                <sup>1</sup> <i>Princeton University</i><br>
+                <sup>2</sup> <i>Aarhus University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
