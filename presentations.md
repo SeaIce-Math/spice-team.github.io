@@ -80,7 +80,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">R. Moncada Lopez and J. andrade<sup>1</sup><br>
+            <td align="left">R. Moncada Lopez and J. Andrade<br>
                 <i>California Institute of Technology</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
