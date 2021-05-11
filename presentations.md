@@ -10,7 +10,7 @@ layout: default_workshop
     </thead>
     <tbody>
         <tr>
-            <td align="center">Brandon Montemuro: University of Washington<br>
+            <td align="left">Brandon Montemuro: University of Washington<br>
                 Georgy Manucharyan: University of Washington<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -21,7 +21,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="center"><a href="https://seaicemuri.org/workshop_groups/brandon.html">SubZero -- Sea Ice Model with an Explicit Representation of a Floe Life Cycle</a><br>
+            <td align="left"><a href="https://seaicemuri.org/workshop_groups/brandon.html">SubZero -- Sea Ice Model with an Explicit Representation of a Floe Life Cycle</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -33,7 +33,7 @@ layout: default_workshop
             </td>       
         </tr>
                 <tr>
-            <td align="center">Devin O'Connor: CRREL<br>
+            <td align="left">Devin O'Connor: CRREL<br>
                 Brendan West: CRREL<br>
                 Max Krackow: CRREL<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -45,7 +45,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="center"><a href="https://seaicemuri.org/workshop_groups/OConnor.html">Modeling Continuous Sea Ice Floes with the Discrete Element Method</a><br>
+            <td align="left"><a href="https://seaicemuri.org/workshop_groups/OConnor.html">Modeling Continuous Sea Ice Floes with the Discrete Element Method</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -57,7 +57,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="center">Anders Damsgaard: Aarhus University/Princeton University<br>
+            <td align="left">Anders Damsgaard: Aarhus University/Princeton University<br>
                 Olga Sergienko: Princeton University<br>
                 Alistair Adcroft: Princeton University<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -69,7 +69,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="center"><a href="https://seaicemuri.org/workshop_groups/Damsgaard.html">Floe-scale ridging in discrete element models for sea ice</a><br>
+            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Damsgaard.html">Floe-scale ridging in discrete element models for sea ice</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
