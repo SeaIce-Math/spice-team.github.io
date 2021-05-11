@@ -10,8 +10,8 @@ layout: default_workshop
     </thead>
     <tbody>
         <tr>
-            <td align="left">Brandon Montemuro: University of Washington<br>
-                Georgy Manucharyan: University of Washington<br>
+            <td align="left">Brandon Montemuro and Georgy Manucharyan<br>
+                University of Washington<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -33,9 +33,8 @@ layout: default_workshop
             </td>       
         </tr>
                 <tr>
-            <td align="left">Devin O'Connor: CRREL<br>
-                Brendan West: CRREL<br>
-                Max Krackow: CRREL<br>
+            <td align="left">Devin O'Connor, Brendan West, and Max Krackow<br>
+                Cold Regions Research and Engineering Laboratory<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -57,9 +56,9 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">Anders Damsgaard: Aarhus University/Princeton University<br>
-                Olga Sergienko: Princeton University<br>
-                Alistair Adcroft: Princeton University<br>
+            <td align="left">Anders Damsgaard(1,2), Olga V. Sergienko(1), Alistair Adcroft(1)<br>
+                1: Princeton University<br>
+                2: Aarhus University<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
