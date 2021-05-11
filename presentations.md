@@ -10,7 +10,8 @@ layout: default_workshop
     </thead>
     <tbody>
         <tr>
-            <td align="center">Brandon and Georgy; University of Washington<br>
+            <td align="center">Brandon Montemuro: University of Washington<br>
+                Georgy Manucharyan: University of Washington<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -32,7 +33,9 @@ layout: default_workshop
             </td>       
         </tr>
                 <tr>
-            <td align="center">Devin, Brendan, and Max; CRREL<br>
+            <td align="center">Devin O'Connor: CRREL<br>
+                Brendan West: CRREL<br>
+                Max Krackow: CRREL<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -54,7 +57,9 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="center">Anders , Olga, and Alistair; Aarhus and Princeton<br>
+            <td align="center">Anders Damsgaard: Aarhus University/Princeton University<br>
+                Olga Sergienko: Princeton University<br>
+                Alistair Adcroft: Princeton University<br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
