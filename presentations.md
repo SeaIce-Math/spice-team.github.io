@@ -11,7 +11,7 @@ layout: default_workshop
     <tbody>
         <tr>
             <td align="left">B. Montemuro and G. Manucharyan<br>
-                University of Washington<br>
+                <i>University of Washington</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -34,7 +34,7 @@ layout: default_workshop
         </tr>
                 <tr>
             <td align="left">D. O'Connor, B. West, and M. Krackow<br>
-                Cold Regions Research and Engineering Laboratory<br>
+                <i>Cold Regions Research and Engineering Laboratory</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -56,9 +56,9 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">A. Damsgaard(1,2), O. Sergienko(1), and A. Adcroft(1)<br>
-                1: Princeton University<br>
-                2: Aarhus University<br>
+            <td align="left">A. Damsgaard <sup>1,2</sup>, O. Sergienko<sup>1</sup>, and A. Adcroft<sup>1</sup><br>
+                1: <i>Princeton University</i><br>
+                2: <i>Aarhus University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
