@@ -9,6 +9,11 @@ layout: default
   upper-ocean eddies on weakened Arctic sea ice in marginal ice
   zones. **Nature Communications**, in revision.
 
+## 2021
+
+Manucharyan, G. E., Siegelman, L., & Klein, P. (2020). A Deep Learning approach to spatiotemporal SSH interpolation and estimation of deep currents in geostrophic ocean turbulence. Journal of Advances in Modeling Earth Systems, [e2019MS001965](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2019MS001965)
+
+Moon, W., Manucharyan, G. E., & Dijkstra, H. A. (2021). Eddy memory as an explanation of intra‐seasonal periodic behavior in baroclinic eddies. Quarterly Journal of the Royal Meteorological Society.[https://doi.org/10.1002/qj.4030](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4030)
 
 ## 2020
 
