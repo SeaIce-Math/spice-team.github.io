@@ -103,7 +103,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">S. Labb&egrave><br>
+            <td align="left">S. Labb&egrave<br>
                 <i>Sorbonne University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
