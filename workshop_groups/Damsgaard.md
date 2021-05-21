@@ -29,4 +29,6 @@ and Coulomb friction which is suitable for simulating the contact
 mechanics of ridging in particle-based sea ice models.  On a larger
 scale, this results in ice-pack dynamics prone to stick-slip, strain
 localization, and limited compressional resistance.
+
 ## Video
+<iframe src="https://drive.google.com/file/d/1H04Di5zSHOwrVpbTAGQ5nQ-rOZJs77nN/preview" width="640" height="480"></iframe>
