@@ -1,5 +1,5 @@
 ---
-title: Upcoming workshop
+title: Damsgaard
 layout: default_group
 ---
 # Floe-scale ridging in discrete element models for sea ice
