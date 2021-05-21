@@ -7,3 +7,4 @@ layout: default_group
 ![Workshop schedule](./OConnor.png)
 
 ## Video
+<iframe src="https://drive.google.com/file/d/1ub84Jx2VWgl-dclNCw13T5zJj9KDqOub/preview" width="640" height="480"></iframe>
