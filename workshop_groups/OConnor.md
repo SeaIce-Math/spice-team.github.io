@@ -1,5 +1,5 @@
 ---
-title: Upcoming workshop
+title: OConnor
 layout: default_group
 ---
 
