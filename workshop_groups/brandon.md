@@ -1,5 +1,5 @@
 ---
-title: Upcoming workshop
+title: Washington
 layout: default_group
 ---
 # SubZero -- Sea Ice Model with an Explicit Representation of a Floe Life Cycle
