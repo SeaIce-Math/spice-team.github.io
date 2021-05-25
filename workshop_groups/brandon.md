@@ -14,22 +14,20 @@ Sea ice is commonly represented in climate models as a continuous fluid with pre
 <p><a href="https://drive.google.com/file/d/1wHxhpWG4sqSxX5Tb1clbAbE1OpXmhWUE/view?usp=sharing">View presentation slides</a></p>
 
 ## Video
-<iframe src="https://drive.google.com/file/d/1hSK-yBnx-PHmxrB6rzIcewy-NhzPCeE1/preview" width="640" height="480"></iframe> <iframe src="https://drive.google.com/file/d/1GFA_UFD6LJyAqyYUX6ymrvYfDdeSOeIC/preview" width="640" height="480"></iframe>
-
 
 <table>
     <tbody>
         <tr>
-            <td align="left">B. Montemuro and G. Manucharyan<br>
-                <i>University of Washington</i><br>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-                <span>&nbsp;&nbsp;</span>
+            <td align="left">
+                “SubZero: model formulation” by G.E. Manucharyan 
+            </td>
+            <td align="left">
+                “SubZero: process studies” by B.P. Montemuro
+            </td>       
+        </tr>
+        <tr>
+            <td align="left">
+                <iframe src="https://drive.google.com/file/d/1GFA_UFD6LJyAqyYUX6ymrvYfDdeSOeIC/preview" width="640" height="480"></iframe>
             </td>
             <td align="left">
               <iframe src="https://drive.google.com/file/d/1GFA_UFD6LJyAqyYUX6ymrvYfDdeSOeIC/preview" width="640" height="480"></iframe>
