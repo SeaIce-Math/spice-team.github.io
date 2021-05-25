@@ -171,7 +171,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;</span>
             </td>       
         </tr>
-                <tr>
+        <tr>
             <td align="left">H. Dinh<br>
                 <i>New York University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -195,7 +195,7 @@ layout: default_workshop
             </td>       
         </tr>
         </tr>
-                <tr>
+        <tr>
             <td align="left">L. Liu and S. Ji<br>
                 <i>Dalian University of Technology</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
