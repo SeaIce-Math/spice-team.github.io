@@ -9,7 +9,7 @@ This presentation describes the engineering scale ice mechanics research by Aalt
 
 ## Presentation
 
-<p><a href="https://drive.google.com/file/d/12RG_9Qe6m8pkUGQ4B1uZIDAEBKVBEBDE/view?usp=sharing">Download presentation</a></p>
+<p><a href="https://drive.google.com/file/d/12RG_9Qe6m8pkUGQ4B1uZIDAEBKVBEBDE/view?usp=sharing">View presentation slides</a></p>
 
 
 ## Video
