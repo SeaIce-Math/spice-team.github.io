@@ -194,7 +194,6 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;</span>
             </td>       
         </tr>
-        </tr>
         <tr>
             <td align="left">L. Liu and S. Ji<br>
                 <i>Dalian University of Technology</i><br>
