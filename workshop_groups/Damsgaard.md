@@ -30,5 +30,9 @@ mechanics of ridging in particle-based sea ice models.  On a larger
 scale, this results in ice-pack dynamics prone to stick-slip, strain
 localization, and limited compressional resistance.
 
+
+## Presentation
+<p><a href="https://drive.google.com/file/d/1T0b_8j_a9_OGw99fs2AaflkzufazZhcG/view?usp=sharing">View presentation slides</a></p>
+
 ## Video
 <iframe src="https://drive.google.com/file/d/1H04Di5zSHOwrVpbTAGQ5nQ-rOZJs77nN/preview" width="640" height="480"></iframe>
