@@ -3,6 +3,9 @@ title: Liu
 layout: default_group
 ---
 # Discrete element analysis of ice load on marine structures with dilated polyhedron element
+L. Liu and S. Ji
+                
+<i>Dalian University of Technology</i>
 
 ## Presentation
 <p><a href="https://drive.google.com/file/d/1Hx5JvS69uEQaMHd0Fuz6hnVSa9ef_hLB/view?usp=sharing">View presentation slides</a></p>
