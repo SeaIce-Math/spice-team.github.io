@@ -1,5 +1,5 @@
 ---
-title: Damsgaard
+title: Princeton
 layout: default_group
 ---
 # Floe-scale ridging in discrete element models for sea ice
