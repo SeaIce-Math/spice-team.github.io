@@ -18,6 +18,9 @@ docs:
 
 - title: Software
   url: software.html
+  
+- title: Data Products
+  url: data_products.html
  
 - title: DEM Workshop
   url: workshop.html
