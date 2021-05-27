@@ -1,5 +1,5 @@
 ---
-title: Upcoming workshop
+title: Sorbonne
 layout: default_group
 ---
 # Sea ice modelling, a granular approach
