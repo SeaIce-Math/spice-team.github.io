@@ -1,5 +1,5 @@
 ---
-title: Hutter
+title: Alfred Wegener
 layout: default_group
 ---
 # Lagrangian DA and UQ for Sea Ice Floes with Superfloe Parameterization
