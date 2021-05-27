@@ -3,7 +3,9 @@ title: Deng
 layout: default_group
 ---
 # Lagrangian DA and UQ for Sea Ice Floes with Superfloe Parameterization
+Q. Deng, N. Chen, and S. Stechmann
 
+<i>University of Wisconsin</i>
 
 ## Abstract
 The discrete element method (DEM) is a recently developed new modeling approach for describing sea ice dynamics. It exploits particle-based methods to characterize the physical quantities of each sea ice floe along
