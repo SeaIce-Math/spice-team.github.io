@@ -172,7 +172,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">H. Dinh<br>
+            <td align="left">H. Dinh, D. Giannakis, G. Stadler, and J. Slawinska<br>
                 <i>New York University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -218,7 +218,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">Q. Deng, N. Chen and S. Stechmann<br>
+            <td align="left">Q. Deng, N. Chen, and S. Stechmann<br>
                 <i>University of Wisconsin</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
