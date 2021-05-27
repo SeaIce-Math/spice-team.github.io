@@ -1,5 +1,5 @@
 ---
-title: Upcoming workshop
+title: OSU
 layout: default_group
 ---
 # Multi-scales in sea ice: A review of sea ice structure and how it relates to mechanics
