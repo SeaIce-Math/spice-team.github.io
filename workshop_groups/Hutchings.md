@@ -1,5 +1,5 @@
 ---
-title: OSU
+title: OSU Hutchings
 layout: default_group
 ---
 # Multi-scales in sea ice: A review of sea ice structure and how it relates to mechanics
@@ -15,3 +15,6 @@ Sea ice growth history defines its structure in the vertical, with spatial scale
 ## Presentation
 <p><a href="https://drive.google.com/file/d/14f2UPNVo63vkju_8jg_dmDgyuWHfBf9U/view?usp=sharing">View presentation slides</a></p>
 
+
+## Video
+<iframe src="https://drive.google.com/file/d/1BGv2FyihFapVRKkdWDO80YDHgd8R0VmN/preview" width="640" height="480"></iframe>
