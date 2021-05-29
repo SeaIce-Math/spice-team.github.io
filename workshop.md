@@ -5,7 +5,7 @@ layout: default_workshop
 <div style="float: right;"><a href="https://github.com/SPIce-Team/spice-team.github.io/raw/master/files/Workshop_Flyer.pdf">[Flyer]</a></div>
 
 ## What is it about?  
-<div style="float: right;"  padding-left: 10px;>
+<div style="float: right; padding-left: 10px;">
 <p align="right"><iframe src="https://drive.google.com/file/d/1ksovGRg59M4dE6ABu3Lq7hP4QzG-ebNi/preview" width="300" height="180"></iframe></p>
 </div>
 <p align="justify">
