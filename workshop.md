@@ -5,7 +5,7 @@ layout: default_workshop
 
 ## What is it about? 
 
-<div style="float: right; padding-top: 10px; padding-left: 10px; padding-bottom: 10px;">
+<div style="float: right; padding-top: 10px; padding-left: 10px; padding-bottom: -10px">
 <p align="right"><iframe src="https://drive.google.com/file/d/1ksovGRg59M4dE6ABu3Lq7hP4QzG-ebNi/preview" width="230" height="170"></iframe></p>
 </div>
 <p align="justify">
