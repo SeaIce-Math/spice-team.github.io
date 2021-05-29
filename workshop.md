@@ -6,7 +6,7 @@ layout: default_workshop
 ## What is it about? 
 
 <div style="float: right; padding-top: 10px; padding-left: 10px; padding-bottom: 10px;">
-<p align="right"><iframe src="https://drive.google.com/file/d/1ksovGRg59M4dE6ABu3Lq7hP4QzG-ebNi/preview" width="250" height="160"></iframe></p>
+<p align="right"><iframe src="https://drive.google.com/file/d/1ksovGRg59M4dE6ABu3Lq7hP4QzG-ebNi/preview" width="230" height="160"></iframe></p>
 </div>
 <p align="justify">
 The multi-scale nature of sea ice presents a challenge for developing realistic  models  capable  of  simulating  individual  floes  and  fractures.  Recent  advances in  high-performance  computing  present  unique  opportunities  for  exploration  of the multi-scale dynamics using discrete element or granular media models. However, such models  present  many  challenges  associated  with  the  development  and  validation  of the  interaction  rules  between  the  elements. This  workshop  is  aimed  to  provide  the numerous  research  groups  an  opportunity  to  come  together  and  discuss  the  various philosophical  approaches  to  modeling  the  discrete  nature  of  sea  ice,  showcase the  existing  model  capabilities,  identify  major  obstacles  in  the  development  of  model physics,  and  outline  a  coherent  set  of  experiments  for  model  inter-comparison  and validation against observations.
