@@ -15,6 +15,8 @@ Sea ice is commonly represented in climate models as a continuous fluid with pre
 ## Presentation
 <p><a href="https://drive.google.com/file/d/1wHxhpWG4sqSxX5Tb1clbAbE1OpXmhWUE/view?usp=sharing">View presentation slides</a></p>
 
+<p><a href="https://drive.google.com/file/d/1dXowuEd_cqVWAkEfwi9kpBKBXJZavcCf/view?usp=sharing">View presentation slides</a></p>
+
 ## Video
 <table>
     <tbody>
