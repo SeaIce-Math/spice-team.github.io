@@ -2,7 +2,7 @@
 title: Wisconsin Chen
 layout: default_group
 ---
-# Lagrangian DA and UQ for Sea Ice Floes with Superfloe Parameterization
+# Efficient and Statistically Accurate Lagrangian Data Assimilation of Sea Ice Using Non-Interacting Floes
 N. Chen(1),  S. Fu(1), and G. Manucharyan(2)
 
 1: University of Wisconsin
