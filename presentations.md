@@ -125,8 +125,9 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">N. Chen and S. Fu<br>
-                <i>University of Wisconsin</i><br>
+            <td align="left">N. Chen<sup>1</sup>, S. Fu<sup>1,2</sup>, and G. Manucharyan<sup>2</sup><br>
+               <sup>1</sup>  <i>University of Wisconsin</i><br>
+               <sup>2</sup>  <i>University of Washington</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -136,7 +137,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Chen.html">Chen Presentation</a><br>
+            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Chen.html">Efficient and Statistically Accurate Lagrangian Data Assimilation of Sea Ice Using Non-Interacting Floes</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -193,17 +194,12 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;</span>
             </td>       
         </tr>
-    </tbody>
-</table>
-
-
-<table>
+        <tr>
     <thead>
         <th colspan="2">June 8th, 8-11a.m. Pacific Time</th>
-    </thead>
-    <tbody>
-                <tr>
-                                <td align="left">A. Khosravi,  J. Hutchings, and S. Durski<br>
+    </thead>   
+            
+            <td align="left">A. Khosravi,  J. Hutchings, and S. Durski<br>
                 <i>Oregon State University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -408,8 +404,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;</span>
-            </td>    
-                     </tr>
+            </td>       
+        </tr>
     </tbody>
 </table>
-
