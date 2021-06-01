@@ -4,7 +4,7 @@ layout: default_group
 ---
 # Intersection Angle between shear fractures in Sea Ice
 
-B. Tremblay
+B. Tremblay, Damien Ringeisen, and Mathieu Plante
 
 <i>McGill University</i>
 
