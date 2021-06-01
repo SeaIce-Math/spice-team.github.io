@@ -79,7 +79,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">B. Tremblay<br>
+            <td align="left">B. Tremblay, Damien Ringeisen, and Mathieu Plante<br>
                 <i>McGill University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -125,7 +125,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">N. Chen<sup>1</sup>, S. Fu<sup>1,2</sup>, and G. Manucharyan<sup>2</sup><br>
+            <td align="left">N. Chen<sup>1</sup>, S. Fu<sup>1</sup>, and G. Manucharyan<sup>2</sup><br>
                <sup>1</sup>  <i>University of Wisconsin</i><br>
                <sup>2</sup>  <i>University of Washington</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
