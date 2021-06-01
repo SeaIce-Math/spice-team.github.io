@@ -6,7 +6,7 @@ layout: default_workshop
 
 <table>
     <thead>
-        <th colspan="2">Q & A on June 7th, 8-11a.m. Pacific Time</th>
+        <th colspan="2">Q and A on June 7th, 8-11a.m. Pacific Time</th>
     </thead>
     <tbody>
                 <tr>
@@ -196,7 +196,7 @@ layout: default_workshop
         </tr>
         <tr>
     <thead>
-        <th colspan="2">Q & A on June 8th, 8-11a.m. Pacific Time</th>
+        <th colspan="2">Q and A on June 8th, 8-11a.m. Pacific Time</th>
     </thead>   
             
             <td align="left">A. Khosravi,  J. Hutchings, and S. Durski<br>
