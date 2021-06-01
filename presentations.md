@@ -194,6 +194,10 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
+    <thead>
+        <th colspan="2">June 8th, 8-11a.m. Pacific Time</th>
+    </thead>   
+            
             <td align="left">A. Khosravi,  J. Hutchings, and S. Durski<br>
                 <i>Oregon State University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
