@@ -6,7 +6,7 @@ layout: default_workshop
 
 <table>
     <thead>
-        <th colspan="2">Presentations from participating groups</th>
+        <th colspan="2">June 7th, 8-11a.m. Pacific Time</th>
     </thead>
     <tbody>
                 <tr>
