@@ -2,7 +2,7 @@
 title: Alfred Wegener
 layout: default_group
 ---
-# MOSAiC: a testbed for DEMs
+# MOSAiC: a testbed for DEMs?
 N. Hutter, L. von Albedyll, S. Hendricks
 
 <i>Alfred Wegener Institute</i>
