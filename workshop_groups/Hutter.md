@@ -2,7 +2,7 @@
 title: Alfred Wegener
 layout: default_group
 ---
-# Lagrangian DA and UQ for Sea Ice Floes with Superfloe Parameterization
+# MOSAiC: a testbed for DEMs
 N. Hutter, L. von Albedyll, S. Hendricks
 
 <i>Alfred Wegener Institute</i>
