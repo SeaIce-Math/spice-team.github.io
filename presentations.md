@@ -9,7 +9,7 @@ layout: default_workshop
         <th colspan="2">Q and A on June 7th, 8-11a.m. Pacific Time</th>
     </thead>
     <tbody>
-                <tr>
+         <tr>
             <td align="left">J. Hutchings, S. Durski, and A. Khosravi<br>
                 <i>Oregon State University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -32,7 +32,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;</span>
             </td>       
         </tr>
-                <tr>
+         <tr>
             <td align="left">S. Farrell, K. Duncan, E. Buckley, O. Baney<br>
                 <i>University of Maryland</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -199,7 +199,7 @@ layout: default_workshop
     <thead>
         <th colspan="2">Q and A on June 8th, 8-11a.m. Pacific Time</th>
     </thead>   
-            
+         <tr>   
             <td align="left">A. Khosravi,  J. Hutchings, and S. Durski<br>
                 <i>Oregon State University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
