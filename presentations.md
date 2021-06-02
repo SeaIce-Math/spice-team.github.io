@@ -195,7 +195,6 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;</span>
             </td>       
         </tr>
-        <tr>
     <thead>
         <th colspan="2">Q and A on June 8th, 8-11a.m. Pacific Time</th>
     </thead>   
