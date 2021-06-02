@@ -172,8 +172,9 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">A. Davis and D. Giannakis<br>
-                <i>New York University</i><br>
+            <td align="left">A. Davis <sup>1</sup>, D. Giannakis<sup>1</sup>, G. Stadler<sup>1</sup>, and S. Stechmann<sup>2</sup><br>
+                <sup>1</sup> <i>New York University</i><br>
+                <sup>2</sup> <i>University of Wisconsin</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -183,7 +184,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Davis.html">Davis Presentation</a><br>
+            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Davis.html">Super-parameterization of sea ice dynamics using the Boltzman equation/a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
