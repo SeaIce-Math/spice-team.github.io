@@ -16,4 +16,3 @@ other modelling scales.
 ## Presentation
 <p><a href="https://drive.google.com/file/d/1Qxs5WTPwHcRTcqcyJvRe8nhDVUlTkDCP/view?usp=sharing">View presentation slides</a></p>
 
-## Video
