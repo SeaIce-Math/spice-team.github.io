@@ -10,5 +10,7 @@ layout: default
 
 ![]("/images/sea_ice_floe_products/display_miz01a533357wb10_20140617_m_fr_bwthresh04_strel1_50e_halfstep_labeled_rgb.png")
 
+<img src="images/team/dimitris_small.png" alt="" class="img-responsive">
+
 
 display_miz01a533357wb10_20140617_m_fr_bwthresh04_strel1_50e_halfstep_labeled_rgb.png
