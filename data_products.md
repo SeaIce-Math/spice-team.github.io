@@ -9,6 +9,9 @@ layout: default
 <img src="/images/sea_ice_floe_products/display_miz02a620250aws02_20140424_m_fr_bwthresh05_strel1_25e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
 <img src="/images/sea_ice_floe_products/display_miz03a827060aws03_20140424_m_fr_bwthresh05_strel1_20e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
 
+20140430
+<img src="/images/sea_ice_floe_products/display_miz01a628560aws01_20140430_m_fr_bwthresh0425_strel1_25e_halfstep_labeled_rgb_m.png" alt="" class="img-responsive">
+
 
 
 20140617
