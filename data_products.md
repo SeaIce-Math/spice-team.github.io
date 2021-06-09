@@ -34,5 +34,34 @@ layout: default
 20140619
 <img src="/images/sea_ice_floe_products/display_miz03a533266wb02_20140619_m_fr_bwthresh03_strel1_50e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
 
+20140711
+<img src="/images/sea_ice_floe_products/display_miz04a533340wb09_20140711_m_fr_bwthresh0175_strel1_35e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
+
+20140731
+<img src="/images/sea_ice_floe_products/display_miz04a533340wb09_20140731_m_fr_bwthresh021_strel1_25e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
+
+20140811
+<img src="/images/sea_ice_floe_products/display_miz01a628560aws01_20140811_m_fr_bwthresh015_strel1_15e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
+
+20140812
+<img src="/images/sea_ice_floe_products/display_miz03a827060aws03_20140812_fr_bwthresh0175_strel1_25e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
+
+20140814
+<img src="/images/sea_ice_floe_products/display_miz01a628560aws01_20140814_m_br_bwthresh0245_strel1_4e_sqrtstep_bc_labeled_rgb.png" alt="" class="img-responsive">
+<img src="/images/sea_ice_floe_products/display_miz02a620250aws02_20140814_m_fr_bwthresh02225_strel1_19e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
+
+20140920
+<img src="/images/sea_ice_floe_products/display_MIZ05a823050AWS05_20140920_m_fr_bwthresh04_strel1_20e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
+
+20140926
+<img src="/images/sea_ice_floe_products/display_miz05a498015wb34_20140926_m_fr_bwthresh06_strel1_25e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
+
+
+
+
+
+
+
+
 
 
