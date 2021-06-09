@@ -26,8 +26,13 @@ layout: default
 <img src="/images/sea_ice_floe_products/display_miz04a533340wb09_20140527_m_fr_bwthresh07_strel1_20e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
 
 20140530
-
+<img src="/images/sea_ice_floe_products/display_miz02a533365wb11_20140530_m_fr_bwthresh06_strel1_25e_halfstep_labeled_rgb_m.png" alt="" class="img-responsive">
 
 20140617
 <img src="/images/sea_ice_floe_products/display_miz01a533357wb10_20140617_m_fr_bwthresh04_strel1_50e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
+
+20140619
+<img src="/images/sea_ice_floe_products/display_miz03a533266wb02_20140619_m_fr_bwthresh03_strel1_50e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
+
+
 
