@@ -6,7 +6,7 @@ layout: default_workshop
 
 <table>
     <thead>
-        <th colspan="2">Q and A on June 7th, 8-11a.m. Pacific Time</th>
+        <th colspan="2"><a href="https://seaicemuri.org/workshop_groups/day1.html">Q and A on June 7th</a>, 8-11a.m. Pacific Time</th>
     </thead>
     <tbody>
          <tr>
@@ -204,7 +204,7 @@ Boltzmann equation</a><br>
 
 <table>
     <thead>
-        <th colspan="2">Q and A on June 8th, 8-11a.m. Pacific Time</th>
+        <th colspan="2"><a href="https://seaicemuri.org/workshop_groups/day2.html">Q and A on June 8th</a>, 8-11a.m. Pacific Time</th>
     </thead>  
     <tbody>
          <tr>   
