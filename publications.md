@@ -4,6 +4,8 @@ layout: default
 ---
 ## Submitted/In preparation:
 
+- Giddy, I., S. Swart, A.F. Thompson, M. duPlessis & S.A. Nicholson, 2021. Stirring of sea ice meltwater enhances submesoscale fronts in the Southern Ocean. **J. Geophys. Res.**, 126, e2020JC016814. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JC016814)] 
+
 - Davis, A.D. & Giannakis, D., (2021), Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. In revision. [[link](https://arxiv.org/abs/2104.15124)]
 
 - Manucharyan, G.E., R. Lopez, M. Martinez (2021), Spinning sea ice floes reveal emerging mesoscale turbulence in the Arctic Ocean. (In preparation)
