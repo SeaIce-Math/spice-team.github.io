@@ -89,7 +89,8 @@ $header-heading-color: 	#51422c;
 
 $base-line-height: 1.5 !default;
 $base-font-size: 16px !default;
-$background-color: #A067AB ;
+$background-color: #A067AB !default;
+$body-color:#A067AB !default;
 $grey-color: #999999 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $spacing-unit: 30px !default;
