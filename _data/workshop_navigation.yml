@@ -1,7 +1,10 @@
 docs_list_title: Sea Ice workshop
 docs:
-  
-- title: Home
+
+- title: MURI Home
+  url: index.html
+
+- title: Worshop Home
   url: workshop.html
  
 - title: Presentations
