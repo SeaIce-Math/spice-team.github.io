@@ -178,6 +178,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Huy Dinh -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -191,8 +193,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
     <td> <!-- Shubin Fu -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -232,6 +232,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Brandon Montemuro -->
         <div class="card" style="width: 10rem;">
           <a href="https://www.ocean.washington.edu/home/Brandon_Montemuro" title="" class="card-image hover-overlay" target="_blank">
