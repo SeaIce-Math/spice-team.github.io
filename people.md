@@ -250,10 +250,10 @@ layout: default
     <td> <!-- Changhong Mou -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/ChanghongMu.jpg" alt="" class="img-responsive">
+          <img src="images/team/ChanghongMou.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Changhong Mu</a></h4>
+            <h4><a href="" target="_blank">Changhong Mou</a></h4>
             <div class="card-desription">
               <p>Postdoctoral Research Scientist, University of Washington</p>
             </div>
