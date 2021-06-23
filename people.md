@@ -311,3 +311,9 @@ layout: default
     </td>
   </tr>
 </table>
+
+## Andy Majda
+
+![Andrew Majda](./images/majda.jpg)
+
+We are deeply saddened by the passing of our colleague, mentor, and friend, Andrew J. Majda. Please click ![here](https://cims.nyu.edu/webapps/content/news/nyu_mourns_andrew_majda) and ![here](https://www.math.nyu.edu/faculty/majda/) to read about Andy.  
