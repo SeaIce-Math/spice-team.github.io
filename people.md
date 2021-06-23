@@ -18,7 +18,7 @@ layout: default
           <div class="card-text">
             <h4><a href="https://cims.nyu.edu/~dimitris/" target="_blank">Dimitris Giannakis</a></h4>
             <div class="card-desription">
-              <p>Associate Professor of Mathematics, Courant Institute, NYU</p>
+              <p>Associate Professor, Courant Institute, NYU</p>
             </div>
           </div>
         </div>
@@ -126,6 +126,19 @@ layout: default
   <col width="200"/>
   <col width="200"/>
   <tr>
+    <td> <!-- Jeff Covington -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Covington.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Jeff Covington</a></h4>
+            <div class="card-desription">
+              <p>Graduate Student, University of Wisconsin-Madison</p>
+            </div>
+          </div>
+        </div>
+    </td>
     <td> <!-- Andrew Davis -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -134,7 +147,7 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Andrew Davis</a></h4>
             <div class="card-desription">
-              <p>Post-Doctoral Research Scientist, Courant Institute, NYU</p>
+              <p>Postdoctoral Research Scientist, Courant Institute, NYU</p>
             </div>
           </div>
         </div>
@@ -160,7 +173,7 @@ layout: default
           <div class="card-text">
             <h4><a href="https://people.earth.yale.edu/profile/alexis-denton/about" target="_blank">Alexis Anne Denton</a></h4>
             <div class="card-desription">
-              <p>Post-Doctoral Research Scientist, Yale University</p>
+              <p>Postdoctoral Research Scientist, Yale University</p>
             </div>
           </div>
         </div>
@@ -173,7 +186,7 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Huy Dinh</a></h4>
             <div class="card-desription">
-              <p>Post-Doctoral Research Scientist, Courant Institute, NYU</p>
+              <p>Postdoctoral Research Scientist, Courant Institute, NYU</p>
             </div>
           </div>
         </div>
@@ -188,7 +201,20 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Shubin Fu</a></h4>
             <div class="card-desription">
-              <p>Post-Doctoral Research Scientist</p>
+              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Jiuhua Hu -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/JiuhuaHu.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Jiuhua Hu</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
             </div>
           </div>
         </div>
@@ -201,7 +227,7 @@ layout: default
           <div class="card-text">
             <h4><a href="https://eapsweb.mit.edu/people/guptam" target="_blank">Mukund Gupta</a></h4>
             <div class="card-desription">
-              <p>Post-Doctoral Research Scientist, CalTech</p>
+              <p>Postdoctoral Research Scientist, CalTech</p>
             </div>
           </div>
         </div>
@@ -214,7 +240,20 @@ layout: default
           <div class="card-text">
             <h4><a href="https://www.ocean.washington.edu/home/Brandon_Montemuro" target="_blank">Brandon Montemuro</a></h4>
             <div class="card-desription">
-              <p>Post-Doctoral Research Scientist, University of Washington</p>
+              <p>Postdoctoral Research Scientist, University of Washington</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Changhong Mou -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/ChanghongMu.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Changhong Mu</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, University of Washington</p>
             </div>
           </div>
         </div>
@@ -227,7 +266,7 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
             <div class="card-desription">
-              <p>Post-Doctoral Research Scientist, University of Washington</p>
+              <p>Postdoctoral Research Scientist, University of Washington</p>
             </div>
           </div>
         </div>
@@ -263,7 +302,7 @@ layout: default
           <div class="card-text">
             <h4><a href="https://uwm.edu/physics/people/slawinska-joanna/" target="_blank">Joanna Slawinska</a></h4>
             <div class="card-desription">
-              <p>Research Scientist, Courant Institute, NYU</p>
+              <p>Research Scientist, University of Helsinki</p>
             </div>
           </div>
         </div>
