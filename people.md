@@ -36,19 +36,6 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Andrew Majda -->
-       <div class="card" style="width: 10rem;">
-          <a href="https://www.math.nyu.edu/faculty/majda/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/majda.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://www.math.nyu.edu/faculty/majda/" target="_blank">Andrew Majda</a></h4>
-            <div class="card-desription">
-              <p>Professor, Courant Institute, NYU</p>
-            </div>
-          </div>
-        </div>
-    </td>
     <td> <!-- Georgy Manucharyan -->
        <div class="card" style="width: 10rem;">
           <a href="https://www.ocean.washington.edu/home/Georgy%20Manucharyan" title="" class="card-image hover-overlay" target="_blank">
