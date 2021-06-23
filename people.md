@@ -242,7 +242,7 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Changhong Mou</a></h4>
             <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Washington</p>
+              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
             </div>
           </div>
         </div>
