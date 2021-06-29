@@ -173,8 +173,8 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">R. Moncada Lopez and J. Andrade<br>
-                <i>California Institute of Technology</i><br>
+            <td align="left">DESGign<br>
+                <i>University of Gdansk</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -184,7 +184,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Andrade.html">Sea Ice Level Set DEM: Effects of Lateral Melting and Breakage</a><br>
+            <td align="left"><a href="https://gmd.copernicus.org/articles/9/1219/2016/">Discrete-Element bonded-particle Sea Ice model DESIgn, version 1.3a – model description and implementation</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -196,7 +196,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">B. Montemuro and G. Manucharyan<br>
+            <td align="left">Subzero<br>
                 <i>University of Washington</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
