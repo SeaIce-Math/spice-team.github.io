@@ -3,6 +3,8 @@ title: presentations
 layout: default_workshop
 ---
 
+All times are Pacific Time  <a href="https://github.com/SPIce-Team/spice-team.github.io/raw/master/files/Schedule.pdf">[Download schedule]</a>
+
 
 <table>
     <thead>
