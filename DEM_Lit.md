@@ -11,7 +11,7 @@ layout: default_workshop
     </thead>  
     <tbody>
          <tr>   
-            <td align="left">A. Khosravi,  J. Hutchings, and S. Durski<br>
+            <td align="left">SIKU<br>
                 <i>Oregon State University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -22,7 +22,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Khosravi.html">Mechanics of sea ice at small scales</a><br>
+            <td align="left"><a href="https://www.boem.gov/sites/default/files/boem-newsroom/Library/Publications/2017/BOEM2017-043_CMI_IceModel.pdf">Siku Sea Ice Discrete Element Method Model</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -34,30 +34,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">S. Durski, J. Hutchings,  and A. Khosravi<br>
-                <i>Oregon State University</i><br>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-                <span>&nbsp;&nbsp;</span>
-            </td>
-            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Durski.html">Development of a polygon-based DEM for sea ice</a><br>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;</span>
-            </td>       
-        </tr>
-        <tr>
-            <td align="left">S. Labbe<br>
+            <td align="left">Labbe Model<br>
                 <i>Sorbonne University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -68,7 +45,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Labbe.html">Sea ice modelling, a granular approach</a><br>
+            <td align="left"><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC010909">Dynamics of an assembly of rigid ice floes</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -80,7 +57,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">L. Liu and S. Ji<br>
+            <td align="left">DPDEM<br>
                 <i>Dalian University of Technology</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -91,7 +68,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Liu.html">Discrete element analysis of ice load on marine structures with dilated polyhedron element</a><br>
+            <td align="left"><a href="https://link.springer.com/article/10.1007%2Fs13131-014-0428-3">A modified discrete element model for sea ice dynamics</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -103,7 +80,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">A. Polojärvi and J. Tuhkuri<br>
+            <td align="left">FEM-DEM<br>
                 <i>Aalto University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -114,7 +91,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Aalto.html">Granular Sea Ice in Engineering Scale</a><br>
+            <td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S0165232X11000863?casa_token=BE7sRbG1pj4AAAAA:h8O7m2zlNQS9QyVTqxRiqnJuUYQWsmA18mWOwuHJDk6_TS1IbZYj2hU0_-qjZJxuP2IaLd190w">2D numerical simulations of ice rubble formation process against an inclined structure</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -126,7 +103,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">A. Damsgaard <sup>1,2</sup>, O. Sergienko<sup>1</sup>, and A. Adcroft<sup>1</sup><br>
+            <td align="left">Lagrangian DEM<sup>1</sup><br>
                 <sup>1</sup> <i>Princeton University</i><br>
                 <sup>2</sup> <i>Aarhus University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -138,7 +115,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="left"><a href="https://seaicemuri.org/workshop_groups/Damsgaard.html">Floe-scale ridging in discrete element models for sea ice</a><br>
+            <td align="left"><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001299">Application of Discrete Element Methods to Approximate Sea Ice Dynamics</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -150,7 +127,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">D. O'Connor, B. West, and M. Krackow<br>
+            <td align="left">ParticLS<br>
                 <i>Cold Regions Research and Engineering Laboratory</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -161,7 +138,7 @@ layout: default_workshop
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <span>&nbsp;&nbsp;</span>
             </td>
-            <td align="left"><a href="https://seaicemuri.org/workshop_groups/OConnor.html">Modeling Continuous Sea Ice Floes with the Discrete Element Method</a><br>
+            <td align="left"><a href="https://link.springer.com/article/10.1007/s40571-021-00392-3">ParticLS: Object-oriented software for discrete element methods and peridynamics</a><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
