@@ -5,10 +5,7 @@ layout: default_workshop
 
 ## List of DEM models
 
-<table>
-    <thead>
-        <th colspan="2"><a href="https://seaicemuri.org/workshop_groups/day2.html">Q and A on June 8th Video</a></th>
-    </thead>  
+<table> 
     <tbody>
          <tr>   
             <td align="left">SIKU<br>
