@@ -103,7 +103,7 @@ layout: default_workshop
             </td>       
         </tr>
         <tr>
-            <td align="left">Lagrangian DEM<sup>1</sup><br>
+            <td align="left">Lagrangian DEM<br>
                 <sup>1</sup> <i>Princeton University</i><br>
                 <sup>2</sup> <i>Aarhus University</i><br>
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
