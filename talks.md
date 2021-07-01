@@ -8,6 +8,7 @@ layout: default
 - Davis, A.D., Giannakis, D., Stadler, G., Stechmann, S., and Manucharyan, G., [Scientific Computing Seminar](https://duscicomp.github.io/events/seminar_series/), Durham University (Feb. 2021), Super-parameterized numerical methods for the Boltzmann equation modeling Arctic sea ice dynamics
 - Giannakis, D., Davis, A.D., Stadler, G., Stechmann, S., and Manucharyan, G., CalTech (Jan. 2021), Kinetic Theory for Superparameterization of Sea Ice Dynamics
 - Manucharyan, G. E., Lopez-Acosta, R., and Martinez, M., (Feb. 2021) University of South Florida, College of Marine Science, "Emerging Arctic Ocean turbulence revealed by rotating sea ice fragments" <a href="https://www.youtube.com/watch?v=yto8WPoGNZc">[video]</a>
+- Dinh, H., Giannakis, D., Stadler, G., Slawinska, J., [SIAM Annaual Meeting 2021](https://www.siam.org/conferences/cm/conference/an21), virtual meeting (July 2021), Machine learning on phase-field models of sea ice fracture
 
 ## 2020
 
