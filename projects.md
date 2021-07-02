@@ -65,3 +65,9 @@ development and to validate key dynamical processes (see Yale group
 for further details).
 
 ![Sea Ice Thickness](./images/WebsiteImage_AFT.png)
+
+## Machine Learning on Phase-Field Models of Sea Ice Fracture
+
+Our NYU team is developing a machine learning framework that is capable of inferring fracture behaviors from physical inputs. The fracture of individual floes impacts lead formation and floe size distribution which in turn affect basin-scale sea ice transport. Fracture patterns sharply depend on internal structures (such as frozen cracks and ridges), external forces from the surrounding ocean and atmosphere, and floe geometry. This work has two goals: We aim to develop a mathematical model of fracture that simulates floe-scale physics and machine learning methods to infer fracture behaviors from physical parameters. We are developing phase-field models of fracturing ice floes that efficiently simulates fracture profiles in response to insertions of elastic heterogeneities, geometries and external forces. Ultimately, our framework could be used to infer fracture behaviors such as the number of fragments and fracture orientation from satellite images of ice floes.
+
+![Phase-field Fracture](./images/NYUProj_WebsiteFigure_FracPhase.png)
