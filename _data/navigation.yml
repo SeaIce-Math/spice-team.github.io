@@ -16,11 +16,11 @@ docs:
 - title: Talks
   url: talks.html
 
-- title: Software
-  url: software.html
+- title: Software/Data
+  url: software-data.html
   
-- title: Data Products
-  url: data_products.html
+#- title: Data Products
+#  url: data_products.html
  
 - title: DEM Workshop
   url: workshop.html
