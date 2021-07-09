@@ -4,6 +4,8 @@ layout: default
 ---
 ## Submitted/In preparation:
 
+- Chen, N. & Deng, Q. & Stechmann S. (2021), Lagrangian Data Assimilation and Uncertainty Quantification for Sea Ice Floes with Efficient Superfloe Parameterization. In revision. [[link](https://arxiv.org/abs/2105.13569)]
+
 - Davis, A.D. & Giannakis, D., (2021), Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. In revision. [[link](https://arxiv.org/abs/2104.15124)]
 
 - Manucharyan, G.E., R. Lopez, M. Martinez (2021), Spinning sea ice floes reveal emerging mesoscale turbulence in the Arctic Ocean. (In preparation)
