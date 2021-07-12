@@ -12,7 +12,7 @@ layout: default
 
 ## Data Products
 
-### Sea Ice Floe Products
+### Sea-Ice Floe Products
 
 These products are derived from high-resolution optical Literal Imagery Derived Products (LIDPs) acquired from the United States Geological Survey Global Fiducials Library (https://www.usgs.gov/core-science-systems/nli/global-fiducials-library). A full description of the Sea-Ice Floe Products is in Denton and Timmermans (2021, submitted to _Geophysical Research Letters_). The data format below is reduced-resolution (10%) PNG. A link to the data repository with full-resolution products available for download is coming soon...
 
