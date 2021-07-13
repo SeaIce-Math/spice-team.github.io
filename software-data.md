@@ -4,7 +4,7 @@ layout: default
 ---
 ## Software projects
 
-- Graph-theoretic algorithms for Kolmogorov operators [link](https://github.com/dg227/NLSA)
+- Graph-theoretic algorithms for Kolmogorov operators [link---see branch "andyddavis/graph-theoretic-algorithms](muq.mit.edu/)
 
 - Kernel methods for feature extraction and forecasting in dynamical systems.
 [https://github.com/dg227/NLSA](https://github.com/dg227/NLSA)
