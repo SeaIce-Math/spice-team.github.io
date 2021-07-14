@@ -35,5 +35,5 @@ layout: default
 - Armitage, T. W. K., G. E. Manucharyan, A.A. Petty, et al. (2020). Enhanced eddy activity in the Beaufort Gyre in response to sea ice loss, *Nature Communications*, 11, 761. [[link](https://doi.org/10.1038/s41467-020-14449-z)]
 
 
-- Swart, S., M. D. du Plessis, A. F. Thompson, L. C. Biddle, I. Giddy, T. Linders, M. Mohrmann, S.-A. Nicholson, (2020). Submesoscale fronts in the Antarctic marginal ice zone and their response to wind forcing. *Geophyical. Research. Letters.*, 47(6), e2019GL086649. [[link](https://doi.org/10.1029/2019GL086649)]
+- Swart, S., M. D. du Plessis, A. F. Thompson, L. C. Biddle, I. Giddy, T. Linders, M. Mohrmann, S.-A. Nicholson, (2020). Submesoscale fronts in the Antarctic marginal ice zone and their response to wind forcing. *Geophysical Research Letters*, 47(6), e2019GL086649. [[link](https://doi.org/10.1029/2019GL086649)]
 
