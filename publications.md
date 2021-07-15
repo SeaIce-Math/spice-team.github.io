@@ -22,6 +22,10 @@ layout: default
 
 - Manucharyan, G. E., A. F. Thompson (2020). Heavy footprints of upper-ocean eddies on weakened Arctic sea ice in marginal ice zones. In revision.
 
+- Moon, W., G. E. Manucharyan, H. A. Dijkstra (2021). Downward propagation of planetary-scale atmospheric waves induced by eddy memory effects. *Quarterly Journal of the Royal Meteorological Society*. In review.
+
+- Moon, W., G. E. Manucharyan, H. A. Dijkstra (2021). Baroclinic instability and large-scale wave propagation on planetary-scale atmosphere. *Quarterly Journal of the Royal Meteorological Society*. In review.
+
 ## 2021
 
 - Giddy, I., S. Swart, A. F. Thompson, M. duPlessis, S.A. Nicholson (2021). Stirring of sea ice meltwater enhances submesoscale fronts in the Southern Ocean. *Journal of Geophysical Research*, 126, e2020JC016814. [[link](https://doi.org/10.1029/2020JC016814)] 
