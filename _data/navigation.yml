@@ -18,9 +18,9 @@ docs:
 
 - title: Software/Data
   url: software-data.html
-  
-#- title: Data Products
-#  url: data_products.html
+
+- title: News
+  url: news.html
  
 - title: DEM Workshop
   url: workshop.html
