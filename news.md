@@ -13,6 +13,6 @@ See you in the Big Easy!
 
 ### Dec 2021: Team meeting
 
-We have a two day team meeting...
+We had a two day team meeting...
 
 <!-- The NYU/Darthmouth team hosted a productive two-day online meeting between our MURI groups on December 3&mdash4. Our groups shared their progress on their research projects. Then, we set goals toward collaborative work, within and outside our MURI, and outreach to young scientists and potential collabortors. -->
