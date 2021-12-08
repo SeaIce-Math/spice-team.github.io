@@ -5,9 +5,12 @@ layout: default
 
 ### Dec 2021: AGU Talks:
 
-Look for our posters at the 2021 AGU Fall Meeting in New Orleans, LA. We have team members presenting next Monday, December 13th, in session NG15B, " Advances in Computational Analysis in Geophysical Processes: Applied Mathematics Perspectives on Prediction, Uncertainty Quantification, and State Estimation". Andrew Davis will be presenting "Generalization of Hydrodynamic Sea Ice Dynamics using Kinetic Theory and the Boltzmann Equation". Huy Dinh will be presenting "Machine Learning on Phase-Field Models of Sea Ice Fracture". For more details, follow the link below.
+Look for our posters at the 2021 AGU Fall Meeting in New Orleans, LA. We have team members presenting next Monday, December 13th, in session NG15B, " Advances in Computational Analysis in Geophysical Processes: Applied Mathematics Perspectives on Prediction, Uncertainty Quantification, and State Estimation". Andrew Davis will be presenting "Generalization of Hydrodynamic Sea Ice Dynamics using Kinetic Theory and the Boltzmann Equation". Huy Dinh will be presenting "Machine Learning on Phase-Field Models of Sea Ice Fracture". Follow the links below for more details.
 
-<a href="https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122671">https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122671</a></th>
+Presention from A. Davis: <a href="https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/984396">https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/984396</a>
+
+
+Presention from H. Dinh: <a href="https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/838473">https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/838473</a>
 
 See you in the Big Easy!
 
