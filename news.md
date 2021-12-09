@@ -3,6 +3,8 @@ title: News
 layout: default
 ---
 
+<a class="twitter-timeline" href="https://twitter.com/SeaIceMath?ref_src=twsrc%5Etfw">Tweets by SeaIceMath</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Dec 2021: AGU Talks:
 
 Look for our posters at the 2021 AGU Fall Meeting in New Orleans, LA. We have team members presenting next Monday, December 13th, in session NG15B, " Advances in Computational Analysis in Geophysical Processes: Applied Mathematics Perspectives on Prediction, Uncertainty Quantification, and State Estimation". Andrew Davis will be presenting "Generalization of Hydrodynamic Sea Ice Dynamics using Kinetic Theory and the Boltzmann Equation". Huy Dinh will be presenting "Machine Learning on Phase-Field Models of Sea Ice Fracture". Follow the links below for more details.
