@@ -132,7 +132,7 @@ layout: default
           <img src="images/team/andydavis.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Andrew Davis</a></h4>
+            <h4><a href="https://andyddavis.github.io/index.html" target="_blank">Andrew Davis</a></h4>
             <div class="card-desription">
               <p>Postdoctoral Research Scientist, Courant Institute, NYU</p>
             </div>
