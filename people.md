@@ -128,7 +128,7 @@ layout: default
     </td>
     <td> <!-- Andrew Davis -->
         <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <a href="https://andyddavis.github.io/index.html" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/andydavis.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
