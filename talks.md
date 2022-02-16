@@ -3,6 +3,10 @@ title: Talks
 layout: default
 ---
 
+## 2022
+
+- Gupta, M., Thompson A.F., Los Alamos National Laboratory: Climate, Ocean and Sea Ice Modeling (January 2022), Melting dynamics of Lagrangian sea-ice floes: ice/ocean coupling at the sub-mesoscales
+
 ## 2021
 
 - Davis, A.D., Giannakis, D., Stadler, G., Stechmann, S., and Manucharyan, G., [Scientific Computing Seminar](https://duscicomp.github.io/events/seminar_series/), Durham University (Feb. 2021), Super-parameterized numerical methods for the Boltzmann equation modeling Arctic sea ice dynamics
