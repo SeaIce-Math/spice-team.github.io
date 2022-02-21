@@ -260,19 +260,6 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Kalyan Shrestha -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/shrestha.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Washington</p>
-            </div>
-          </div>
-        </div>
-    </td>
   </tr>
 </table>
 
@@ -292,6 +279,19 @@ layout: default
             <h4><a href="https://www.gfdl.noaa.gov/mitch-bushuk/" target="_blank">Mitch Bushuk</a></h4>
             <div class="card-desription">
               <p>Research Scientist, GFDL, Princeton</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Kalyan Shrestha -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/shrestha.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, University of Washington</p>
             </div>
           </div>
         </div>
