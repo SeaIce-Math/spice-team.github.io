@@ -219,6 +219,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Mukund Gupta -->
         <div class="card" style="width: 10rem;">
           <a href="https://eapsweb.mit.edu/people/guptam" title="" class="card-image hover-overlay" target="_blank">
@@ -232,8 +234,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
     <td> <!-- Brandon Montemuro -->
         <div class="card" style="width: 10rem;">
           <a href="https://www.ocean.washington.edu/home/Brandon_Montemuro" title="" class="card-image hover-overlay" target="_blank">
