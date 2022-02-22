@@ -26,13 +26,14 @@ layout: default
 
 - Moon, W., G. E. Manucharyan, H. A. Dijkstra (2021). Baroclinic instability and large-scale wave propagation on planetary-scale atmosphere. *Quarterly Journal of the Royal Meteorological Society*. In review.
 
+- Chen, N., S. Fu, G. E. Manucharyan (2021). An efficient and statistically accurate lagrangian data assimilation algorithm with applications to discrete element sea ice models. In minor revision. [[link](https://arxiv.org/abs/2108.00855)]
+
 
 ## 2022
 
 
 ## 2021
 
-- Chen, N., S. Fu, G. E. Manucharyan (2021). An efficient and statistically accurate lagrangian data assimilation algorithm with applications to discrete element sea ice models. In minor revision. [[link](https://arxiv.org/abs/2108.00855)]
 
 - Chen, N., S. Fu, G. E. Manucharyan (2021). Lagrangian data assimilation and parameter estimation of a simple sea ice discrete element model. *Journal of Advances in Modeling Earth Systems* 13(10), e2021MS002513. [[link](https://doi.org/10.1029/2021MS002513)]
 
