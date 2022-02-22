@@ -6,10 +6,6 @@ layout: default
 
 - Chen, N., Q. Deng, S. N. Stechmann (2021). Lagrangian data assimilation and uncertainty quantification for sea ice floes with efficient superfloe parameterization. In revision. [[link](https://arxiv.org/abs/2105.13569)]
 
-- Chen, N., S. Fu, G. E. Manucharyan (2021). An efficient and statistically accurate lagrangian data assimilation algorithm with applications to discrete element sea ice models. In minor revision. [[link](https://arxiv.org/abs/2108.00855)]
-
-- Chen, N., S. Fu, G. E. Manucharyan (2021). Lagrangian data assimilation and parameter estimation of a simple sea ice discrete element model. *Journal of Advances in Modeling Earth Systems* 13(10), e2021MS002513. [[link](https://doi.org/10.1029/2021MS002513)]
-
 - Davis, A. D., D. Giannakis (2021). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. In review. [[link](https://arxiv.org/abs/2104.15124)]
 
 - Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.  
@@ -30,7 +26,15 @@ layout: default
 
 - Moon, W., G. E. Manucharyan, H. A. Dijkstra (2021). Baroclinic instability and large-scale wave propagation on planetary-scale atmosphere. *Quarterly Journal of the Royal Meteorological Society*. In review.
 
+
+## 2022
+
+
 ## 2021
+
+- Chen, N., S. Fu, G. E. Manucharyan (2021). An efficient and statistically accurate lagrangian data assimilation algorithm with applications to discrete element sea ice models. In minor revision. [[link](https://arxiv.org/abs/2108.00855)]
+
+- Chen, N., S. Fu, G. E. Manucharyan (2021). Lagrangian data assimilation and parameter estimation of a simple sea ice discrete element model. *Journal of Advances in Modeling Earth Systems* 13(10), e2021MS002513. [[link](https://doi.org/10.1029/2021MS002513)]
 
 - Giddy, I., S. Swart, A. F. Thompson, M. duPlessis, S.A. Nicholson (2021). Stirring of sea ice meltwater enhances submesoscale fronts in the Southern Ocean. *Journal of Geophysical Research*, 126, e2020JC016814. [[link](https://doi.org/10.1029/2020JC016814)] 
 
