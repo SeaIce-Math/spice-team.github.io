@@ -3,6 +3,8 @@ title: Talks
 layout: default
 ---
 
+Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFkuBe5bgtA)!
+
 ## 2022
 
 - Gupta, M., Thompson A.F., Los Alamos National Laboratory: Climate, Ocean and Sea Ice Modeling (January 2022), Melting dynamics of Lagrangian sea-ice floes: ice/ocean coupling at the sub-mesoscales
