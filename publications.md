@@ -28,7 +28,7 @@ layout: default
 
 ## 2022
 
-- Chen, N., S. Fu, G. E. Manucharyan (2022). An efficient and statistically accurate Lagrangian data assimilation algorithm with applications to discrete element sea ice models, Journal of Computational Physics 455 (2022): 111000. [[link](https://arxiv.org/abs/2108.00855)]
+- Chen, N., S. Fu, G. E. Manucharyan (2022). An efficient and statistically accurate Lagrangian data assimilation algorithm with applications to discrete element sea ice models, Journal of Computational Physics 455 (2022): 111000. [[link](https://www.sciencedirect.com/science/article/pii/S0021999122000626)] [[ArXiv](https://arxiv.org/abs/2108.00855)]
 
 ## 2021
 
