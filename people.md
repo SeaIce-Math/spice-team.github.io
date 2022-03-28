@@ -36,7 +36,7 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Monica Martinez Wilhelmus-->
+    <td> <!-- Monica Martinez Wilhelmus -->
        <div class="card" style="width: 10rem;">
           <a href="https://engineering.brown.edu/people/monica-martinez-wilhelmus" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/MonicaMartinez.jpg" alt="" class="img-responsive">
