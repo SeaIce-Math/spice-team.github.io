@@ -39,7 +39,7 @@ layout: default
     <td> <!-- Monica Martinez Wilhelmus -->
        <div class="card" style="width: 10rem;">
           <a href="https://engineering.brown.edu/people/monica-martinez-wilhelmus" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/MonicaMartinez.jpg" alt="" class="img-responsive">
+          <img src="images/team/MonicaMartinez.png" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="https://engineering.brown.edu/people/monica-martinez-wilhelmus" target="_blank">Monica Martinez Wilhelmus</a></h4>
