@@ -42,7 +42,7 @@ layout: default
           <img src="images/team/MonicaMartinez.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="https://engineering.brown.edu/people/monica-martinez-wilhelmus" target="_blank">Georgy Manucharyan</a></h4>
+            <h4><a href="https://engineering.brown.edu/people/monica-martinez-wilhelmus" target="_blank">onica Martinez Wilhelmus</a></h4>
             <div class="card-desription">
               <p>Assistant Professor, Brown University</p>
             </div>
