@@ -36,6 +36,19 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Monica Martinez Wilhelmus-->
+       <div class="card" style="width: 10rem;">
+          <a href="https://engineering.brown.edu/people/monica-martinez-wilhelmus" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/MonicaMartinez.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://engineering.brown.edu/people/monica-martinez-wilhelmus" target="_blank">Georgy Manucharyan</a></h4>
+            <div class="card-desription">
+              <p>Assistant Professor, Brown University</p>
+            </div>
+          </div>
+        </div>
+    </td>
     <td> <!-- Georgy Manucharyan -->
        <div class="card" style="width: 10rem;">
           <a href="https://www.ocean.washington.edu/home/Georgy%20Manucharyan" title="" class="card-image hover-overlay" target="_blank">
