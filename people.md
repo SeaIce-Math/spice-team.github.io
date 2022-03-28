@@ -12,13 +12,13 @@ layout: default
   <tr>
     <td> <!-- Dimitris Giannakis -->
         <div class="card" style="width: 10rem;">
-          <a href="https://cims.nyu.edu/~dimitris/" title="" class="card-image hover-overlay" target="_blank">
+          <a href="https://giannakis.host.dartmouth.edu" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/dimitris_small.png" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="https://cims.nyu.edu/~dimitris/" target="_blank">Dimitris Giannakis</a></h4>
+            <h4><a href="https://giannakis.host.dartmouth.edu" target="_blank">Dimitris Giannakis</a></h4>
             <div class="card-desription">
-              <p>Associate Professor, Courant Institute, NYU</p>
+              <p>Professor, Dartmouth College</p>
             </div>
           </div>
         </div>
