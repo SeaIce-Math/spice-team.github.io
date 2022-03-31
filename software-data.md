@@ -18,7 +18,7 @@ layout: default
 
 ### Sea-Ice Floe Segmentation Products
 
-These products are derived from high-resolution optical images acquired over the Arctic Canada Basin and disseminated by the United States Geological Survey Global Fiducials Library [(https://www.usgs.gov/core-science-systems/nli/global-fiducials-library)](https://www.usgs.gov/core-science-systems/nli/global-fiducials-library). They contain individually identified sea-ice floes; various floe properties may easily be retrieved from them, including floe number, area, diameter, and shape (area is provided with the products already). For a full description of the products, see Denton and Timmermans (2021, [preprint](https://doi.org/10.5194/tc-2021-368)). The products are available at https://doi.org/10.5281/zenodo.6341620.
+These products are derived from high-resolution optical images acquired over the Arctic Canada Basin and disseminated by the United States Geological Survey Global Fiducials Library [(https://www.usgs.gov/core-science-systems/nli/global-fiducials-library)](https://www.usgs.gov/core-science-systems/nli/global-fiducials-library). They contain individually identified sea-ice floes; various floe properties may easily be retrieved from them, including floe number, area, diameter, and shape (area is provided with the products already). For a full description of the products, see Denton and Timmermans (2021, [preprint](https://doi.org/10.5194/tc-2021-368)). The products are available at [https://doi.org/10.5281/zenodo.6341620](https://doi.org/10.5281/zenodo.6341620).
 
 A preview of the products is provided below.
 
