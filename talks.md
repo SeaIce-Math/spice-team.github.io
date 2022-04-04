@@ -12,6 +12,8 @@ Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFk
 ## 2021
 
 - Davis, A.D., Giannakis, D., Stechmann, S., and Stadler G., [American Geophysical Union](https://www.agu.org/Fall-Meeting), (Dec. 2021), Generalization of hydrodynamic sea ice dynamics using kinetic theory and the Boltzmann equation 
+- Denton, A.D. and Timmermans, M.-L., [Society for Industrial and Applied Mathematics Annual Meeting 2021](https://www.siam.org/Portals/0/Conferences/AN/AN21/SIAM_2021_PROGRAM_abstracts_V2_INTERACTIVE.PDF), (July 2021), Characterizing the Sea-Ice Floe Size Distribution
+Across a Range of Settings from High-Resolution Optical Satellite Imagery
 - Dinh H., Giannakis, D., Stadler, G., and Slawinska, J., [American Geophysical Union](https://www.agu.org/Fall-Meeting), (Dec. 2021), Machine Learning on Phase-Field Models of Sea Ice Fracture
 - Davis, A.D., Giannakis, D., Stadler, G., Stechmann, S., and Manucharyan, G., [Scientific Computing Seminar](https://duscicomp.github.io/events/seminar_series/), Durham University (Feb. 2021), Super-parameterized numerical methods for the Boltzmann equation modeling Arctic sea ice dynamics
 - Giannakis, D., Davis, A.D., Stadler, G., Stechmann, S., and Manucharyan, G., CalTech (Jan. 2021), Kinetic Theory for Superparameterization of Sea Ice Dynamics
