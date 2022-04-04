@@ -16,19 +16,20 @@ layout: default
 
 - Gupta, M., A. F. Thompson, G. E. Manucharyan (2021). Ocean-sea ice floe coupling in a high resolution LES model. In preparation.
 
-- Manucharyan, G. E., R. Lopez, M. Martinez (2021). Spinning sea ice floes reveal emerging mesoscale turbulence in the Arctic Ocean. In preparation.
+- Manucharyan, G. E., B. P. Montemuro (2021). SubZero -- Sea ice model with an explicit representation of a floe life cycle. In preparation.
 
-- Manucharyan, G. E., B. P. Montemuro (2021). SubZero -- Sea ice model with an explicit representation of a floe life cycle. Part 1: Model formulation. In preparation.
-
-- Manucharyan, G. E., A. F. Thompson (2020). Heavy footprints of upper-ocean eddies on weakened Arctic sea ice in marginal ice zones. In revision.
-
-- Moon, W., G. E. Manucharyan, H. A. Dijkstra (2021). Downward propagation of planetary-scale atmospheric waves induced by eddy memory effects. *Quarterly Journal of the Royal Meteorological Society*. In review.
-
-- Moon, W., G. E. Manucharyan, H. A. Dijkstra (2021). Baroclinic instability and large-scale wave propagation on planetary-scale atmosphere. *Quarterly Journal of the Royal Meteorological Society*. In review.
 
 ## 2022
 
 - Chen, N., S. Fu, G. E. Manucharyan (2022). An efficient and statistically accurate Lagrangian data assimilation algorithm with applications to discrete element sea ice models, Journal of Computational Physics 455 (2022): 111000. [[link](https://www.sciencedirect.com/science/article/pii/S0021999122000626)] [[ArXiv](https://arxiv.org/abs/2108.00855)]
+
+- Manucharyan, G. E., R. Lopez, M. Martinez (2022). Spinning sea ice floes reveal emerging mesoscale turbulence in the Arctic Ocean.  Scientific Reports (accepted).
+
+- Manucharyan, G. E., A. F. Thompson (2022). Heavy footprints of upper-ocean eddies on weakened Arctic sea ice in marginal ice zones. Nature Communications (accepted).
+
+- Moon, W., Manucharyan, G. E., & Dijkstra, H. A. (2022). Baroclinic instability and large‐scale wave propagation on planetary‐scale atmosphere. Quarterly Journal of the Royal Meteorological Society.
+
+
 
 ## 2021
 
