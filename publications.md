@@ -10,7 +10,7 @@ layout: default
 
 - Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.  
 
-- Denton, A. A. and Timmermans, M.-L. (2021). Characterizing the sea-ice floe size distribution in the Canada Basin from high-resolution optical satellite imagery. *The Cryosphere Discuss*. [[preprint](https://doi.org/10.5194/tc-2021-368)]. In review for publication in *The Cryosphere*.
+- Denton, A. A. and Timmermans, M.-L. (2021). Characterizing the sea-ice floe size distribution in the Canada Basin from high-resolution optical satellite imagery. *The Cryosphere Discuss*. [[preprint](https://doi.org/10.5194/tc-2021-368)]. Accepted for publication in *The Cryosphere*.
 
 - Dinh, H. B., D. Giannakis, G. Stadler, J. Slawinska (2022). Phase-field model of floe scale fracture. In preparation.  
 
