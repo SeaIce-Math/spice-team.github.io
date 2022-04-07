@@ -25,3 +25,7 @@ A preview of the products is provided below.
 <img src="/images/sea_ice_floe_products/display_miz01a628560aws01_20140424_m_fr_bwthresh045_strel1_20e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
 <img src="/images/sea_ice_floe_products/display_miz02a620250aws02_20140424_m_fr_bwthresh05_strel1_25e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
 <img src="/images/sea_ice_floe_products/display_miz03a827060aws03_20140424_m_fr_bwthresh05_strel1_20e_halfstep_labeled_rgb.png" alt="" class="img-responsive">
+
+### Library of sea ice floe remote sensing observations in the Beaufort Sea Marginal Ice Zone
+
+These products contain a collection of geometrical and kinematic sea ice floe measurements for the analysis in the paper, "Spinning sea ice floes reveal emerging mesoscale turbulence in the Arctic Ocean" (accpeted to PNAS). These observations were retrieved from processed MODIS imagery using our Ice Floe Tracking algorithm. For a full description of the products, see " "Ice Floe Tracker: An algorithm to automatically retrieve Lagrangian trajectories via feature matching from moderate-resolution visual imagery" [(Lopez-Acosta et al., 2019)](https://www.sciencedirect.com/science/article/abs/pii/S0034425719304250). The products are available at [https://zenodo.org/record/4796845#.Ykxp0ujMIuV](https://zenodo.org/record/4796845#.Ykxp0ujMIuV)

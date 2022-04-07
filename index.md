@@ -18,6 +18,7 @@ This project brings together researchers from Applied Mathematics,
 Atmospheric, Oceanic and Cryospheric Sciences, and Computational
 Science from several institutions:
 
+- Brown University
 - Courant Institute, New York University
 - California Institute of Technology
 - University of Washington

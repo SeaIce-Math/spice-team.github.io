@@ -7,11 +7,17 @@ Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFk
 
 ## 2022
 
-- Gupta, M., Thompson A.F., Los Alamos National Laboratory: Climate, Ocean and Sea Ice Modeling (January 2022), Melting dynamics of Lagrangian sea-ice floes: ice/ocean coupling at the sub-mesoscales
+- Wilhelmus, M.M., Lopez-Acosta, R., and Manucharyan, G., MIT (Mar. 2021), Tracing the New Arctic
+- Wilhelmus, M.M., Lopez-Acosta, R., Hutchings, J., and Bliss, A., [Bulletin of the Ocean Sciences Meeting](https://osm2022.secure-platform.com/a) (Feb. 2022), Retrieving the characteristics of oceanic turbulence from sea ice dispersion metrics
+- Covington, J., Chen, N., Wilhelmus, M.M., and Lopez-Acosta, R., [Bulletin of the Ocean Sciences Meeting](https://osm2022.secure-platform.com/a) (Feb. 2022), Estimating missing observations of ice floes using data assimilation
+- Manucharyan, G., Lopez-Acosta, R., and Wilhelmus, M.M., [Bulletin of the Ocean Sciences Meeting](https://osm2022.secure-platform.com/a) (Feb. 2022), Spinning ice floes reveal intensication of mesoscale eddies in the western Arctic Ocean
+- Gupta, M., Thompson A.F., Los Alamos National Laboratory: Climate, Ocean and Sea Ice Modeling (Jan. 2022), Melting dynamics of Lagrangian sea-ice floes: ice/ocean coupling at the sub-mesoscales
 
 ## 2021
 
-- Davis, A.D., Giannakis, D., Stechmann, S., and Stadler G., [American Geophysical Union](https://www.agu.org/Fall-Meeting), (Dec. 2021), Generalization of hydrodynamic sea ice dynamics using kinetic theory and the Boltzmann equation 
+- Davis, A.D., Giannakis, D., Stechmann, S., and Stadler G., [American Geophysical Union](https://www.agu.org/Fall-Meeting), (Dec. 2021), Generalization of hydrodynamic sea ice dynamics using kinetic theory and the Boltzmann equation
+- Lopez, R. and Wilhelmus, M.M., [Bulletin of the American Physical Society Division of Fluid Dynamics 74th Annual Meeting](https://meetings.aps.org/Meeting/DFD21/Session/F30.2), (Nov. 2021), Sea ice dispersion mirrors underlying submesoscale ocean currentsamid strong atmospheric forcing
+- Wilhelmus, M.M., Lopez-Acosta, R., and Manucharyan, G., CalTech (Oct. 2021), Tracing the New Arctic
 - Denton, A.D. and Timmermans, M.-L., [Society for Industrial and Applied Mathematics Annual Meeting 2021](https://www.siam.org/Portals/0/Conferences/AN/AN21/SIAM_2021_PROGRAM_abstracts_V2_INTERACTIVE.PDF), (July 2021), Characterizing the Sea-Ice Floe Size Distribution
 Across a Range of Settings from High-Resolution Optical Satellite Imagery
 - Dinh H., Giannakis, D., Stadler, G., and Slawinska, J., [American Geophysical Union](https://www.agu.org/Fall-Meeting), (Dec. 2021), Machine Learning on Phase-Field Models of Sea Ice Fracture

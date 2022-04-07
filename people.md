@@ -126,6 +126,19 @@ layout: default
   <col width="200"/>
   <col width="200"/>
   <tr>
+    <td> <!-- Ashfaq Ahmed -->
+	<div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Ashfaq.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Ashfaq Ahmed</a></h4>
+            <div class="card-desription">
+              <p>Graduate Student, Brown University </p>
+            </div>
+          </div>
+        </div>
+    </td>  
     <td> <!-- Jeff Covington -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -165,6 +178,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Alexis Anne Denton -->
         <div class="card" style="width: 10rem;">
           <a href="" title="https://people.earth.yale.edu/profile/alexis-denton/about" class="card-image hover-overlay" target="_blank">
@@ -177,9 +192,7 @@ layout: default
             </div>
           </div>
         </div>
-    </td>
-  </tr>
-  <tr>
+    </td>  
     <td> <!-- Huy Dinh -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -219,19 +232,6 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Jiuhua Hu -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/JiuhuaHu.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Jiuhua Hu</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
-            </div>
-          </div>
-        </div>
-    </td>
   </tr>
   <tr>
     <td> <!-- Mukund Gupta -->
@@ -247,6 +247,47 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Simon Hatcher -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Simon.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Simon Hatcher</a></h4>
+            <div class="card-desription">
+              <p>Undergraduate Student Researcher, Brown University</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Jiuhua Hu -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/JiuhuaHu.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Jiuhua Hu</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Minki Kim -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Minki.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Minki Kim</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, Brown University</p>
+            </div>
+          </div>
+        </div>
+    </td>
+  </tr>
+  <tr>
     <td> <!-- Brandon Montemuro -->
         <div class="card" style="width: 10rem;">
           <a href="https://www.ocean.washington.edu/home/Brandon_Montemuro" title="" class="card-image hover-overlay" target="_blank">
@@ -273,6 +314,19 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Benjamin Newcomb -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Benjamin.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Benjamin Newcomb</a></h4>
+            <div class="card-desription">
+              <p>Undergraduate Student Researcher, Brown University</p>
+            </div>
+          </div>
+        </div>
+    </td>    
   </tr>
 </table>
 
