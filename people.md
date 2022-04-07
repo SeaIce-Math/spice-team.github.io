@@ -129,7 +129,7 @@ layout: default
     <td> <!-- Ashfaq Ahmed -->
 	<div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Ashfaq.png" alt="" class="img-responsive">
+          <img src="images/team/Ashfaq.jpeg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Ashfaq Ahmed</a></h4>
@@ -250,7 +250,7 @@ layout: default
     <td> <!-- Simon Hatcher -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Simon.jpg" alt="" class="img-responsive">
+          <img src="images/team/Simon.JPG" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Simon Hatcher</a></h4>
@@ -317,7 +317,7 @@ layout: default
     <td> <!-- Benjamin Newcomb -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Benjamin.jpg" alt="" class="img-responsive">
+          <img src="images/team/Benjamin.png" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Benjamin Newcomb</a></h4>
