@@ -22,7 +22,7 @@ These products are derived from high-resolution optical images acquired over the
 
 A preview of the products is provided below.
 
-<img src="/images/sea_ice_floe_products/display_miz02a620250aws02_20140424_m_fr_bwthresh05_strel1_25e_halfstep_labeled_rgb.png" alt="" width="50%" class="center">
+<center><img src="/images/sea_ice_floe_products/display_miz02a620250aws02_20140424_m_fr_bwthresh05_strel1_25e_halfstep_labeled_rgb.png" alt="" width="50%"></center>
 
 ### Library of sea ice floe remote sensing observations in the Beaufort Sea Marginal Ice Zone
 
