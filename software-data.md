@@ -30,7 +30,7 @@ These products contain a collection of geometrical and kinematic sea ice floe me
 
 ### SOIT: Satellite Overpass Identification Tool
 
-The Satellite Overpass Identification Tool (SOIT) is a Python-based program for identifying the daytime overpass time of the Aqua and Terra satellites closest to a point of interest for a given range of dates. Using [Skyfield](https://rhodesmill.org/skyfield/) (an existing Python orbital mechanics package) and [Space-Track.org](https://www.space-track.org/) (an online source of satellite data), the program determines the precise overpass times for Aqua and Terra. The algorithm can be easily modified to retrieve data for other satellites.
+The Satellite Overpass Identification Tool (SOIT) is a Python-based program for identifying the daytime overpass time of the Aqua and Terra satellites closest to a point of interest for a given range of dates. Using [Skyfield](https://rhodesmill.org/skyfield/) (an existing Python orbital mechanics package) and [Space-Track.org](https://www.space-track.org/) (an online source of satellite data), the program determines the precise overpass times for Aqua and Terra. The algorithm can be easily modified to retrieve data for other satellites. The products are available at [https://zenodo.org/record/6475619#.YmFw9NrMKUk](https://zenodo.org/record/6475619#.YmFw9NrMKUk)_
 
 An example of the products is provided below.
 
