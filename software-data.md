@@ -34,15 +34,17 @@ The Satellite Overpass Identification Tool (SOIT) is a Python-based program for 
 
 An example of the products is provided below.
 
-[Input configuration]
+<b>[Input configuration]</b>
+
 start date = 04/01/2021
 end date = 04/02/2021
 latitude of interest = 72
 longitude of interest = -18
 
-[Output]
+<b>[Output]</b>
+
 Acquired satellite overpass time: (Aqua) 13:08:03 (Terra) 12:47:55
 
 For comparison, this is the information that can be found in EOSDIS:
 
-<center><img src="/images/SOIT_products/SOIT_EOSDIS.png" alt"" width="90%"></center>
+<center><img src="/images/SOIT_products/SOIT_EOSDIS.png" alt"" width="30%"></center>
