@@ -50,4 +50,4 @@ Acquired satellite overpass time = (Aqua) 13:08:03 (Terra) 12:47:55
 
 For comparison, this is the information that can be found in EOSDIS:
 
-<center><img src="/images/SOIT_products/SOIT_EOSDIS.png" alt"" width="30%"></center>
+<center><img src="/images/SOIT_products/SOIT_EOSDIS.png" alt="" width="30%"></center>
