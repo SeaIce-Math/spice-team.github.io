@@ -5,7 +5,7 @@ layout: default
 ## Submitted/In preparation:
 
 - Gupta, M., A.F. Thompson (2022).  Regimes of sea-ice floe melt:
-ice-ocean coupling at the submesoscales, submitted.
+ice-ocean coupling at the submesoscales, **Journal of Geophysical Research**, submitted.
 
 - Covington, J., N. Chen, M.M. Wilhelmus (2022). Bridging Gaps in the Climate
   Observation Network: A Physics-based Nonlinear Dynamical
@@ -14,11 +14,11 @@ ice-ocean coupling at the submesoscales, submitted.
 
 - Chen, N., Q. Deng, S. N. Stechmann (2021). Lagrangian data assimilation and uncertainty quantification for sea ice floes with efficient superfloe parameterization. In revision. [[link](https://arxiv.org/abs/2105.13569)]
 
-- Chen, N., Q. Deng, S.N. Stechmann (2021). Superfloe Parameterization with Physics Constraints for Uncertainty Quantification of Sea Ice Floes, Submitted.
+- Chen, N., Q. Deng, S.N. Stechmann (2021). Superfloe Parameterization with Physics Constraints for Uncertainty Quantification of Sea Ice Floes, **SIAM/ASA Journal of Uncertainty Quantification**, in minor revision.
 
-- Davis, A. D., D. Giannakis (2021). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. In review. [[link](https://arxiv.org/abs/2104.15124)]
+- Davis, A. D., D. Giannakis (2021). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. **Calcolo**, in minor revision. [[link](https://arxiv.org/abs/2104.15124)]
 
-- Shih, Y, C. Mehlmann, M. Losch, G. Stadler, Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, In review.
+- Shih, Y, C. Mehlmann, M. Losch, G. Stadler, Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Comutational Physics**, in review.
 [[link](https://arxiv.org/abs/2204.10822)]
 
 - Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.  
