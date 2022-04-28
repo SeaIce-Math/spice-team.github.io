@@ -26,7 +26,7 @@ layout: default
 
 - Chen, N., S. Fu, G. E. Manucharyan (2022). An efficient and statistically accurate Lagrangian data assimilation algorithm with applications to discrete element sea ice models, **Journal of Computational Physics** 455 (2022): 111000. [[link](https://www.sciencedirect.com/science/article/pii/S0021999122000626)] [[ArXiv](https://arxiv.org/abs/2108.00855)]
 
-- Manucharyan, G. E., R. Lopez, M. Martinez (2022). Spinning sea ice floes reveal emerging mesoscale turbulence in the Arctic Ocean.  Scientific Reports (accepted).
+- Manucharyan, G. E., R. Lopez, M. Martinez (2022). Spinning sea ice floes reveal emerging mesoscale turbulence in the Arctic Ocean.  **Scientific Reports** (to appear).
 
 - Manucharyan, G. E., A. F. Thompson (2022). Heavy footprints of upper-ocean eddies on weakened Arctic sea ice in marginal ice zones. **Nature Communications** 13 (2147), [ [link](https://www.nature.com/articles/s41467-022-29663-0) ].
 
