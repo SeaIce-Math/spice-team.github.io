@@ -4,7 +4,17 @@ layout: default
 ---
 ## Submitted/In preparation:
 
+- Gupta, M., A.F. Thompson (2022).  Regimes of sea-ice floe melt:
+ice-ocean coupling at the submesoscales, submitted.
+
+- Covington, J., N. Chen, M.M. Wilhelmus (2022). Bridging Gaps in the Climate
+  Observation Network: A Physics-based Nonlinear Dynamical
+  Interpolation of Lagrangian Ice Floe Measurements via Data-Driven
+  Stochastic Models, submitted.
+
 - Chen, N., Q. Deng, S. N. Stechmann (2021). Lagrangian data assimilation and uncertainty quantification for sea ice floes with efficient superfloe parameterization. In revision. [[link](https://arxiv.org/abs/2105.13569)]
+
+- Chen, N., Q. Deng, S.N. Stechmann (2021). Superfloe Parameterization with Physics Constraints for Uncertainty Quantification of Sea Ice Floes, Submitted.
 
 - Davis, A. D., D. Giannakis (2021). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. In review. [[link](https://arxiv.org/abs/2104.15124)]
 
@@ -15,9 +25,12 @@ layout: default
 
 - Denton, A. A. and Timmermans, M.-L. (2022). Characterizing the sea-ice floe size distribution in the Canada Basin from high-resolution optical satellite imagery. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/tc-2021-368)]. Accepted for publication in **The Cryosphere**.
 
-- Dinh, H. B., D. Giannakis, G. Stadler, J. Slawinska (2022). Phase-field model of floe scale fracture. In preparation.  
+- Dinh, H. B., D. Giannakis, G. Stadler, J. Slawinska (2022). Phase-field model of floe scale fracture. In preparation.
 
 - Gupta, M., A. F. Thompson, G. E. Manucharyan (2021). Ocean-sea ice floe coupling in a high resolution LES model. In preparation.
+
+- Taylor, J.R., A.F. Thompson (2022) Submesoscales in the upper ocean.
+  **Ann. Rev. Fluid Mech.** (in revision).
 
 - Manucharyan, G. E., B. P. Montemuro (2021). SubZero -- Sea ice model with an explicit representation of a floe life cycle. In preparation.
 
