@@ -28,7 +28,7 @@ layout: default
 
 - Manucharyan, G. E., R. Lopez, M. Martinez (2022). Spinning sea ice floes reveal emerging mesoscale turbulence in the Arctic Ocean.  Scientific Reports (accepted).
 
-- Manucharyan, G. E., A. F. Thompson (2022). Heavy footprints of upper-ocean eddies on weakened Arctic sea ice in marginal ice zones. Nature Communications (accepted).
+- Manucharyan, G. E., A. F. Thompson (2022). Heavy footprints of upper-ocean eddies on weakened Arctic sea ice in marginal ice zones. Nature Communications 13 (2147), [ [link](https://www.nature.com/articles/s41467-022-29663-0) ].
 
 - Moon, W., Manucharyan, G. E., & Dijkstra, H. A. (2022). Baroclinic instability and large‐scale wave propagation on planetary‐scale atmosphere. Quarterly Journal of the Royal Meteorological Society.
 
