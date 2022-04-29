@@ -10,9 +10,7 @@ ice-ocean coupling at the submesoscales, **Journal of Geophysical Research**, su
 - Covington, J., N. Chen, M.M. Wilhelmus (2022). Bridging Gaps in the Climate
   Observation Network: A Physics-based Nonlinear Dynamical
   Interpolation of Lagrangian Ice Floe Measurements via Data-Driven
-  Stochastic Models, submitted.
-
-- Chen, N., Q. Deng, S. N. Stechmann (2021). Lagrangian data assimilation and uncertainty quantification for sea ice floes with efficient superfloe parameterization. In revision. [[link](https://arxiv.org/abs/2105.13569)]
+  Stochastic Models. **NPJ Climate and Atmospheric Science**, submitted.
 
 - Chen, N., Q. Deng, S.N. Stechmann (2021). Superfloe Parameterization with Physics Constraints for Uncertainty Quantification of Sea Ice Floes, **SIAM/ASA Journal of Uncertainty Quantification**, in minor revision.
 
