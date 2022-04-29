@@ -165,21 +165,6 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Quanling Deng -->
-        <div class="card" style="width: 10rem;">
-          <a href="https://www.math.wisc.edu/~qdeng37/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/QuanlingDeng.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://www.math.wisc.edu/~qdeng37/" target="_blank">Quanling Deng</a></h4>
-            <div class="card-desription">
-              <p>Visiting Assistant Professor, University of Wisconsin–Madison</p>
-            </div>
-          </div>
-        </div>
-    </td>
-  </tr>
-  <tr>
     <td> <!-- Alexis Anne Denton -->
         <div class="card" style="width: 10rem;">
           <a href="" title="https://people.earth.yale.edu/profile/alexis-denton/about" class="card-image hover-overlay" target="_blank">
@@ -193,6 +178,8 @@ layout: default
           </div>
         </div>
     </td>  
+  </tr>
+  <tr>	
     <td> <!-- Huy Dinh -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -214,7 +201,7 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Kangqi Fu</a></h4>
             <div class="card-desription">
-              <p>Undergraduate Student Researcher, University of Wisconsin-Madison</p>
+              <p>Graduate Student Student, Courant Institue, NYU</p>
             </div>
           </div>
         </div>
@@ -232,8 +219,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
     <td> <!-- Mukund Gupta -->
         <div class="card" style="width: 10rem;">
           <a href="https://eapsweb.mit.edu/people/guptam" title="" class="card-image hover-overlay" target="_blank">
@@ -247,6 +232,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Simon Hatcher -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -286,8 +273,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
     <td> <!-- Brandon Montemuro -->
         <div class="card" style="width: 10rem;">
           <a href="https://www.ocean.washington.edu/home/Brandon_Montemuro" title="" class="card-image hover-overlay" target="_blank">
@@ -301,6 +286,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Changhong Mou -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -340,8 +327,6 @@ layout: default
           </div>
         </div>
     </td>
-</tr>
-<tr>
     <td> <!-- Ryan Vaughn -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -355,6 +340,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Elizabeth Bailey -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -394,8 +381,6 @@ layout: default
           </div>
         </div>
     </td>
-</tr>
-<tr>
     <td> <!-- Amy Rhee -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -409,6 +394,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Karun Ram -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -436,6 +423,72 @@ layout: default
         </div>
     </td>
 </tr>
+</table>
+
+
+## Almuns
+
+<table class="fixed">
+  <col width="200"/>
+  <col width="200"/>
+  <col width="200"/>
+  <tr>
+    <td> <!-- Kangqi Fu -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Kangqi.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Kangqi Fu</a></h4>
+            <div class="card-desription">
+              <p>(Former Undergraduate Student Researcher, University of Wisconsin-Madison)</p>
+	      <p>Graduate Student Student, Courant Institue, NYU</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Shuddho Das -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picDas.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Shuddho Das</a></h4>
+            <div class="card-desription">
+              <p>(Former Postdoctoal Research Scientist, Courant Institute, NYU)</p>
+              <p>Assistant Professor, Texas Tech University</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Quanling Deng -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picDeng.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Quanling Deng</a></h4>
+            <div class="card-desription">
+              <p>(Former Postdoctoal Research Scientist, University of Wisconsin-Madison)</p>
+              <p>Lecturer, Australian National University</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Rosalinda Lopez -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picLopez.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Rosalinda Lopez</a></h4>
+            <div class="card-desription">
+              <p>(Former Graduate Student, Universtiy of California Riverside)</p>
+            </div>
+          </div>
+        </div>
+    </td>
+  </tr>
 </table>
 
 ## External Collaborators
