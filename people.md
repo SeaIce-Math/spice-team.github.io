@@ -326,7 +326,115 @@ layout: default
             </div>
           </div>
         </div>
-    </td>    
+    </td>
+    <td> <!-- Kalyan Shrestha -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/shrestha.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, University of Washington</p>
+            </div>
+          </div>
+        </div>
+    </td>
+</tr>
+<tr>
+    <td> <!-- Ryan Vaughn -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picVaughn.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Ryan Vaughn</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, Courant Institute, NYU</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Elizabeth Bailey -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picBailey.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Elizabeth Bailey</a></h4>
+            <div class="card-desription">
+              <p>Graduate Student, Yale University</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Linkai Ma -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picMa.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Linkai Ma</a></h4>
+            <div class="card-desription">
+              <p>Undergraduate Student Researcher, Courant Institute, NYU</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Sean Mackin -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picMackin.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Sean Mackin</a></h4>
+            <div class="card-desription">
+              <p>Undergraduate Student Researcher, Courant Institute, NYU</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Amy Rhee -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picRhee2.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Amy Rhee</a></h4>
+            <div class="card-desription">
+              <p>Undergraduate Student Researcher, Courant Institute, NYU</p>
+            </div>
+          </div>
+        </div>
+    </td>
+</tr>
+<tr>
+    <td> <!-- Karun Ram -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picRam.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Karun Ram</a></h4>
+            <div class="card-desription">
+              <p>Undergraduate Student Researcher, Dartmouth College</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Melody Shih -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picShih.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Melody Shih/a></h4>
+            <div class="card-desription">
+              <p>Graduate Student Student, Courant Institute, NYU</p>
+            </div>
+          </div>
+        </div>
+    </td>
   </tr>
 </table>
 
@@ -346,19 +454,6 @@ layout: default
             <h4><a href="https://www.gfdl.noaa.gov/mitch-bushuk/" target="_blank">Mitch Bushuk</a></h4>
             <div class="card-desription">
               <p>Research Scientist, GFDL, Princeton</p>
-            </div>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Kalyan Shrestha -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/shrestha.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Washington</p>
             </div>
           </div>
         </div>
