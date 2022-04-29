@@ -394,6 +394,8 @@ layout: default
           </div>
         </div>
     </td>
+</tr>
+<tr>
     <td> <!-- Amy Rhee -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -407,8 +409,6 @@ layout: default
           </div>
         </div>
     </td>
-</tr>
-<tr>
     <td> <!-- Karun Ram -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
