@@ -428,14 +428,14 @@ layout: default
           <img src="images/team/picShih.png" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Melody Shih/a></h4>
+            <h4><a href="" target="_blank">Melody Shih></h4>
             <div class="card-desription">
               <p>Graduate Student Student, Courant Institute, NYU</p>
             </div>
           </div>
         </div>
     </td>
-  </tr>
+</tr>
 </table>
 
 ## External Collaborators
