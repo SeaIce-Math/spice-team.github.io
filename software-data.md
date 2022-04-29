@@ -28,6 +28,8 @@ A preview of the products is provided below.
 
 These products contain a collection of geometrical and kinematic sea ice floe measurements for the analysis in the paper, "Spinning sea ice floes reveal emerging mesoscale turbulence in the Arctic Ocean" (accpeted to Scientific Reports). These observations were retrieved from processed MODIS imagery using our Ice Floe Tracking algorithm. For a full description of the products, see " "Ice Floe Tracker: An algorithm to automatically retrieve Lagrangian trajectories via feature matching from moderate-resolution visual imagery" [(Lopez-Acosta et al., 2019)](https://www.sciencedirect.com/science/article/abs/pii/S0034425719304250). The products are available at [https://zenodo.org/record/4796845#.Ykxp0ujMIuV](https://zenodo.org/record/4796845#.Ykxp0ujMIuV)
 
+<center><img src="/images/Ice_floe_tracker_products/Ice_floe_tracker.png" alt="" width="80%"></center>
+
 ### SOIT: Satellite Overpass Identification Tool
 
 The Satellite Overpass Identification Tool (SOIT) is a Python-based program for identifying the daytime overpass time of the Aqua and Terra satellites closest to a point of interest for a given range of dates. Using [Skyfield](https://rhodesmill.org/skyfield/) (an existing Python orbital mechanics package) and [Space-Track.org](https://www.space-track.org/) (an online source of satellite data), the program determines the precise overpass times for Aqua and Terra. The algorithm can be easily modified to retrieve data for other satellites. The products are available at [https://zenodo.org/record/6475619#.YmFw9NrMKUk](https://zenodo.org/record/6475619#.YmFw9NrMKUk)_
