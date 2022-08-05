@@ -7,6 +7,7 @@ Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFk
 
 ## 2022
 
+- D. Quanling, [Superparameterisation of Arctic sea ice floes](https://maths.anu.edu.au/news-events/events/superparameterisation-arctic-sea-ice-floes) (Aug. 2022)
 - Wilhelmus, M.M., Lopez-Acosta, R., and Manucharyan, G., MIT (Mar. 2021), Tracing the New Arctic
 - Wilhelmus, M.M., Lopez-Acosta, R., Hutchings, J., and Bliss, A., [Bulletin of the Ocean Sciences Meeting](https://osm2022.secure-platform.com/a) (Feb. 2022), Retrieving the characteristics of oceanic turbulence from sea ice dispersion metrics
 - Covington, J., Chen, N., Wilhelmus, M.M., and Lopez-Acosta, R., [Bulletin of the Ocean Sciences Meeting](https://osm2022.secure-platform.com/a) (Feb. 2022), Estimating missing observations of ice floes using data assimilation
