@@ -7,7 +7,7 @@ Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFk
 
 ## 2022
 
-- Deng, Q., AMSI-AustMS Workshop on Mathematics of Sea Ice and Ice Sheets (Aug. 2022), [Superparameterisation of Arctic sea ice floes](https://maths.anu.edu.au/news-events/events/superparameterisation-arctic-sea-ice-floes) 
+- Deng, Q., ANU Mathematics and Computational Sciences Seminar (Aug. 2022), [Superparameterisation of Arctic sea ice floes](https://maths.anu.edu.au/news-events/events/superparameterisation-arctic-sea-ice-floes) 
 - Davis, A.D., Giannakis, D., Stechmann, S., and Stadler G., [European Congress on Computational Methods in Applied Sciences and Engineering](https://www.eccomas2022.org/frontal/default.asp) (June 2022), Generalization of hydrodynamic sea ice dynamics using kinetic theory and the Boltzmann equation
 - Wilhelmus, M.M., Lopez-Acosta, R., and Manucharyan, G., MIT (Mar. 2021), Tracing the New Arctic
 - Wilhelmus, M.M., Lopez-Acosta, R., Hutchings, J., and Bliss, A., [Bulletin of the Ocean Sciences Meeting](https://osm2022.secure-platform.com/a) (Feb. 2022), Retrieving the characteristics of oceanic turbulence from sea ice dispersion metrics
