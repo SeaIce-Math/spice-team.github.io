@@ -22,7 +22,8 @@ ice-ocean coupling at the submesoscales, **Journal of Geophysical Research**, su
 
 - Denton, A. A. and Timmermans, M.-L. (2022). Characterizing the sea-ice floe size distribution in the Canada Basin from high-resolution optical satellite imagery. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/tc-2021-368)]. Accepted for publication in **The Cryosphere**.
 
-- Dinh, H. B., D. Giannakis, G. Stadler, J. Slawinska (2022). Phase-field model of floe scale fracture. In preparation.
+- Dinh, H. B., D. Giannakis, G. Stadler, J. Slawinska (2022). Phase-field models of floe fracture in sea ice. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/egusphere-2022-790
+)].
 
 - Gupta, M., A. F. Thompson, G. E. Manucharyan (2021). Ocean-sea ice floe coupling in a high resolution LES model. In preparation.
 
