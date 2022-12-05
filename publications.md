@@ -14,15 +14,14 @@ ice-ocean coupling at the submesoscales, **Journal of Geophysical Research**, su
 
 - Chen, N., Q. Deng, S.N. Stechmann (2021). Superfloe Parameterization with Physics Constraints for Uncertainty Quantification of Sea Ice Floes, **SIAM/ASA Journal of Uncertainty Quantification**, in minor revision.
 
-- Davis, A. D., D. Giannakis (2021). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. **Calcolo**, in minor revision. [[link](https://arxiv.org/abs/2104.15124)]
+- Davis, A. D., D. Giannakis (2021). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. **Calcolo**, to appear. [[link](https://arxiv.org/abs/2104.15124)]
 
-- Shih, Y, C. Mehlmann, M. Losch, G. Stadler, Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474, 2023. [ [link](https://doi.org/10.1016/j.jcp.2022.111802)], [[ArXiV](https://arxiv.org/abs/2204.10822)]
 
 - Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.  
 
 - Denton, A. A. and Timmermans, M.-L. (2022). Characterizing the sea-ice floe size distribution in the Canada Basin from high-resolution optical satellite imagery. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/tc-2021-368)]. Accepted for publication in **The Cryosphere**.
 
-- Dinh, H. B., D. Giannakis, G. Stadler, J. Slawinska (2022). Phase-field models of floe fracture in sea ice. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/egusphere-2022-790
+- Dinh, H., D. Giannakis,  J. Slawinska, G. Stadler (2022). Phase-field models of floe fracture in sea ice. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/egusphere-2022-790
 )].
 
 - Gupta, M., A. F. Thompson, G. E. Manucharyan (2021). Ocean-sea ice floe coupling in a high resolution LES model. In preparation.
@@ -31,6 +30,11 @@ ice-ocean coupling at the submesoscales, **Journal of Geophysical Research**, su
   **Ann. Rev. Fluid Mech.** (in revision).
 
 - Manucharyan, G. E., B. P. Montemuro (2021). SubZero -- Sea ice model with an explicit representation of a floe life cycle. In preparation.
+
+## 2023
+
+- Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474. [ [link](https://doi.org/10.1016/j.jcp.2022.111802)], [[ArXiV](https://arxiv.org/abs/2204.10822)]
+
 
 
 ## 2022
