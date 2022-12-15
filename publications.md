@@ -29,9 +29,11 @@ ice-ocean coupling at the submesoscales, **Journal of Geophysical Research**, su
 - Taylor, J.R., A.F. Thompson (2022) Submesoscales in the upper ocean.
   **Ann. Rev. Fluid Mech.** (in revision).
 
-- Manucharyan, G. E., B. P. Montemuro (2021). SubZero -- Sea ice model with an explicit representation of a floe life cycle. In preparation.
+
 
 ## 2023
+
+- Manucharyan, G. E., B. P. Montemuro (2021). SubZero -- Sea ice model with an explicit representation of a floe life cycle. **Journal of Advances in Modeling Earth Systems** [[JAMES](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003247) ], in press.
 
 - Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474. [ [link](https://doi.org/10.1016/j.jcp.2022.111802)], [[ArXiV](https://arxiv.org/abs/2204.10822)]
 
