@@ -4,9 +4,6 @@ layout: default
 ---
 ## Submitted/In preparation:
 
-- Gupta, M., A.F. Thompson (2022).  Regimes of sea-ice floe melt:
-ice-ocean coupling at the submesoscales, **Journal of Geophysical Research**, submitted.
-
 - Covington, J., N. Chen, M.M. Wilhelmus (2022). Bridging Gaps in the Climate
   Observation Network: A Physics-based Nonlinear Dynamical
   Interpolation of Lagrangian Ice Floe Measurements via Data-Driven
@@ -33,13 +30,17 @@ ice-ocean coupling at the submesoscales, **Journal of Geophysical Research**, su
 
 ## 2023
 
-- Manucharyan, G. E., B. P. Montemuro (2023). SubZero -- Sea ice model with an explicit representation of a floe life cycle. **Journal of Advances in Modeling Earth Systems** [ [JAMES](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003247) ], in press.
 
 - Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474. [ [link](https://doi.org/10.1016/j.jcp.2022.111802)], [[ArXiV](https://arxiv.org/abs/2204.10822)]
 
 
 
 ## 2022
+
+- Gupta, M., and Thompson, A. F. (2022). Regimes of sea-ice floe melt: Ice-ocean coupling at the submesoscales. **Journal of Geophysical Research: Oceans**, 127, e2022JC018894. [ [JGR](https://doi.org/10.1029/2022JC018894) ]
+
+- Manucharyan, G. E., and Montemuro, B. P. (2022). SubZero: A sea ice model with an explicit representation of the floe life cycle. **Journal of Advances in Modeling Earth Systems**, 14, e2022MS003247. [ [JAMES](https://doi.org/10.1029/2022MS003247) ]
+
 
 - Chen, N., Fu, S., Manucharyan, G. E. (2022). An efficient and statistically accurate Lagrangian data assimilation algorithm with applications to discrete element sea ice models, **Journal of Computational Physics** 455 (2022): 111000. [[link](https://www.sciencedirect.com/science/article/pii/S0021999122000626)] [[ArXiv](https://arxiv.org/abs/2108.00855)]
 
