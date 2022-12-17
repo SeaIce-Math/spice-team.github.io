@@ -11,7 +11,7 @@ layout: default
 
 - Chen, N., Q. Deng, S.N. Stechmann (2021). Superfloe Parameterization with Physics Constraints for Uncertainty Quantification of Sea Ice Floes, **SIAM/ASA Journal of Uncertainty Quantification**, in minor revision.
 
-- Davis, A. D., D. Giannakis (2021). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. **Calcolo**, to appear. [[link](https://arxiv.org/abs/2104.15124)]
+- Davis, A. D., D. Giannakis (2021). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. **Calcolo**, to appear. [[arXiv](https://arxiv.org/abs/2104.15124)]
 
 
 - Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.  
@@ -31,7 +31,7 @@ layout: default
 ## 2023
 
 
-- Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474. [ [link](https://doi.org/10.1016/j.jcp.2022.111802)], [[ArXiV](https://arxiv.org/abs/2204.10822)]
+- Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474. [ [JCP](https://doi.org/10.1016/j.jcp.2022.111802)|[[arXiv](https://arxiv.org/abs/2204.10822) ]
 
 
 
