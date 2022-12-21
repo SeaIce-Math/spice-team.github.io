@@ -183,7 +183,7 @@ layout: default
     <td> <!-- Skylar Gering -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/gering.jpeg" alt="" class="img-responsive">
+          <img src="images/team/gering.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="https://sase.caltech.edu/people/index.html" target="_blank">Skylar Gering</a></h4>
