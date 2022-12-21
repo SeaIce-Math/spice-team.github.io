@@ -55,7 +55,7 @@ layout: default
           <img src="images/team/GeorgyM.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="https://www.ocean.washington.edu/home/Georgy%20Manucharyan" target="_blank">Georgy Manucharyan</a></h4>
+            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Georgy Manucharyan</a></h4>
             <div class="card-desription">
               <p>Assistant Professor, University of Washington</p>
             </div>
