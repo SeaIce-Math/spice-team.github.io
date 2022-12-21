@@ -51,7 +51,7 @@ layout: default
     </td>
     <td> <!-- Georgy Manucharyan -->
        <div class="card" style="width: 10rem;">
-          <a href="https://www.ocean.washington.edu/home/Georgy%20Manucharyan" title="" class="card-image hover-overlay" target="_blank">
+          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/GeorgyM.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
@@ -249,7 +249,7 @@ layout: default
     </td>
     <td> <!-- Mohammad Javad Latifi -->
         <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <a href="https://math.dartmouth.edu/~mjebelli/" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/latifi.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
@@ -262,7 +262,7 @@ layout: default
     </td>
     <td> <!-- Brandon Montemuro -->
         <div class="card" style="width: 10rem;">
-          <a href="https://www.ocean.washington.edu/home/Brandon_Montemuro" title="" class="card-image hover-overlay" target="_blank">
+          <a href="https://www.brandonmontemuro.com/" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/montemuro.jpeg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
