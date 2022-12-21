@@ -344,7 +344,7 @@ layout: default
 </table>
 
 
-## Almuns
+## Former Members
 
 <table class="fixed">
   <col width="200"/>
