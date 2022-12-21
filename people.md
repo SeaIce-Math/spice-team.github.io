@@ -253,7 +253,7 @@ layout: default
           <img src="images/team/latifi.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Mohammad Javad Latifi</a></h4>
+            <h4><a href="https://math.dartmouth.edu/~mjebelli/" target="_blank">Mohammad Javad Latifi</a></h4>
             <div class="card-desription">
               <p>Postdoctoral Research Scientist, Dartmouth College</p>
             </div>
@@ -266,7 +266,7 @@ layout: default
           <img src="images/team/montemuro.jpeg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="https://www.ocean.washington.edu/home/Brandon_Montemuro" target="_blank">Brandon Montemuro</a></h4>
+            <h4><a href="https://www.brandonmontemuro.com/" target="_blank">Brandon Montemuro</a></h4>
             <div class="card-desription">
               <p>Postdoctoral Research Scientist, University of Washington</p>
             </div>
