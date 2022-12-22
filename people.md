@@ -562,7 +562,7 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
             <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Washington</p>
+              <p>(Former Postdoctoral Research Scientist, University of Washington)</p>
             </div>
           </div>
         </div>
