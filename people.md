@@ -327,15 +327,15 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Kalyan Shrestha -->
+    <td> <!-- Ellen Buckley -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/shrestha.jpg" alt="" class="img-responsive">
+          <img src="images/team/Ellen.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
+            <h4><a href="" target="_blank">Ellen Buckley</a></h4>
             <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Washington</p>
+              <p>Postdoctoral Research Scientist, Brown University</p>
             </div>
           </div>
         </div>
@@ -351,6 +351,45 @@ layout: default
             <h4><a href="" target="_blank">Ryan Vaughn</a></h4>
             <div class="card-desription">
               <p>Postdoctoral Research Scientist, Courant Institute, NYU</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Yuna Liu -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/yuna.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Yuna Liu</a></h4>
+            <div class="card-desription">
+              <p>Undergraduate Student Researcher, University of Washington</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Camille Viviani -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/camille.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Camille Viviani</a></h4>
+            <div class="card-desription">
+              <p>Undergraduate Student Researcher, University of Washington</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Robin Chartrand -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Robin.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Robin Chartrand</a></h4>
+            <div class="card-desription">
+              <p>Undergraduate Student Researcher, University of Washington</p>
             </div>
           </div>
         </div>
@@ -511,6 +550,19 @@ layout: default
             <h4><a href="" target="_blank">Melody Shih</a></h4>
             <div class="card-desription">
               <p>(Former Graduate Student, Courant Institute, NYU)</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Kalyan Shrestha -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/shrestha.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, University of Washington</p>
             </div>
           </div>
         </div>
