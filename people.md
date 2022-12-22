@@ -209,7 +209,7 @@ layout: default
     <td> <!-- Emma Gurcan -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/gurcan.JPG" alt="" class="img-responsive">
+          <img src="images/team/gurcan.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Emma Gurcan</a></h4>
