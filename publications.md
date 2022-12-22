@@ -26,6 +26,7 @@ layout: default
 - Taylor, J.R., A.F. Thompson (2022) Submesoscales in the upper ocean.
   **Ann. Rev. Fluid Mech.** (in revision).
 
+- Montemuro, B. P. and Manucharyan, G. E.  (2022). SubZero: a Discrete element sea ice model that simulates floes as evolving concave polygons. **Journal of Open Source Software** (in review).
 
 
 ## 2023
