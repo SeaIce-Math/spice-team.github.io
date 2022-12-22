@@ -249,11 +249,11 @@ layout: default
     </td>
     <td> <!-- Minki Kim -->
         <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <a href="https://www.minki-kim.com/" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/Minki.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Minki Kim</a></h4>
+            <h4><a href="https://www.minki-kim.com/" target="_blank">Minki Kim</a></h4>
             <div class="card-desription">
               <p>Postdoctoral Research Scientist, Brown University</p>
             </div>
