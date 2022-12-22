@@ -10,7 +10,7 @@ layout: default
 [https://github.com/dg227/NLSA](https://github.com/dg227/NLSA)
  
 - Subzero DEM using polygons in Matlab.
-[https://github.com/ONR-MURI/FloeModel-Matlab/tree/SubzeroEnergyConservation](https://github.com/ONR-MURI/FloeModel-Matlab/tree/SubzeroEnergyConservation)
+[https://github.com/SeaIce-Math/SubZero](https://github.com/SeaIce-Math/SubZero)
 
 - MATLAB Live Script for segmentation of individual sea-ice floes in imagery (See related segmentation products below). [https://doi.org/10.5281/zenodo.6146144](https://doi.org/10.5281/zenodo.6146144) 
 
