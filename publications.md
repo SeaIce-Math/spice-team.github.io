@@ -18,7 +18,7 @@ layout: default
 - Dinh, H., D. Giannakis,  J. Slawinska, G. Stadler (2022). Phase-field models of floe fracture in sea ice. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/egusphere-2022-790
 )].
 
-- Gupta, M., A. F. Thompson, G. E. Manucharyan (2021). Ocean-sea ice floe coupling in a high resolution LES model. In preparation.
+- Gupta, M., Gurcan, E., A. F. Thompson (2023). Dispersion of sea ice floes at a baroclinic front. In preparation.
 
 - Taylor, J.R., A.F. Thompson (2022) Submesoscales in the upper ocean.
   **Ann. Rev. Fluid Mech.** (in revision).
@@ -29,7 +29,9 @@ layout: default
 
 - Davis, A. D., D. Giannakis (2022). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. **Calcolo**, 60, 5. [[link](https://doi.org/10.1007/s10092-022-00495-0)]
 
-- Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474. [ [JCP](https://doi.org/10.1016/j.jcp.2022.111802)|[[arXiv](https://arxiv.org/abs/2204.10822) ]
+- Moncada, R., Gupta, M., Thompson, A. F., Andrade, J. E. (2023). Level Set Discrete Element Method for modeling sea ice floes, **Computer Methods in Applied Mechanics and Engineering**, 406. [[link](https://doi.org/10.1016/j.cma.2023.115891)]
+
+- Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474. [[JCP](https://doi.org/10.1016/j.jcp.2022.111802)|[arXiv](https://arxiv.org/abs/2204.10822) ]
 
 ## 2022
 
