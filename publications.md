@@ -33,7 +33,8 @@ layout: default
 
 - Moncada, R., Gupta, M., Thompson, A. F., Andrade, J. E. (2023). Level Set Discrete Element Method for modeling sea ice floes, **Computer Methods in Applied Mechanics and Engineering**, 406. [[link](https://doi.org/10.1016/j.cma.2023.115891)]
 
-- Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474. [[JCP](https://doi.org/10.1016/j.jcp.2022.111802)|[arXiv](https://arxiv.org/abs/2204.10822) ]
+- Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474, 111802 [[link](https://doi.org/10.1016/j.jcp.2022.111802)]
+
 
 ## 2022
 
