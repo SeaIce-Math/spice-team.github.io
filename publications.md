@@ -27,7 +27,9 @@ layout: default
 
 ## 2023
 
-- Davis, A. D., D. Giannakis (2022). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. **Calcolo**, 60, 5. [[link](https://doi.org/10.1007/s10092-022-00495-0)]
+- Davis, A. D., D. Giannakis (2023). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. **Calcolo**, 60, 5. [[link](https://doi.org/10.1007/s10092-022-00495-0)]
+
+- Freeman, D., D. Giannakis, B. Mintz, A. Ourmazd, J. Slawinska (2023). Data Assimilation in Operator Algebras. **Proceedings of the National Academy of Sciences**, 120(8), e2211115120. [[link](https://doi.org/10.1073/pnas.2211115120)]
 
 - Moncada, R., Gupta, M., Thompson, A. F., Andrade, J. E. (2023). Level Set Discrete Element Method for modeling sea ice floes, **Computer Methods in Applied Mechanics and Engineering**, 406. [[link](https://doi.org/10.1016/j.cma.2023.115891)]
 
