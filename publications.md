@@ -9,11 +9,11 @@ layout: default
   Interpolation of Lagrangian Ice Floe Measurements via Data-Driven
   Stochastic Models. **NPJ Climate and Atmospheric Science**, submitted.
 
-- Chen, N., Q. Deng, S.N. Stechmann (2021). Superfloe Parameterization with Physics Constraints for Uncertainty Quantification of Sea Ice Floes, **SIAM/ASA Journal of Uncertainty Quantification**, in minor revision.
-
 - Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.  
 
 - Denton, A. A. and Timmermans, M.-L. (2022). Characterizing the sea-ice floe size distribution in the Canada Basin from high-resolution optical satellite imagery. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/tc-2021-368)]. Accepted for publication in **The Cryosphere**.
+
+- Deng, Q., S.N. Stechmann, N. Chen (2023). Particle-Continuum Multiscale Modeling of Sea Ice Floes, submitted. [[preprint](https://arxiv.org/abs/2303.07819)].
 
 - Dinh, H., D. Giannakis,  J. Slawinska, G. Stadler (2022). Phase-field models of floe fracture in sea ice. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/egusphere-2022-790
 )].
@@ -37,6 +37,8 @@ layout: default
 
 
 ## 2022
+
+- Chen, N., Q. Deng, S.N. Stechmann (2022). Superfloe Parameterization with Physics Constraints for Uncertainty Quantification of Sea Ice Floes, SIAM/ASA Journal on Uncertainty Quantification, Vol. 10, pgs 1384-1409. [[link](https://doi.org/10.1137/21M1428777)][[ArXiv](https://arxiv.org/abs/2105.13569)]
 
 - Chen, N., Fu, S., Manucharyan, G. E. (2022). An efficient and statistically accurate Lagrangian data assimilation algorithm with applications to discrete element sea ice models, **Journal of Computational Physics** 455 (2022): 111000. [[link](https://www.sciencedirect.com/science/article/pii/S0021999122000626)][[ArXiv](https://arxiv.org/abs/2108.00855)]
 
