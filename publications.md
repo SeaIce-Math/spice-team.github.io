@@ -4,11 +4,6 @@ layout: default
 ---
 ## Submitted/In preparation:
 
-- Covington, J., N. Chen, M.M. Wilhelmus (2022). Bridging Gaps in the Climate
-  Observation Network: A Physics-based Nonlinear Dynamical
-  Interpolation of Lagrangian Ice Floe Measurements via Data-Driven
-  Stochastic Models. **NPJ Climate and Atmospheric Science**, submitted.
-
 - Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.  
 
 - Denton, A. A. and Timmermans, M.-L. (2022). Characterizing the sea-ice floe size distribution in the Canada Basin from high-resolution optical satellite imagery. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/tc-2021-368)]. Accepted for publication in **The Cryosphere**.
@@ -20,10 +15,10 @@ layout: default
 
 - Gupta, M., Gurcan, E., A. F. Thompson (2023). Dispersion of sea ice floes at a baroclinic front. In preparation.
 
-- Taylor, J.R., A.F. Thompson (2022) Submesoscales in the upper ocean.
-  **Ann. Rev. Fluid Mech.** (in revision).
-
 - Montemuro, B. P. and Manucharyan, G. E.  (2022). SubZero: a Discrete element sea ice model that simulates floes as evolving concave polygons. **Journal of Open Source Software** (in review).
+
+- Watkins, D. M., Bliss, A. C., Hutchings, J., Wilhelmus, M.M. (2023). Evidence of 
+abrupt transitions between sea ice dynamical regimes in the East Greenland marginal ice zone. **Geophysical Research Letters** (in review). [[preprint](https://essopenarchive.org/users/599762/articles/631598-evidence-of-abrupt-transitions-between-sea-ice-dynamical-regimes-in-the-east-greenland-marginal-ice-zone)]
 
 ## 2023
 
@@ -35,12 +30,18 @@ layout: default
 
 - Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474, 111802. [[link](https://doi.org/10.1016/j.jcp.2022.111802)].
 
+- Taylor, J.R., A.F. Thompson (2023) Submesoscale Dynamics in the
+Upper Ocean. **Ann. Rev. Fluid Mech**, 55:103-27. [[link](https://www.annualreviews.org/doi/10.1146/annurev-fluid-031422-095147)].
 
 ## 2022
 
 - Chen, N., Q. Deng, S.N. Stechmann (2022). Superfloe Parameterization with Physics Constraints for Uncertainty Quantification of Sea Ice Floes, SIAM/ASA Journal on Uncertainty Quantification, Vol. 10, pgs 1384-1409. [[link](https://doi.org/10.1137/21M1428777)][[ArXiv](https://arxiv.org/abs/2105.13569)]
 
 - Chen, N., Fu, S., Manucharyan, G. E. (2022). An efficient and statistically accurate Lagrangian data assimilation algorithm with applications to discrete element sea ice models, **Journal of Computational Physics** 455 (2022): 111000. [[link](https://www.sciencedirect.com/science/article/pii/S0021999122000626)][[ArXiv](https://arxiv.org/abs/2108.00855)]
+
+- Covington, J., N. Chen, M.M. Wilhelmus (2022). Bridging Gaps in the Climate Observation Network: A Physics-based Nonlinear Dynamical
+Interpolation of Lagrangian Ice Floe Measurements via Data-Driven
+Stochastic Models. **Journal of Advances in Modeling Earth Systems**, 14(9), e2022MS003218. [[link](https://doi.org/10.1029/2022MS003218)].
 
 - Gupta, M., and Thompson, A. F. (2022). Regimes of sea-ice floe melt: Ice-ocean coupling at the submesoscales. **Journal of Geophysical Research: Oceans**, 127, e2022JC018894. [[link](https://doi.org/10.1029/2022JC018894)].
 
