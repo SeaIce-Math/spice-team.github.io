@@ -119,26 +119,13 @@ layout: default
   </tr>
 </table>
 
-## Postdocs, Researchers, and Students
+## Graduate Students, Postdocs, Researchers
 
 <table class="fixed">
   <col width="200"/>
   <col width="200"/>
   <col width="200"/>
   <tr>
-    <td> <!-- Ashfaq Ahmed -->
-	    <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Ashfaq.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Ashfaq Ahmed</a></h4>
-            <div class="card-desription">
-              <p>Graduate Student, Brown University </p>
-            </div>
-          </div>
-        </div>
-    </td>
     <td> <!-- Elizabeth Bailey -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -151,6 +138,19 @@ layout: default
             </div>
           </div>
         </div>
+    </td>
+    <td> <!-- Ellen Buckley -->
+      <div class="card" style="width: 10rem;">
+        <a href="" title="" class="card-image hover-overlay" target="_blank">
+        <img src="images/team/Ellen.jpg" alt="" class="img-responsive">
+        </a>  
+        <div class="card-text">
+          <h4><a href="" target="_blank">Ellen Buckley</a></h4>
+          <div class="card-desription">
+            <p>Postdoctoral Research Scientist, Brown University</p>
+          </div>
+        </div>
+      </div>
     </td>
     <td> <!-- Jeff Covington -->
         <div class="card" style="width: 10rem;">
@@ -327,15 +327,15 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Ellen Buckley -->
+    <td> <!-- Daniel Watkins -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Ellen.jpg" alt="" class="img-responsive">
+          <img src="images/team/Daniel.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Ellen Buckley</a></h4>
+            <h4><a href="" target="_blank">Daniel Watkins</a></h4>
             <div class="card-desription">
-              <p>Postdoctoral Research Scientist, Brown University</p>
+              <p>Postdoctoral Research Scientist, Dartmouth College</p>
             </div>
           </div>
         </div>
@@ -405,6 +405,19 @@ layout: default
   <col width="200"/>
   <col width="200"/>
   <tr>
+    <td> <!-- Ashfaq Ahmed -->
+	    <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Ashfaq.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Ashfaq Ahmed</a></h4>
+            <div class="card-desription">
+              <p>Graduate Student, Brown University </p>
+            </div>
+          </div>
+        </div>
+    </td>
     <td> <!-- Shuddho Das -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
