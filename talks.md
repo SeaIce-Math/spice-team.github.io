@@ -5,8 +5,22 @@ layout: default
 
 Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFkuBe5bgtA)!
 
-## 2022
+## 2023
 
+- Wilhelmus MM, Jet Propulsion Laboratory (Mar. 2023), Tracing the New Arctic
+- Wilhelmus MM, Guggenheim Aeronautical Laboratory, California Institute of Technology (Mar. 2023), Tracing the New Arctic
+- Wilhelmus MM, Earth System Science, Stanford University (Mar. 2023), Tracing the New Arctic
+
+## 2022
+- Wilhelmus MM, Institute for Mathematical and Statistical Innovation, University of Chicago (Dec. 2022), Tracing the New Arctic
+- Buckley E, Wilhelmus MM (2022) Examining the Relationship between Sea Ice Dynamics and Floe Characteristics in the Marginal Ice Zone, Bulletin of the American Geophysical Union Annual Fall Meeting, Chicago, IL.
+- Covington J, Chen N, Wilhelmus MM (2022) Bridging Gaps in the Climate ObservationNetwork: A Physics-based Nonlinear Dynamical Interpolation of Lagrangian Ice Floe Measurements via Data-Driven Stochastic Models, Bulletin of the American Geophysical Union Annual Fall Meeting, Chicago, IL
+- Kim M, Convington J, Montemuro B, Manucharyan G, Chen N, Wilhelmus MM (2022)Synthesis of MODIS Satellite Imagery, Sea Ice Tracking, and Ocean Turbulence Model for Characterizing Arctic Ocean Eddies, Bulletin of the American Geophysical Union Annual Fall Meeting, Chicago, IL. 
+- Newcomb B, Kim M, Timmermans M-L, Wilhelmus MM (2022) Surface drifter and sea ice observations for characterizing mesoscale eddies in the Arctic Ocean, Bulletin of the American Geophysical Union Annual Fall Meeting, Chicago, IL.
+- Watkins D, Bliss A, Hutchings J, Wilhelmus MM (2022) Sea Ice Dynamics in the East Greenland Sea Marginal Ice Zone During Summer, Bulletin of the American Geophysical Union Annual Fall Meeting, Chicago, IL
+- Kim M, Montemuro B, Convington J, Manucharyan G, Chen N, Wilhelmus MM (2022)A new framework to characterize Arctic Ocean eddies leveraging Lagrangian observations of sea ice, Bulletin of the American Physical Society Division of Fluid Dynamics 75th Annual Meeting, Indianapolis, IN
+- Wilhelmus MM (2022) Tracing the New Arctic: Is drifting sea ice a vorticity meter of the ocean?, Bulletin of the American Physical Society Division of Fluid Dynamics 75th Annual Meeting, Indianapolis, IN.
+- Wilhelmus MM, Center for Environmental and Applied Fluid Mechanics, Johns Hopkins University (Oct. 2022), Tracing the New Arctic
 - Deng, Q., ANU Mathematics and Computational Sciences Seminar (Aug. 2022), [Superparameterisation of Arctic sea ice floes](https://maths.anu.edu.au/news-events/events/superparameterisation-arctic-sea-ice-floes) 
 - Davis, A.D., Giannakis, D., Stechmann, S., and Stadler G., [European Congress on Computational Methods in Applied Sciences and Engineering](https://www.eccomas2022.org/frontal/default.asp) (June 2022), Generalization of hydrodynamic sea ice dynamics using kinetic theory and the Boltzmann equation
 - Wilhelmus, M.M., Lopez-Acosta, R., and Manucharyan, G., MIT (Mar. 2021), Tracing the New Arctic
