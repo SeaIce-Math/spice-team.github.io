@@ -6,8 +6,6 @@ layout: default
 
 - Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.  
 
-- Denton, A. A. and Timmermans, M.-L. (2022). Characterizing the sea-ice floe size distribution in the Canada Basin from high-resolution optical satellite imagery. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/tc-2021-368)]. Accepted for publication in **The Cryosphere**.
-
 - Deng, Q., S.N. Stechmann, N. Chen (2023). Particle-Continuum Multiscale Modeling of Sea Ice Floes, submitted. [[preprint](https://arxiv.org/abs/2303.07819)].
 
 - Dinh, H., D. Giannakis,  J. Slawinska, G. Stadler (2022). Phase-field models of floe fracture in sea ice. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/egusphere-2022-790
@@ -31,7 +29,9 @@ abrupt transitions between sea ice dynamical regimes in the East Greenland margi
 - Shih, Y, C. Mehlmann, M. Losch, G. Stadler (2023). Robust and efficient primal-dual Newton-Krylov solvers for viscous-plastic sea-ice models, **Journal of Computational Physics**,  474, 111802. [[link](https://doi.org/10.1016/j.jcp.2022.111802)].
 
 - Taylor, J.R., A.F. Thompson (2023) Submesoscale Dynamics in the
-Upper Ocean. **Ann. Rev. Fluid Mech**, 55:103-27. [[link](https://www.annualreviews.org/doi/10.1146/annurev-fluid-031422-095147)].
+Upper Ocean. **Ann. Rev. Fluid Mech**, 55, 103-27. [[link](https://www.annualreviews.org/doi/10.1146/annurev-fluid-031422-095147)].
+
+- Timmermans, M.-L., & Toole, J. M. (2023). The Arctic Ocean's Beaufort Gyre. **Annual Review of Marine Science**, 15, 223-248. [[link](https://doi.org/10.1146/annurev-marine-032122-012034)].
 
 ## 2022
 
@@ -42,6 +42,8 @@ Upper Ocean. **Ann. Rev. Fluid Mech**, 55:103-27. [[link](https://www.annualrevi
 - Covington, J., N. Chen, M.M. Wilhelmus (2022). Bridging Gaps in the Climate Observation Network: A Physics-based Nonlinear Dynamical
 Interpolation of Lagrangian Ice Floe Measurements via Data-Driven
 Stochastic Models. **Journal of Advances in Modeling Earth Systems**, 14(9), e2022MS003218. [[link](https://doi.org/10.1029/2022MS003218)].
+
+- Denton, A. A., & Timmermans, M. L. (2022). Characterizing the sea-ice floe size distribution in the Canada Basin from high-resolution optical satellite imagery. **The Cryosphere**, 16(5), 1563-1578. [[link](https://doi.org/10.5194/tc-16-1563-2022)]
 
 - Gupta, M., and Thompson, A. F. (2022). Regimes of sea-ice floe melt: Ice-ocean coupling at the submesoscales. **Journal of Geophysical Research: Oceans**, 127, e2022JC018894. [[link](https://doi.org/10.1029/2022JC018894)].
 
