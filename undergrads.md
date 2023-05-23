@@ -161,7 +161,8 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </a>  
           <div class="card-text">
             <h4><a href="https://people.earth.yale.edu/profile/mary-louise-timmermans/about" target="_blank">Megan Grimes</a></h4>
-        </div>
+          </div>
+        </div> 
     </td>
     <td> <!-- Madelyn Stewart -->
         <div class="card" style="width: 10rem;">
@@ -170,6 +171,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </a>  
           <div class="card-text">
             <h4><a href="https://people.earth.yale.edu/profile/mary-louise-timmermans/about" target="_blank">Madelyn Stewart</a></h4>
+          </div>
         </div>
     </td>
   </tr>
