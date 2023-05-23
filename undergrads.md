@@ -31,6 +31,16 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </div>
         </div>
     </td>
+    <td> <!-- Leela Canuelas-Puri -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Leela_Canuelas_Puri.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Leela Canuelas-Puri</a></h4>
+          </div>
+        </div>
+    </td>
   </tr>
 </table>
 
@@ -117,6 +127,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </a>  
           <div class="card-text">
             <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Camille Viviani</a></h4>
+          </div>
         </div>
     </td>
   </tr>
@@ -165,6 +176,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
 </table>
 
 - Megan is an undergraduate student working on examination of sea-ice floe shapes in high-resolution satellite images.
+
 - Madelyn is an undergraduate student studying seasonal and spatial variation of inertial oscillations in drifting sea ice on a pan-Arctic scale.
 
 ## Former Undergraduate Researchers
