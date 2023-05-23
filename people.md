@@ -201,39 +201,11 @@ layout: default
           <div class="card-text">
             <h4><a href="https://eapsweb.mit.edu/people/guptam" target="_blank">Mukund Gupta</a></h4>
             <div class="card-desription">
-              <p>Postdoctoral Research Scientist, CalTech</p>
+              <p>Research Scientist, CalTech</p>
             </div>
           </div>
         </div>
     </td>
-    <td> <!-- Emma Gurcan -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/gurcan.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Emma Gurcan</a></h4>
-            <div class="card-desription">
-              <p>Undergraduate Student Researcher, CalTech</p>
-            </div>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Simon Hatcher -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Simon.JPG" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Simon Hatcher</a></h4>
-            <div class="card-desription">
-              <p>Undergraduate Student Researcher, Brown University</p>
-            </div>
-          </div>
-        </div>
-    </td>
-  </tr>
-  <tr>
     <td> <!-- Jiuhua Hu -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -260,6 +232,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Mohammad Javad Latifi -->
         <div class="card" style="width: 10rem;">
           <a href="https://math.dartmouth.edu/~mjebelli/" title="" class="card-image hover-overlay" target="_blank">
@@ -286,9 +260,7 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
-  <td> <!-- Changhong Mou -->
+    <td> <!-- Changhong Mou -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/ChanghongMou.jpg" alt="" class="img-responsive">
@@ -301,47 +273,6 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Benjamin Newcomb -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Benjamin.png" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Benjamin Newcomb</a></h4>
-            <div class="card-desription">
-              <p>Undergraduate Student Researcher, Brown University</p>
-            </div>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Karun Ram -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picRam.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Karun Ram</a></h4>
-            <div class="card-desription">
-              <p>Undergraduate Student Researcher, Dartmouth College</p>
-            </div>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Daniel Watkins -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Daniel.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Daniel Watkins</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, Dartmouth College</p>
-            </div>
-          </div>
-        </div>
-    </td>
-  </tr>
-  <tr>
     <td> <!-- Ryan Vaughn -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -355,41 +286,17 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Yuna Liu -->
+  </tr>
+  <tr>
+    <td> <!-- Daniel Watkins -->
         <div class="card" style="width: 10rem;">
-          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/yuna.jpeg" alt="" class="img-responsive">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Daniel.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Yuna Liu</a></h4>
+            <h4><a href="" target="_blank">Daniel Watkins</a></h4>
             <div class="card-desription">
-              <p>Undergraduate Student Researcher, University of Washington</p>
-            </div>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Camille Viviani -->
-        <div class="card" style="width: 10rem;">
-          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/camille.jpeg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Camille Viviani</a></h4>
-            <div class="card-desription">
-              <p>Undergraduate Student Researcher, University of Washington</p>
-            </div>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Robin Chartrand -->
-        <div class="card" style="width: 10rem;">
-          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Robin.jpeg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Robin Chartrand</a></h4>
-            <div class="card-desription">
-              <p>Undergraduate Student Researcher, University of Washington</p>
+              <p>Postdoctoral Research Scientist, Dartmouth College</p>
             </div>
           </div>
         </div>
@@ -459,7 +366,9 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Alexis Anne Denton -->
+  </tr>
+  <tr>
+  <td> <!-- Alexis Anne Denton -->
         <div class="card" style="width: 10rem;">
           <a href="" title="https://people.earth.yale.edu/profile/alexis-denton/about" class="card-image hover-overlay" target="_blank">
           <img src="images/team/Denton.jpg" alt="" class="img-responsive">
@@ -472,8 +381,6 @@ layout: default
           </div>
         </div>
     </td> 
-  </tr>
-  <tr>
     <td> <!-- Huy Dinh -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -483,19 +390,6 @@ layout: default
             <h4><a href="" target="_blank">Huy Dinh</a></h4>
             <div class="card-desription">
               <p>(Former Postdoctoral Research Scientist, Courant Institute, NYU)</p>
-            </div>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Kangqi Fu -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Kangqi.png" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Kangqi Fu</a></h4>
-            <div class="card-desription">
-              <p>(Former Undergraduate Student Researcher, University of Wisconsin-Madison)</p>
             </div>
           </div>
         </div>
@@ -513,47 +407,6 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Linkai Ma -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picMa.png" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Linkai Ma</a></h4>
-            <div class="card-desription">
-              <p>(Former Undergraduate Student Researcher, Courant Institute, NYU)</p>
-            </div>
-          </div>
-        </div>
-    </td>
-  </tr>
-  <tr>
-    <td> <!-- Sean Mackin -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picMackin.png" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Sean Mackin</a></h4>
-            <div class="card-desription">
-              <p>(Former Undergraduate Student Researcher, Courant Institute, NYU)</p>
-            </div>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Amy Rhee -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picRhee2.png" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Amy Rhee</a></h4>
-            <div class="card-desription">
-              <p>(Former Undergraduate Student Researcher, Courant Institute, NYU)</p>
-            </div>
-          </div>
-        </div>
-    </td>
     <td> <!-- Melody Shih -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -567,6 +420,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Kalyan Shrestha -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
