@@ -165,19 +165,6 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Shubin Fu -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/ShubinFu.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Shubin Fu</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
-            </div>
-          </div>
-        </div>
-    </td>
   </tr>
   <tr>	
     <td> <!-- Skylar Gering -->
@@ -301,6 +288,19 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Bryan Xu -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Bryan_Xu.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Bryan Xu </a></h4>
+            <div class="card-desription">
+              <p>Graduate Student, University of Wisconsin-Madison</p>
+            </div>
+          </div>
+        </div>
+    </td>
   </tr>
 </table>
 
@@ -394,6 +394,20 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Shubin Fu -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/ShubinFu.jpg" alt="" class="img-responsive" height="200">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Shubin Fu</a></h4>
+            <div class="card-desription">
+              <p>(Former Postdoctoral Research Scientist, University of Wisconsin-Madison)</p>
+              <p>Assistant Professor at Eastern Institute for Advanced Study</p>
+            </div>
+          </div>
+        </div>
+    </td>
     <td> <!-- Rosalinda Lopez -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -407,6 +421,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Melody Shih -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -420,8 +436,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
     <td> <!-- Kalyan Shrestha -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
