@@ -31,18 +31,11 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </div>
         </div>
     </td>
-    <td> <!-- Leela Canuelas-Puri -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Leela_Canuelas_Puri.jpeg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Leela Canuelas-Puri</a></h4>
-          </div>
-        </div>
-    </td>
   </tr>
 </table>
+
+- Simon has developed useful tools for satellite tracking and MODIS data query and download, and assisted with data analysis.
+- Benjamin has been analyzing surface drifter data for characterizing mesoscale eddies in the Arctic Ocean.
 
 ## California Institute of Technology
 <table class="fixed">
@@ -93,6 +86,8 @@ Each university within this MURI is dedicated to involving undergraduates in res
     </td>
   </tr>
 </table>
+
+- Karun is working on Markov modeling of Arctic buoy data.
 
 ## University of Washington
 <table class="fixed">
@@ -209,6 +204,19 @@ Each university within this MURI is dedicated to involving undergraduates in res
   <col width="200"/>
   <col width="200"/>
   <tr>
+    <td> <!-- Leela Canuelas-Puri -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Leela_Canuelas_Puri.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Leela Canuelas-Puri</a></h4>
+            <div class="card-desription">
+              <p>(Brown University)</p>
+            </div>
+          </div>
+        </div>
+    </td>
     <td> <!-- Kangqi Fu -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -248,6 +256,8 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Amy Rhee -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
