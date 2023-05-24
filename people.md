@@ -165,8 +165,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>	
     <td> <!-- Skylar Gering -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -180,6 +178,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>	
     <td> <!-- Mukund Gupta -->
         <div class="card" style="width: 10rem;">
           <a href="https://eapsweb.mit.edu/people/guptam" title="" class="card-image hover-overlay" target="_blank">
@@ -219,8 +219,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
     <td> <!-- Mohammad Javad Latifi -->
         <div class="card" style="width: 10rem;">
           <a href="https://math.dartmouth.edu/~mjebelli/" title="" class="card-image hover-overlay" target="_blank">
@@ -234,6 +232,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Brandon Montemuro -->
         <div class="card" style="width: 10rem;">
           <a href="https://www.brandonmontemuro.com/" title="" class="card-image hover-overlay" target="_blank">
@@ -263,7 +263,7 @@ layout: default
     <td> <!-- Ryan Vaughn -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picVaughn.jpg" alt="" class="img-responsive">
+          <img src="images/team/picVaughn.jpg" alt="" class="img-responsive" height="150">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Ryan Vaughn</a></h4>
@@ -273,8 +273,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
     <td> <!-- Daniel Watkins -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -288,6 +286,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Bryan Xu -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">

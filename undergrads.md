@@ -145,20 +145,10 @@ Each university within this MURI is dedicated to involving undergraduates in res
   <col width="200"/>
   <col width="200"/>
   <tr>
-  <td> <!-- Melisa Erman -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Melisa_Erman.jpeg" alt="" class="img-responsive" height="150">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Melisa Erman</a></h4>
-          </div>
-        </div>
-    </td>
     <td> <!-- Evelyn Tollar -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Evelyn_Tollar.jpeg" alt="" class="img-responsive" height="150">
+          <img src="images/team/EvelynTollar.jpeg" alt="" class="img-responsive" height="150">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Evelyn Tollar</a></h4>
@@ -168,7 +158,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
     <td> <!-- Marissa Zhang -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Marissa_Zhang.jpeg" alt="" class="img-responsive" height="150">
+          <img src="images/team/MarissaZhang.jpeg" alt="" class="img-responsive" height="150">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Marissa Zhang</a></h4>
@@ -178,7 +168,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
   </tr>
 </table>
 
-- Evelyn, Marissa, and Melisa are using adaptive mesh refinement and random trees to develop new stochastic processes that simulate sea ice floes and reproduce floe features such as the floe size distribution.
+- Evelyn and Marissa are working on computational algorithms for discrete models of sea ice floes.
 
 ## Yale University
 <table class="fixed">
