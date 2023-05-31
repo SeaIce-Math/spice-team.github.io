@@ -217,6 +217,19 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </div>
         </div>
     </td>
+        <td> <!--  Melisa Erman -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Melisa_Erman.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank"> Melisa Erman</a></h4>
+            <div class="card-desription">
+              <p>(University of Wisconsin - Madison)</p>
+            </div>
+          </div>
+        </div>
+    </td>
     <td> <!-- Kangqi Fu -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -243,19 +256,6 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </div>
         </div>
     </td>
-    <td> <!-- Sean Mackin -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picMackin.png" alt="" class="img-responsive" height="150">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Sean Mackin</a></h4>
-            <div class="card-desription">
-              <p>(Courant Institute, NYU)</p>
-            </div>
-          </div>
-        </div>
-    </td>
   </tr>
   <tr>
     <td> <!-- Amy Rhee -->
@@ -265,6 +265,19 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Amy Rhee</a></h4>
+            <div class="card-desription">
+              <p>(Courant Institute, NYU)</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Sean Mackin -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picMackin.png" alt="" class="img-responsive" height="150">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Sean Mackin</a></h4>
             <div class="card-desription">
               <p>(Courant Institute, NYU)</p>
             </div>
