@@ -87,7 +87,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
   </tr>
 </table>
 
-- Karun is working on Markov modeling of Arctic buoy data.
+- Karun's work within Dimitris Giannakis' group is on Markov modeling of Arctic buoy data. By analyzing the eigenvalues and eigenvectors of a Markov operator estimated from buoy position data, he identifies near-invariant sets under the forward evolution of the system, and their corresponding basins of attraction. With this, we decompose the Arctic Ocean into a set of “weakly interacting" regions, and develop a probabilistic model for the evolution of surface material distribution over time.
 
 ## University of Washington
 <table class="fixed">
