@@ -98,7 +98,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
   </tr>
 </table>
 
-- Karun is working on Markov modeling of Arctic buoy data.
+- Karun's work within Dimitris Giannakis' group is on Markov modeling of Arctic buoy data. By analyzing the eigenvalues and eigenvectors of a Markov operator estimated from buoy position data, he identifies near-invariant sets under the forward evolution of the system, and their corresponding basins of attraction. With this, we decompose the Arctic Ocean into a set of “weakly interacting" regions, and develop a probabilistic model for the evolution of surface material distribution over time.
 
 ## University of Washington
 <table class="fixed">
@@ -228,6 +228,19 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </div>
         </div>
     </td>
+        <td> <!--  Melisa Erman -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Melisa_Erman.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank"> Melisa Erman</a></h4>
+            <div class="card-desription">
+              <p>(University of Wisconsin - Madison)</p>
+            </div>
+          </div>
+        </div>
+    </td>
     <td> <!-- Kangqi Fu -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -254,19 +267,6 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </div>
         </div>
     </td>
-    <td> <!-- Sean Mackin -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picMackin.png" alt="" class="img-responsive" height="150">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Sean Mackin</a></h4>
-            <div class="card-desription">
-              <p>(Courant Institute, NYU)</p>
-            </div>
-          </div>
-        </div>
-    </td>
   </tr>
   <tr>
     <td> <!-- Amy Rhee -->
@@ -276,6 +276,19 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Amy Rhee</a></h4>
+            <div class="card-desription">
+              <p>(Courant Institute, NYU)</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Sean Mackin -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picMackin.png" alt="" class="img-responsive" height="150">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Sean Mackin</a></h4>
             <div class="card-desription">
               <p>(Courant Institute, NYU)</p>
             </div>
