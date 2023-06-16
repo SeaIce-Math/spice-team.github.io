@@ -53,10 +53,21 @@ Each university within this MURI is dedicated to involving undergraduates in res
         </div>
         </div>
     </td>
+        <td> <!-- Rohaiz Haris -->
+        <div class="card" style="width: 10rem;">
+        <a href="" title="" class="card-image hover-overlay" target="_blank">
+        <img src="images/team/RohaizHaris.jpg" alt="" class="img-responsive" height="150">
+        </a>  
+        <div class="card-text">
+            <h4><a href="" target="_blank">Rohaiz Haris</a></h4>
+        </div>
+        </div>
+    </td>
   </tr>
 </table>
 
-- Emma's work within Andy Thompson's group relates to the dispersion of sea ice floes due to oceanic eddies. She uses a model of sea ice floes coupled to an ocean model to explore how floe size influences the width of the marginal ice zone and its energetics
+- Emma's work relates to the dispersion of sea ice floes due to oceanic eddies. She uses a model of sea ice floes coupled to an ocean model to explore how floe size influences the width of the marginal ice zone and its energetics
+- Rohaiz's work will look at energetics related to ice, ocean, and atmospheric coupling.
     
 
 <!-- ## Courant Institute NYU
