@@ -18,6 +18,10 @@ layout: default
 - Watkins, D. M., Bliss, A. C., Hutchings, J., Wilhelmus, M.M. (2023). Evidence of 
 abrupt transitions between sea ice dynamical regimes in the East Greenland marginal ice zone. **Geophysical Research Letters** (in review). [[preprint](https://essopenarchive.org/users/599762/articles/631598-evidence-of-abrupt-transitions-between-sea-ice-dynamical-regimes-in-the-east-greenland-marginal-ice-zone)]
 
+- Chen, N.,Evelyn, L., Wiggins, S. (2023). Lagrangian Descriptors with Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.04006)].
+
+- Chen, N.,Evelyn, L., Wiggins, S. (2023). Launching Drifter Observations in the Presence of Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.12779)].
+
 ## 2023
 
 - Davis, A. D., D. Giannakis (2023). Graph-theoretic algorithms for Kolmogorov operators: Approximating solutions and their gradients in elliptic and parabolic problems on manifolds. **Calcolo**, 60, 5. [[link](https://doi.org/10.1007/s10092-022-00495-0)].
