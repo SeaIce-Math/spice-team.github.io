@@ -116,23 +116,13 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </div>
         </div>
     </td>
-    <td> <!-- Yuna Liu -->
+    <td> <!-- Krista Matuska -->
         <div class="card" style="width: 10rem;">
           <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/yuna.jpeg" alt="" class="img-responsive" height="150">
+          <img src="images/team/Krista.jpg" alt="" class="img-responsive" height="150">
           </a>  
           <div class="card-text">
-            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Yuna Liu</a></h4>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Camille Viviani -->
-        <div class="card" style="width: 10rem;">
-          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/camille.jpeg" alt="" class="img-responsive" height="150">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Camille Viviani</a></h4>
+            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Krista Matuska</a></h4>
           </div>
         </div>
     </td>
@@ -292,6 +282,26 @@ Each university within this MURI is dedicated to involving undergraduates in res
             <div class="card-desription">
               <p>(Courant Institute, NYU)</p>
             </div>
+          </div>
+        </div>
+    </td>
+        <td> <!-- Yuna Liu -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/yuna.jpeg" alt="" class="img-responsive" height="150">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Yuna Liu</a></h4>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Camille Viviani -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/camille.jpeg" alt="" class="img-responsive" height="150">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Camille Viviani</a></h4>
           </div>
         </div>
     </td>
