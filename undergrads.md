@@ -131,9 +131,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
 
 - Robin is an undergraduate research assistant working on the development of Python-based GUI for visualization of data and segmentation of oceanographycally-relevant features.
 
-- Yuna is an undergraduate student working on numerical modeling of sea ice as it transitions through Nares Straits.
-
-- Camille is an undergraduate research assistant working on understanding the floe size distribution of sea ice as it passes through narrow straits.
+- Krista is an undergraduate student working on numerical modeling inertial oscillations of sea ice.
 
 ## University of Wisconsin - Madison
 <table class="fixed">
