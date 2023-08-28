@@ -303,5 +303,15 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </div>
         </div>
     </td>
+    <td> <!-- Hugh Shields -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://deep.ocean.washington.edu/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Hugh.jpg" alt="" class="img-responsive" height="150">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Hugh Shields</a></h4>
+          </div>
+        </div>
+    </td>
   </tr>
 </table>
