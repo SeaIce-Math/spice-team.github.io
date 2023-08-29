@@ -290,6 +290,9 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </a>  
           <div class="card-text">
             <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Yuna Liu</a></h4>
+            <div class="card-desription">
+              <p>(University of Washington)</p>
+            </div>
           </div>
         </div>
     </td>
@@ -300,6 +303,9 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </a>  
           <div class="card-text">
             <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Camille Viviani</a></h4>
+            <div class="card-desription">
+              <p>(University of Washington)</p>
+            </div>
           </div>
         </div>
     </td>
@@ -312,6 +318,9 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </a>  
           <div class="card-text">
             <h4><a href="https://deep.ocean.washington.edu/" target="_blank">Hugh Shields</a></h4>
+            <div class="card-desription">
+              <p>(University of Washington)</p>
+            </div>
           </div>
         </div>
     </td>
