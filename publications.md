@@ -8,9 +8,6 @@ layout: default
 
 - Deng, Q., S.N. Stechmann, N. Chen (2023). Particle-Continuum Multiscale Modeling of Sea Ice Floes, submitted. [[preprint](https://arxiv.org/abs/2303.07819)].
 
-- Dinh, H., D. Giannakis,  J. Slawinska, G. Stadler (2022). Phase-field models of floe fracture in sea ice. **The Cryosphere Discuss**. [[preprint](https://doi.org/10.5194/egusphere-2022-790
-)].
-
 - Gupta, M., Gurcan, E., A. F. Thompson (2023). Dispersion of sea ice floes at a baroclinic front. In preparation.
 
 - Chen, N.,Evelyn, L., Wiggins, S. (2023). Lagrangian Descriptors with Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.04006)].
@@ -18,6 +15,8 @@ layout: default
 - Chen, N.,Evelyn, L., Wiggins, S. (2023). Launching Drifter Observations in the Presence of Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.12779)].
 
 ## 2023
+
+- Dinh, H., D. Giannakis,  J. Slawinska, G. Stadler (2022). Phase-field models of floe fracture in sea ice. **The Cryosphere Discuss**. 17, 3883–3893. [[link](https://doi.org/10.5194/egusphere-2022-790)].
 
 - Watkins, D. M., Bliss, A. C., Hutchings, J., Wilhelmus, M.M. (2023). Evidence of abrupt transitions between sea ice dynamical regimes in the East Greenland marginal ice zone. **Geophysical Research Letters** , 50(15), e2023GL103558. [[link]( https://doi.org/10.1029/2023GL103558)]. 
 
