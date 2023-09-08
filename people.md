@@ -275,13 +275,13 @@ layout: default
     </td>
     <td> <!-- Daniel Watkins -->
         <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <a href="" https://www.danielmwatkins.com"" class="card-image hover-overlay" target="_blank">
           <img src="images/team/Daniel.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <h4><a href="" target="_blank">Daniel Watkins</a></h4>
             <div class="card-desription">
-              <p>Postdoctoral Research Scientist, Dartmouth College</p>
+              <p>Postdoctoral Research Scientist, Brown University</p>
             </div>
           </div>
         </div>
@@ -297,6 +297,19 @@ layout: default
             <h4><a href="" target="_blank">Bryan Xu </a></h4>
             <div class="card-desription">
               <p>Graduate Student, University of Wisconsin-Madison</p>
+            </div>
+          </div>
+        </div>
+    </td>
+     <td> <!-- Rebecca Hardenbrook -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Rebecca.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Rebecca Hardenbrook </a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, Dartmouth College</p>
             </div>
           </div>
         </div>
