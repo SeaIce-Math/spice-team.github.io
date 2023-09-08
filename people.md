@@ -275,11 +275,11 @@ layout: default
     </td>
     <td> <!-- Daniel Watkins -->
         <div class="card" style="width: 10rem;">
-          <a href="" https://www.danielmwatkins.com"" class="card-image hover-overlay" target="_blank">
+	  <a href="https://www.danielmwatkins.com/" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/Daniel.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Daniel Watkins</a></h4>
+	    <h4><a href="https://www.danielmwatkins.com/" target="_blank">Daniel Watkins</a></h4>
             <div class="card-desription">
               <p>Postdoctoral Research Scientist, Brown University</p>
             </div>
