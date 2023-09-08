@@ -13,14 +13,13 @@ layout: default
 
 - Gupta, M., Gurcan, E., A. F. Thompson (2023). Dispersion of sea ice floes at a baroclinic front. In preparation.
 
-- Watkins, D. M., Bliss, A. C., Hutchings, J., Wilhelmus, M.M. (2023). Evidence of 
-abrupt transitions between sea ice dynamical regimes in the East Greenland marginal ice zone. **Geophysical Research Letters** (in review). [[preprint](https://essopenarchive.org/users/599762/articles/631598-evidence-of-abrupt-transitions-between-sea-ice-dynamical-regimes-in-the-east-greenland-marginal-ice-zone)]
-
 - Chen, N.,Evelyn, L., Wiggins, S. (2023). Lagrangian Descriptors with Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.04006)].
 
 - Chen, N.,Evelyn, L., Wiggins, S. (2023). Launching Drifter Observations in the Presence of Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.12779)].
 
 ## 2023
+
+- Watkins, D. M., Bliss, A. C., Hutchings, J., Wilhelmus, M.M. (2023). Evidence of abrupt transitions between sea ice dynamical regimes in the East Greenland marginal ice zone. **Geophysical Research Letters** , 50(15), e2023GL103558. [[link]( https://doi.org/10.1029/2023GL103558)]. 
 
 - Montemuro, B. P. and Manucharyan, G. E.  (2023). SubZero: a discrete element sea ice model that simulates floes as evolving concave polygons. **Journal of
 Open Source Software**, 8(88), 5039. [[link](https://doi.org/10.21105/joss.05039)].
