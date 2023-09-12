@@ -303,7 +303,6 @@ layout: default
     </td>
      <td> <!-- Rebecca Hardenbrook -->
         <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank"> 
 	  <a href="https://www.rhardenbrook.com/home" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/Rebecca.jpg" alt="" class="img-responsive">
           </a>  
