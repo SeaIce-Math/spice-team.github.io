@@ -303,11 +303,12 @@ layout: default
     </td>
      <td> <!-- Rebecca Hardenbrook -->
         <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <a href="" title="" class="card-image hover-overlay" target="_blank"> 
+	  <a href="https://www.rhardenbrook.com/home" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/Rebecca.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Rebecca Hardenbrook </a></h4>
+	    <h4><a href="https://www.rhardenbrook.com/home" target="_blank">Rebecca Hardenbrook</a></h4>
             <div class="card-desription">
               <p>Postdoctoral Research Scientist, Dartmouth College</p>
             </div>
