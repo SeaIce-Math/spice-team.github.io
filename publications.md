@@ -16,7 +16,7 @@ layout: default
 
 ## 2023
 
-- Dinh, H., D. Giannakis,  J. Slawinska, G. Stadler (2023). Phase-field models of floe fracture in sea ice. **The Cryosphere Discuss**. 17, 3883–3893. [[link](https://doi.org/10.5194/egusphere-2022-790)].
+- Dinh, H., Giannakis, D., Slawinska, J., and Stadler, G. (2023). Phase-field models of floe fracture in sea ice. **The Cryosphere**. 17, 3883–3893. [[link](https://doi.org/10.5194/tc-17-3883-2023)].
 
 - Watkins, D. M., Bliss, A. C., Hutchings, J., Wilhelmus, M.M. (2023). Evidence of abrupt transitions between sea ice dynamical regimes in the East Greenland marginal ice zone. **Geophysical Research Letters** , 50(15), e2023GL103558. [[link]( https://doi.org/10.1029/2023GL103558)]. 
 
