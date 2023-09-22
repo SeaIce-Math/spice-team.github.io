@@ -6,6 +6,7 @@ layout: default
 Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFkuBe5bgtA)!
 
 ## 2023
+- Mohammad Javad Latifi, Dimitris Giannakis, International Congress on Computational Mechanics (July 2023), Kernel Methods for Discrete to Continuum Interpolation in Sea Ice Models
 - Stechmann SN, International Union of Geodesy and Geophysics, Session on Data-Driven Cryospheric Sciences. Berlin, Germany. (July 2023) Superfloe parameterization with physics constraints for data assimilation and uncertainty quantification of sea ice floes
 - Wilhelmus MM, Jet Propulsion Laboratory (Mar. 2023), Tracing the New Arctic
 - Wilhelmus MM, Guggenheim Aeronautical Laboratory, California Institute of Technology (Mar. 2023), Tracing the New Arctic
