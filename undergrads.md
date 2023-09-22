@@ -53,7 +53,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
         </div>
         </div>
     </td>
-        <td> <!-- Rohaiz Haris -->
+    <td> <!-- Rohaiz Haris -->
         <div class="card" style="width: 10rem;">
         <a href="" title="" class="card-image hover-overlay" target="_blank">
         <img src="images/team/RohaizHaris.jpg" alt="" class="img-responsive" height="150">
@@ -63,8 +63,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
         </div>
         </div>
     </td>
-    </td>
-        <td> <!-- Lana Lubecke -->
+    <td> <!-- Lana Lubecke -->
         <div class="card" style="width: 10rem;">
         <a href="" title="" class="card-image hover-overlay" target="_blank">
         <img src="images/team/lana_lubecke.jpg" alt="" class="img-responsive" height="150">
@@ -74,8 +73,7 @@ Each university within this MURI is dedicated to involving undergraduates in res
         </div>
         </div>
     </td>
-    </td>
-        <td> <!-- Thierno Diallo -->
+    <td> <!-- Thierno Diallo -->
         <div class="card" style="width: 10rem;">
         <a href="" title="" class="card-image hover-overlay" target="_blank">
         <img src="images/team/thierno_diallo.jpg" alt="" class="img-responsive" height="150">
