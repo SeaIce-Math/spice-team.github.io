@@ -63,11 +63,35 @@ Each university within this MURI is dedicated to involving undergraduates in res
         </div>
         </div>
     </td>
+    </td>
+        <td> <!-- Lana Lubecke -->
+        <div class="card" style="width: 10rem;">
+        <a href="" title="" class="card-image hover-overlay" target="_blank">
+        <img src="images/team/lana_lubecke.jpg" alt="" class="img-responsive" height="150">
+        </a>  
+        <div class="card-text">
+            <h4><a href="" target="_blank">Lana Lubecke</a></h4>
+        </div>
+        </div>
+    </td>
+    </td>
+        <td> <!-- Thierno Diallo -->
+        <div class="card" style="width: 10rem;">
+        <a href="" title="" class="card-image hover-overlay" target="_blank">
+        <img src="images/team/thierno_diallo.jpg" alt="" class="img-responsive" height="150">
+        </a>  
+        <div class="card-text">
+            <h4><a href="" target="_blank">Thierno Diallo</a></h4>
+        </div>
+        </div>
+    </td>
   </tr>
 </table>
 
 - Emma's work relates to the dispersion of sea ice floes due to oceanic eddies. She uses a model of sea ice floes coupled to an ocean model to explore how floe size influences the width of the marginal ice zone and its energetics
-- Rohaiz's work will look at energetics related to ice, ocean, and atmospheric coupling.
+- Rohaiz's work looks at energetics related to ice, ocean, and atmospheric coupling.
+- Lana is developing native Julia geometry clippling algorithms for use in Subzero.
+- Thierno is developing an algorithm to create an realistic initial floe configuration for Subzero based on a user-given floe size distribution. 
     
 
 <!-- ## Courant Institute NYU
