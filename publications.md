@@ -8,11 +8,13 @@ layout: default
 
 - Deng, Q., S.N. Stechmann, N. Chen (2023). Particle-Continuum Multiscale Modeling of Sea Ice Floes, submitted. [[preprint](https://arxiv.org/abs/2303.07819)].
 
-- Gupta, M., Gurcan, E., A. F. Thompson (2023). Dispersion of sea ice floes at a baroclinic front. In preparation.
-
 - Chen, N.,Evelyn, L., Wiggins, S. (2023). Lagrangian Descriptors with Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.04006)].
 
 - Chen, N.,Evelyn, L., Wiggins, S. (2023). Launching Drifter Observations in the Presence of Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.12779)].
+
+## 2024
+
+- Gupta, M., Gürcan, E., & Thompson, A. F. (2024). Eddy-induced dispersion of sea ice floes at the marginal ice zone. Geophysical Research Letters, 51, e2023GL105656. [[link](https://doi.org/10.1029/2023GL105656)].
 
 ## 2023
 
