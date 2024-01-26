@@ -281,7 +281,7 @@ layout: default
           <div class="card-text">
 	    <h4><a href="https://www.danielmwatkins.com/" target="_blank">Daniel Watkins</a></h4>
             <div class="card-desription">
-              <p>Postdoctoral Research Scientist, Brown University</p>
+              <p>Senior Research Associate, Brown University</p>
             </div>
           </div>
         </div>
