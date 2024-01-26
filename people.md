@@ -316,11 +316,11 @@ layout: default
     </td>
      <td> <!-- Gonzalo Gonzalez de Diego -->
         <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <a href="https://cims.nyu.edu/~gg2924/index.html" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/team/Gonzalo.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Gonzalo Gonzalez de Diego </a></h4>
+            <h4><a href="https://cims.nyu.edu/~gg2924/index.html" target="_blank">Gonzalo Gonzalez de Diego </a></h4>
             <div class="card-desription">
               <p>Postdoctoral Research Scientist, Courant Institute, NYU</p>
             </div>
