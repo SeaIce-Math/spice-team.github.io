@@ -202,22 +202,11 @@ Each university within this MURI is dedicated to involving undergraduates in res
           </div>
         </div> 
     </td>
-    <td> <!-- Madelyn Stewart -->
-        <div class="card" style="width: 10rem;">
-          <a href="https://people.earth.yale.edu/profile/mary-louise-timmermans/about" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Madelyn_Stewart.png" alt="" class="img-responsive" height="150">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://people.earth.yale.edu/profile/mary-louise-timmermans/about" target="_blank">Madelyn Stewart</a></h4>
-          </div>
-        </div>
-    </td>
   </tr>
 </table>
 
 - Megan is an undergraduate student working on examination of sea-ice floe shapes in high-resolution satellite images.
 
-- Madelyn is an undergraduate student studying seasonal and spatial variation of inertial oscillations in drifting sea ice on a pan-Arctic scale.
 
 ## Former Undergraduate Researchers
 <table class="fixed">
