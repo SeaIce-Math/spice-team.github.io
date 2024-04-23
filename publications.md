@@ -4,7 +4,7 @@ layout: default
 ---
 ## Submitted/In preparation:
 
-- Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.  
+- Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.
 
 - Deng, Q., S.N. Stechmann, N. Chen (2023). Particle-Continuum Multiscale Modeling of Sea Ice Floes, submitted. [[preprint](https://arxiv.org/abs/2303.07819)].
 
@@ -12,9 +12,15 @@ layout: default
 
 - Chen, N.,Evelyn, L., Wiggins, S. (2023). Launching Drifter Observations in the Presence of Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.12779)].
 
+- Giannakis, D., M. J. Latifi Jebelli (2024). Kernel smoothing operators on thick open domains. submitted. [[preprint](https://arxiv.org/abs/2403.00173)].
+
+- Froyland, G., D. Giannakis, E. Luna, J. Slawinska (2024). Revealing trends and persistent cycles of non-autonomous systems with operator-theoretic techniques: Applications to past and present climate dynamics. Nature Communications. [[In press)] (https://arxiv.org/abs/2308.04045)].
+
 ## 2024
 
 - Gupta, M., Gürcan, E., & Thompson, A. F. (2024). Eddy-induced dispersion of sea ice floes at the marginal ice zone. Geophysical Research Letters, 51, e2023GL105656. [[link](https://doi.org/10.1029/2023GL105656)].
+
+- Freeman, D., D. Giannakis, J. Slawinska (2024). Quantum mechanics for closure of dynamical systems. Multiscale Modeling and Simulation, 22(1), 283-333. [[link](https://doi.org/10.1137/22M1514246)].
 
 ## 2023
 
