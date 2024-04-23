@@ -5,7 +5,12 @@ layout: default
 
 Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFkuBe5bgtA)!
 
+## 2024
+- Dimitris Giannakis, AMS Annual Meeting (Feb. 2024), Characterizing Persistent Cycles and Trends of Climate Dynamics with Operator-Theoretic Techniques
+
 ## 2023
+- Dimitris Giannakis, AGU Fall Meeting (Dec. 2023), Operator-Theoretic Approaches to Data Assimilation and Dynamical Closure
+- Dimitris Giannakis, AGU Fall Meeting (Dec. 2023), Characterizing Subseasonal to Multidecadal Climate Variability with Operator-Theoretic Techniques
 - Mohammad Javad Latifi, Dimitris Giannakis, International Congress on Computational Mechanics (July 2023), Kernel Methods for Discrete to Continuum Interpolation in Sea Ice Models
 - Stechmann SN, International Union of Geodesy and Geophysics, Session on Data-Driven Cryospheric Sciences. Berlin, Germany. (July 2023) Superfloe parameterization with physics constraints for data assimilation and uncertainty quantification of sea ice floes
 - Wilhelmus MM, Jet Propulsion Laboratory (Mar. 2023), Tracing the New Arctic
