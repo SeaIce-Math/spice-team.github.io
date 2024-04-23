@@ -14,7 +14,7 @@ layout: default
 
 - Giannakis, D., M. J. Latifi Jebelli (2024). Kernel smoothing operators on thick open domains. submitted. [[preprint](https://arxiv.org/abs/2403.00173)].
 
-- Froyland, G., D. Giannakis, E. Luna, J. Slawinska (2024). Revealing trends and persistent cycles of non-autonomous systems with operator-theoretic techniques: Applications to past and present climate dynamics. Nature Communications. [[In press)] (https://arxiv.org/abs/2308.04045)].
+- Froyland, G., D. Giannakis, E. Luna, J. Slawinska (2024). Revealing trends and persistent cycles of non-autonomous systems with operator-theoretic techniques: Applications to past and present climate dynamics. Nature Communications. [[In press](https://arxiv.org/abs/2308.04045)].
 
 ## 2024
 
