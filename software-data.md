@@ -12,7 +12,11 @@ layout: default
 - Subzero DEM using polygons in Matlab.
 [https://github.com/SeaIce-Math/SubZero](https://github.com/SeaIce-Math/SubZero)
 
-- MATLAB Live Script for segmentation of individual sea-ice floes in imagery (See related segmentation products below). [https://doi.org/10.5281/zenodo.6146144](https://doi.org/10.5281/zenodo.6146144) 
+- MATLAB Live Script for segmentation of individual sea-ice floes in imagery (See related segmentation products below). [https://doi.org/10.5281/zenodo.6146144](https://doi.org/10.5281/zenodo.6146144)
+
+- FloeFrac, Phase-field models of ice floe fracture, [https://github.com/SeaIce-Math/FloeFrac](https://github.com/SeaIce-Math/FloeFrac)
+
+- KSPoly, Kernel smoothing algorithms for DEM data, [https://github.com/SeaIce-Math/KSPoly](https://github.com/SeaIce-Math/KSPoly)
 
 ## Data Products
 
