@@ -6,8 +6,9 @@ layout: default
 Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFkuBe5bgtA)!
 
 ## 2024
+- E. Buckley, M.-L. Timmermans, and M. M. Wilhelmus, “Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades of MODIS Data,” 2024 Ocean Science meeting, February 19–23, New Orleans, Louisiana, USA
 - Dimitris Giannakis, AMS Annual Meeting (Feb. 2024), Characterizing Persistent Cycles and Trends of Climate Dynamics with Operator-Theoretic Techniques
-
+- M. Kim, G. Manucharyan, M.M. Wilhelmus (2024) “Inferring ocean eddy energetics leveraging Lagrangian observation of ice floes in the Beaufort Gyre,” 2024 Ocean Science meeting, February 19–23, New Orleans, Louisiana, USA
 - Stechmann SN, Scientific Computing Seminar, National University of Singapore. (January 2024) Multi-scale models for Arctic sea ice: Toward a kinetic theory viewpoint
 
 ## 2023
