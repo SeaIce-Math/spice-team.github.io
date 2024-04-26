@@ -2,6 +2,12 @@
 title: Publications
 layout: default
 ---
+
+<!--
+## Publication Purgatory:
+- Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.
+-->
+
 ## Submitted/In preparation:
 
 - Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M. (2024) “Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades of MODIS Data”, submitted to The Cryosphere. EGUsphere [[preprint](https://doi.org/10.5194/egusphere-2024-89)].
@@ -9,8 +15,6 @@ layout: default
 - Chen, N.,Evelyn, L., Wiggins, S. (2023). Lagrangian Descriptors with Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.04006)].
 
 - Covington, J., Chen, N., Lunasin, E. and Wiggins, S., 2024. Probabilistic Eddy Identification with Uncertainty Quantification.
-
-- Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.
 
 - Deng, Q., N. Chen, S.N. Stechmann, J. Hu (2024). LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework, submitted. [[preprint](https://arxiv.org/abs/2401.18048)].
 
