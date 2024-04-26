@@ -4,19 +4,26 @@ layout: default
 ---
 ## Submitted/In preparation:
 
-- Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.
-
-- Deng, Q., S.N. Stechmann, N. Chen (2023). Particle-Continuum Multiscale Modeling of Sea Ice Floes, submitted. [[preprint](https://arxiv.org/abs/2303.07819)].
+- Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M. (2024) “Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades of MODIS Data”, submitted to The Cryosphere. EGUsphere [[preprint](https://doi.org/10.5194/egusphere-2024-89)].
 
 - Chen, N.,Evelyn, L., Wiggins, S. (2023). Lagrangian Descriptors with Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.04006)].
 
-- Chen, N.,Evelyn, L., Wiggins, S. (2023). Launching Drifter Observations in the Presence of Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.12779)].
+- Covington, J., Chen, N., Lunasin, E. and Wiggins, S., 2024. Probabilistic Eddy Identification with Uncertainty Quantification.
+
+- Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.
+
+- Deng, Q., N. Chen, S.N. Stechmann, J. Hu (2024). LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework, submitted. [[preprint](https://arxiv.org/abs/2401.18048)].
 
 - Giannakis, D., M. J. Latifi Jebelli (2024). Kernel smoothing operators on thick open domains. submitted. [[preprint](https://arxiv.org/abs/2403.00173)].
 
 - Froyland, G., D. Giannakis, E. Luna, J. Slawinska (2024). Revealing trends and persistent cycles of non-autonomous systems with operator-theoretic techniques: Applications to past and present climate dynamics. Nature Communications. [[In press](https://arxiv.org/abs/2308.04045)].
 
+- Watkins, Buckley, Kim, and Wilhelmus (2023) “Observing floe-scale sea ice motion in the Greenland Sea marginal ice zone during summer,” submitted to Annals of Glaciology. [[preprint](https://doi.org/10.22541/essoar.170431114.48516908/v1)].
+
 ## 2024
+- Chen, N., Lunasin, E. and Wiggins, S., 2024. Launching drifter observations in the presence of uncertainty. Physica D: Nonlinear Phenomena, p.134086.
+
+- Deng, Quanling, Samuel N. Stechmann, and Nan Chen. "Particle-continuum multiscale modeling of sea ice floes." Multiscale Modeling & Simulation 22.1 (2024): 230-255. [[link](https://doi.org/10.1137/23M155904X)].
 
 - Gupta, M., Gürcan, E., & Thompson, A. F. (2024). Eddy-induced dispersion of sea ice floes at the marginal ice zone. Geophysical Research Letters, 51, e2023GL105656. [[link](https://doi.org/10.1029/2023GL105656)].
 

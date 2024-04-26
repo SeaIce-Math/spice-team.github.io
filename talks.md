@@ -8,11 +8,19 @@ Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFk
 ## 2024
 - Dimitris Giannakis, AMS Annual Meeting (Feb. 2024), Characterizing Persistent Cycles and Trends of Climate Dynamics with Operator-Theoretic Techniques
 
+- Stechmann SN, Scientific Computing Seminar, National University of Singapore. (January 2024) Multi-scale models for Arctic sea ice: Toward a kinetic theory viewpoint
+
 ## 2023
+- Buckley E, Horvat C, Flocco D, Wilhelmus MM (2023) “Arctic Sea Ice Melt Pond Properties from High-resolution Airborne Data”, American Geophysical Union Annual Meeting, San Francisco, CA
 - Dimitris Giannakis, AGU Fall Meeting (Dec. 2023), Operator-Theoretic Approaches to Data Assimilation and Dynamical Closure
 - Dimitris Giannakis, AGU Fall Meeting (Dec. 2023), Characterizing Subseasonal to Multidecadal Climate Variability with Operator-Theoretic Techniques
+- Kim, M, Covington J, Montemuro B, Chen N, Manucharyan G, and Wilhelmus MM (2023) “Inferring ocean eddy characteristics leveraging Lagrangian observation of ice floes in the Beaufort Gyre” American Geophysical Union Annual Meeting, San Francisco, CA
+- Kim M, Manucharyan G, and Wilhelmus MM (2023) “Revealing the kinematic link between Arctic Ocean eddies and sea ice: inferring eddy characteristics from Lagrangian observations of ice motion”, 75th Annual Meeting of the American Physical Society Division of Fluid Dynamics, Washington, DC
 - Mohammad Javad Latifi, Dimitris Giannakis, International Congress on Computational Mechanics (July 2023), Kernel Methods for Discrete to Continuum Interpolation in Sea Ice Models
 - Stechmann SN, International Union of Geodesy and Geophysics, Session on Data-Driven Cryospheric Sciences. Berlin, Germany. (July 2023) Superfloe parameterization with physics constraints for data assimilation and uncertainty quantification of sea ice floes
+- Watkins DM, Buckley E, Kim M, Paniagua C, Divoll T, Restrepo MI, and Wilhelmus MM (2023) “Ice Floe Tracker: An Open-Source Tool Enabling Novel Observations of Sea Ice Motion from Visual Remote Sensing Imagery”, American Geophysical Union Annual Meeting, San Francisco, CA
+- Watkins, D.M., Wilhelmus, M.M., Buckley, E., & Kim, M. (2023) “A new sea ice drift product for optical remote sensing imagery,” International Glaciological Society Sea Ice Symposium, Bremerhaven, Germany
+- Watkins DM, Bliss AC, Hutchings JK, and Wilhelmus MM (2023) “Sea ice dynamical response to small and medium scale ocean currents”, 75th Annual Meeting of the American Physical Society Division of Fluid Dynamics, Washington, DC
 - Wilhelmus MM, Jet Propulsion Laboratory (Mar. 2023), Tracing the New Arctic
 - Wilhelmus MM, Guggenheim Aeronautical Laboratory, California Institute of Technology (Mar. 2023), Tracing the New Arctic
 - Wilhelmus MM, Earth System Science, Stanford University (Mar. 2023), Tracing the New Arctic
