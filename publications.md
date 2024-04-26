@@ -18,6 +18,8 @@ layout: default
 
 - Froyland, G., D. Giannakis, E. Luna, J. Slawinska (2024). Revealing trends and persistent cycles of non-autonomous systems with operator-theoretic techniques: Applications to past and present climate dynamics. Nature Communications. [[In press](https://arxiv.org/abs/2308.04045)].
 
+- Moncada, R., M. Gupta, A.F. Thompson & J. Andrade, 2024. Comparing the role of floe breakage and melt on summer sea ice loss. J. Geophys. Res., in review
+
 - Watkins, Buckley, Kim, and Wilhelmus (2023) “Observing floe-scale sea ice motion in the Greenland Sea marginal ice zone during summer,” submitted to Annals of Glaciology. [[preprint](https://doi.org/10.22541/essoar.170431114.48516908/v1)].
 
 ## 2024
