@@ -7,6 +7,7 @@ Check out our [YouTube channel](https://www.youtube.com/channel/UCMyg1o8DTxB2fFk
 
 ## 2024
 - E. Buckley, M.-L. Timmermans, and M. M. Wilhelmus, “Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades of MODIS Data,” 2024 Ocean Science meeting, February 19–23, New Orleans, Louisiana, USA
+- Haris, R., M. Gupta, S. Gering, & A.F. Thompson. Surface ocean momentum transfer in sea ice covered regions: The role of floe-scale dynamics. Ocean Sciences Meeting February 2024, New Orleans, LA, Paper #PS42A-07
 - G. Manucharyan, K. Shrestha and A. Thompson, “Response of Submesoscale Variability Under Sea Ice to Wind Bursts and Mesoscale Strain,” 2024 Ocean Science meeting, February 19–23, New Orleans, Louisiana, USA
 - B. Montemuro and G. Manucharyan, “The role of islands in the summer breakup of sea ice arches in Nares Strait,” 2024 Ocean Science meeting, February 19–23, New Orleans, Louisiana, USA
 - K. Matuska, G. Manucharyan, B. Montemuro, and M.-L. Timmermans, “Modeling inertial oscillations of Arctic sea ice,” 2024 Ocean Science meeting, February 19–23, New Orleans, Louisiana, USA
