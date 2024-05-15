@@ -10,6 +10,8 @@ layout: default
 
 ## Submitted/In preparation:
 
+- Gonzalo G. de Diego, Mukund Gupta, Skylar A. Gering, Rohaiz Haris, and Georg Stadler (2024) "Modeling sea ice in the marginal ice zone as a dense granular flow with rheology inferred from a discrete element model", submitted. [[preprint](https://arxiv.org/pdf/2405.08123)].
+
 - Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M. (2024) “Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades of MODIS Data”, submitted to The Cryosphere. EGUsphere [[preprint](https://doi.org/10.5194/egusphere-2024-89)].
 
 - Chen, N.,Evelyn, L., Wiggins, S. (2023). Lagrangian Descriptors with Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.04006)].
