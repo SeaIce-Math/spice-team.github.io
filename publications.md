@@ -8,7 +8,7 @@ layout: default
 - Davis, A. D., D. Giannakis, G. Stadler, S. N. Stechmann (2021). Super-parameterized numerical methods for the Boltzmann equation. In preparation.
 -->
 
-### Submitted/In preparation:
+## Submitted/In preparation:
 
 - De Diego, G., Gupta, M., Gering, S., Haris, R., and Stadler, G. (2024) "Modeling sea ice in the marginal ice zone as a dense granular flow with rheology inferred from a discrete element model", submitted to JFM. [[preprint](https://arxiv.org/abs/2405.08123)].
 
