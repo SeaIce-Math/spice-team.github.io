@@ -219,6 +219,21 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Mohammad Javad Latifi -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://math.dartmouth.edu/~mjebelli/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/latifi.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://math.dartmouth.edu/~mjebelli/" target="_blank">Mohammad Javad Latifi</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, Dartmouth College</p>
+            </div>
+          </div>
+        </div>
+    </td>      
+  </tr>
+  <tr>
     <td> <!-- Minki Kim -->
         <div class="card" style="width: 10rem;">
           <a href="https://www.minki-kim.com/" title="" class="card-image hover-overlay" target="_blank">
@@ -232,21 +247,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
-    <td> <!-- Mohammad Javad Latifi -->
-        <div class="card" style="width: 10rem;">
-          <a href="https://math.dartmouth.edu/~mjebelli/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/latifi.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://math.dartmouth.edu/~mjebelli/" target="_blank">Mohammad Javad Latifi</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, Dartmouth College</p>
-            </div>
-          </div>
-        </div>
-    </td>  
     <td> <!-- Changhong Mou -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -393,47 +393,6 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Rosalinda Lopez -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picLopez.png" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Rosalinda Lopez</a></h4>
-            <div class="card-desription">
-              <p>(Former Graduate Student, Universtiy of California Riverside)</p>
-            </div>
-          </div>
-        </div>
-    </td>
-  </tr>
-  <tr>
-    <td> <!-- Melody Shih -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picShih.png" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Melody Shih</a></h4>
-            <div class="card-desription">
-              <p>(Former Graduate Student, Courant Institute, NYU)</p>
-            </div>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Kalyan Shrestha -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/shrestha.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
-            <div class="card-desription">
-              <p>(Former Postdoctoral Research Scientist, University of Washington)</p>
-            </div>
-          </div>
-        </div>
-    </td>
     <td> <!-- Skylar Gering -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -447,7 +406,9 @@ layout: default
             </div>
           </div>
         </div>
-    </td>
+    </td>    
+  </tr>
+  <tr>
     <td> <!-- Mukund Gupta -->
         <div class="card" style="width: 10rem;">
           <a href="https://eapsweb.mit.edu/people/guptam" title="" class="card-image hover-overlay" target="_blank">
@@ -461,22 +422,20 @@ layout: default
             </div>
           </div>
         </div>
-    </td>        
-  </tr>
-  <tr>
-    <td> <!-- Ryan Vaughn -->
+    </td>            
+    <td> <!-- Rosalinda Lopez -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picVaughn.jpg" alt="" class="img-responsive" height="150">
+          <img src="images/team/picLopez.png" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Ryan Vaughn</a></h4>
+            <h4><a href="" target="_blank">Rosalinda Lopez</a></h4>
             <div class="card-desription">
-              <p>(Former Postdoctoral Research Scientist, Courant Institute, NYU)</p>
+              <p>(Former Graduate Student, Universtiy of California Riverside)</p>
             </div>
           </div>
         </div>
-    </td>  
+    </td>
     <td> <!-- Brandon Montemuro -->
         <div class="card" style="width: 10rem;">
           <a href="https://www.brandonmontemuro.com/" title="" class="card-image hover-overlay" target="_blank">
@@ -487,6 +446,47 @@ layout: default
             <div class="card-desription">
               <p>(Former Postdoctoral Research Scientist, University of Washington)</p>
               <p>Faculty member at Saint Michael's College</p>
+            </div>
+          </div>
+        </div>
+    </td>       
+    <td> <!-- Melody Shih -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picShih.png" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Melody Shih</a></h4>
+            <div class="card-desription">
+              <p>(Former Graduate Student, Courant Institute, NYU)</p>
+            </div>
+          </div>
+        </div>
+    </td>
+  </tr>  
+  <tr>
+    <td> <!-- Kalyan Shrestha -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/shrestha.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Kalyan Shrestha</a></h4>
+            <div class="card-desription">
+              <p>(Former Postdoctoral Research Scientist, University of Washington)</p>
+            </div>
+          </div>
+        </div>
+    </td>  
+    <td> <!-- Ryan Vaughn -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picVaughn.jpg" alt="" class="img-responsive" height="150">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Ryan Vaughn</a></h4>
+            <div class="card-desription">
+              <p>(Former Postdoctoral Research Scientist, Courant Institute, NYU)</p>
             </div>
           </div>
         </div>
