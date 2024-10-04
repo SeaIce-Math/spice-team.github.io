@@ -165,34 +165,8 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Skylar Gering -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/gering.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://sase.caltech.edu/people/index.html" target="_blank">Skylar Gering</a></h4>
-            <div class="card-desription">
-              <p>Schmidt Academy Software Engineer, CalTech</p>
-            </div>
-          </div>
-        </div>
-    </td>
   </tr>
   <tr>	
-    <td> <!-- Mukund Gupta -->
-        <div class="card" style="width: 10rem;">
-          <a href="https://eapsweb.mit.edu/people/guptam" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/gupta.jpeg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://eapsweb.mit.edu/people/guptam" target="_blank">Mukund Gupta</a></h4>
-            <div class="card-desription">
-              <p>Research Scientist, CalTech</p>
-            </div>
-          </div>
-        </div>
-    </td>
     <td> <!-- Jiuhua Hu -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -234,19 +208,6 @@ layout: default
     </td>
   </tr>
   <tr>
-    <td> <!-- Brandon Montemuro -->
-        <div class="card" style="width: 10rem;">
-          <a href="https://www.brandonmontemuro.com/" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/montemuro.jpeg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://www.brandonmontemuro.com/" target="_blank">Brandon Montemuro</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Washington</p>
-            </div>
-          </div>
-        </div>
-    </td>
     <td> <!-- Changhong Mou -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -256,19 +217,6 @@ layout: default
             <h4><a href="" target="_blank">Changhong Mou</a></h4>
             <div class="card-desription">
               <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
-            </div>
-          </div>
-        </div>
-    </td>
-    <td> <!-- Ryan Vaughn -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/picVaughn.jpg" alt="" class="img-responsive" height="150">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Ryan Vaughn</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, Courant Institute, NYU</p>
             </div>
           </div>
         </div>
@@ -488,6 +436,63 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Skylar Gering -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/gering.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://sase.caltech.edu/people/index.html" target="_blank">Skylar Gering</a></h4>
+            <div class="card-desription">
+              <p>(Former Schmidt Academy Software Engineer, CalTech)</p>
+              <p> Graduate student at MIT-WHOI</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Mukund Gupta -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://eapsweb.mit.edu/people/guptam" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/gupta.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://mukund-gupta.github.io/" target="_blank">Mukund Gupta</a></h4>
+            <div class="card-desription">
+              <p>(Former Research Scientist, CalTech)</p>
+              <p>Assistant Professor at the Delft University of Technology (TU Delft)</p>
+            </div>
+          </div>
+        </div>
+    </td>        
+  </tr>
+  <tr>
+    <td> <!-- Ryan Vaughn -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/picVaughn.jpg" alt="" class="img-responsive" height="150">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Ryan Vaughn</a></h4>
+            <div class="card-desription">
+              <p>(Former Postdoctoral Research Scientist, Courant Institute, NYU)</p>
+            </div>
+          </div>
+        </div>
+    </td>  
+    <td> <!-- Brandon Montemuro -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://www.brandonmontemuro.com/" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/montemuro.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://www.brandonmontemuro.com/" target="_blank">Brandon Montemuro</a></h4>
+            <div class="card-desription">
+              <p>(Former Postdoctoral Research Scientist, University of Washington)</p>
+              <p>Faculty member at Saint Michael's College</p>
+            </div>
+          </div>
+        </div>
+    </td>    
   </tr>
 </table>
 
