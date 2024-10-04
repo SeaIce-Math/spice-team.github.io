@@ -139,6 +139,19 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Samuel Brenner -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://cims.nyu.edu/~gg2924/index.html" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/brenner.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://sdbrenner.github.io/pages/about.html" target="_blank">Samuel Brenner </a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Scholar Research Associate, Caltech</p>
+            </div>
+          </div>
+        </div>
+    </td>        
     <td> <!-- Ellen Buckley -->
       <div class="card" style="width: 10rem;">
         <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -167,6 +180,32 @@ layout: default
     </td>
   </tr>
   <tr>	
+    <td> <!-- Gonzalo Gonzalez de Diego -->
+      <div class="card" style="width: 10rem;">
+        <a href="https://cims.nyu.edu/~gg2924/index.html" title="" class="card-image hover-overlay" target="_blank">
+        <img src="images/team/Gonzalo.jpg" alt="" class="img-responsive">
+        </a>  
+        <div class="card-text">
+          <h4><a href="https://cims.nyu.edu/~gg2924/index.html" target="_blank">Gonzalo Gonzalez de Diego </a></h4>
+          <div class="card-desription">
+            <p>Postdoctoral Research Scientist, Courant Institute, NYU</p>
+          </div>
+        </div>
+      </div>
+    </td>  
+    <td> <!-- Rebecca Hardenbrook -->
+      <div class="card" style="width: 10rem;">
+        <a href="https://www.rhardenbrook.com/home" title="" class="card-image hover-overlay" target="_blank">
+            <img src="images/team/Rebecca.jpg" alt="" class="img-responsive">
+            </a>  
+            <div class="card-text">
+            <h4><a href="https://www.rhardenbrook.com/home" target="_blank">Rebecca Hardenbrook</a></h4>
+            <div class="card-desription">
+            <p>Postdoctoral Research Scientist, Dartmouth College</p>
+          </div>
+        </div>
+      </div>
+    </td>    
     <td> <!-- Jiuhua Hu -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -193,6 +232,8 @@ layout: default
           </div>
         </div>
     </td>
+  </tr>
+  <tr>
     <td> <!-- Mohammad Javad Latifi -->
         <div class="card" style="width: 10rem;">
           <a href="https://math.dartmouth.edu/~mjebelli/" title="" class="card-image hover-overlay" target="_blank">
@@ -205,9 +246,7 @@ layout: default
             </div>
           </div>
         </div>
-    </td>
-  </tr>
-  <tr>
+    </td>  
     <td> <!-- Changhong Mou -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -234,8 +273,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
     <td> <!-- Bryan Xu -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -245,45 +282,6 @@ layout: default
             <h4><a href="" target="_blank">Bryan Xu </a></h4>
             <div class="card-desription">
               <p>Graduate Student, University of Wisconsin-Madison</p>
-            </div>
-          </div>
-        </div>
-    </td>
-     <td> <!-- Rebecca Hardenbrook -->
-        <div class="card" style="width: 10rem;">
-	  <a href="https://www.rhardenbrook.com/home" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Rebecca.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-	    <h4><a href="https://www.rhardenbrook.com/home" target="_blank">Rebecca Hardenbrook</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, Dartmouth College</p>
-            </div>
-          </div>
-        </div>
-    </td>
-     <td> <!-- Gonzalo Gonzalez de Diego -->
-        <div class="card" style="width: 10rem;">
-          <a href="https://cims.nyu.edu/~gg2924/index.html" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Gonzalo.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://cims.nyu.edu/~gg2924/index.html" target="_blank">Gonzalo Gonzalez de Diego </a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, Courant Institute, NYU</p>
-            </div>
-          </div>
-        </div>
-    </td>
-     <td> <!-- Samuel Brenner -->
-        <div class="card" style="width: 10rem;">
-          <a href="https://cims.nyu.edu/~gg2924/index.html" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/brenner.jpeg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="https://sdbrenner.github.io/pages/about.html" target="_blank">Samuel Brenner </a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Scholar Research Associate, Caltech</p>
             </div>
           </div>
         </div>
