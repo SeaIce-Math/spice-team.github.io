@@ -327,6 +327,19 @@ layout: default
           </div>
         </div>
     </td>
+     <td> <!-- Samuel Brenner -->
+        <div class="card" style="width: 10rem;">
+          <a href="https://cims.nyu.edu/~gg2924/index.html" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/brenner.jpeg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="https://sdbrenner.github.io/pages/about.html" target="_blank">Samuel Brenner </a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Scholar Research Associate, Caltech</p>
+            </div>
+          </div>
+        </div>
+    </td>    
   </tr>
 </table>
 
