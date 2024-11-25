@@ -10,7 +10,6 @@ layout: default
 
 ## Submitted/In preparation:
 
-- De Diego, G., Gupta, M., Gering, S., Haris, R., and Stadler, G. (2024) "Modeling sea ice in the marginal ice zone as a dense granular flow with rheology inferred from a discrete element model", submitted to JFM. [[preprint](https://arxiv.org/abs/2405.08123)].
 
 - Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M. (2024) “Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades of MODIS Data”, submitted to The Cryosphere. EGUsphere [[preprint](https://doi.org/10.5194/egusphere-2024-89)].
 
@@ -31,6 +30,8 @@ layout: default
 - Montemuro, B. P. and Manucharyan, G. E. (2024). The Role of Islands in Sea Ice Transport Through Nares Straitn. In preparation. 
 
 ## 2024
+- De Diego, G., Gupta, M., Gering, S., Haris, R., and Stadler, G. (2024) Modelling sea ice in the marginal ice zone as a dense granular flow with rheology inferred from discrete element model data. Journal of Fluid Mechanics, 1000:A22 [[link](https://doi.org/10.1017/jfm.2024.1026)].
+
 - Chen, N., Lunasin, E. and Wiggins, S., 2024. Launching drifter observations in the presence of uncertainty. Physica D: Nonlinear Phenomena, p.134086.
 
 - Deng, Quanling, Samuel N. Stechmann, and Nan Chen. "Particle-continuum multiscale modeling of sea ice floes." Multiscale Modeling & Simulation 22.1 (2024): 230-255. [[link](https://doi.org/10.1137/23M155904X)].
