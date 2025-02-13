@@ -27,8 +27,8 @@ layout: default
 
 - Watkins, Buckley, Kim, and Wilhelmus (2023) “Observing floe-scale sea ice motion in the Greenland Sea marginal ice zone during summer,” submitted to Annals of Glaciology. [[preprint](https://doi.org/10.22541/essoar.170431114.48516908/v1)].
 
-- Montemuro, B. P. and Manucharyan, G. E. (2024). The Role of Islands in Sea Ice Transport Through Nares Straitn. In preparation. 
-
+- Montemuro, B. P. and Manucharyan, G. E. (2024). The Role of Islands in Sea Ice Transport Through Nares Straitn. In review. [[preprint](https://doi.org/10.31223/X5J12G)].
+  
 ## 2024
 - De Diego, G., Gupta, M., Gering, S., Haris, R., and Stadler, G. (2024) Modelling sea ice in the marginal ice zone as a dense granular flow with rheology inferred from discrete element model data. Journal of Fluid Mechanics, 1000:A22 [[link](https://doi.org/10.1017/jfm.2024.1026)].
 
