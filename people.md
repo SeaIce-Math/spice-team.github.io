@@ -165,21 +165,6 @@ layout: default
         </div>
       </div>
     </td>
-    <td> <!-- Jeff Covington -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Covington.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Jeff Covington</a></h4>
-            <div class="card-desription">
-              <p>Graduate Student, University of Wisconsin-Madison</p>
-            </div>
-          </div>
-        </div>
-    </td>
-  </tr>
-  <tr>	
     <td> <!-- Gonzalo Gonzalez de Diego -->
       <div class="card" style="width: 10rem;">
         <a href="https://cims.nyu.edu/~gg2924/index.html" title="" class="card-image hover-overlay" target="_blank">
@@ -192,7 +177,9 @@ layout: default
           </div>
         </div>
       </div>
-    </td>  
+    </td>     
+  </tr>
+  <tr>	 
     <td> <!-- Rebecca Hardenbrook -->
       <div class="card" style="width: 10rem;">
         <a href="https://www.rhardenbrook.com/home" title="" class="card-image hover-overlay" target="_blank">
@@ -232,8 +219,6 @@ layout: default
           </div>
         </div>
     </td>
-  </tr>
-  <tr>
     <td> <!-- Daniel Watkins -->
         <div class="card" style="width: 10rem;">
 	  <a href="https://www.danielmwatkins.com/" title="" class="card-image hover-overlay" target="_blank">
@@ -246,20 +231,7 @@ layout: default
             </div>
           </div>
         </div>
-    </td>
-    <td> <!-- Bryan Xu -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/Bryan_Xu.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Bryan Xu </a></h4>
-            <div class="card-desription">
-              <p>Graduate Student, University of Wisconsin-Madison</p>
-            </div>
-          </div>
-        </div>
-    </td>    
+    </td>     
   </tr>
 </table>
 
@@ -473,7 +445,7 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Jiuhua Hu</a></h4>
             <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
+              <p>(Former Postdoctoral Research Scientist, University of Wisconsin-Madison)</p>
             </div>
           </div>
         </div>
@@ -486,12 +458,41 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Changhong Mou</a></h4>
             <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
+              <p>Former Postdoctoral Research Scientist, University of Wisconsin-Madison)</p>
             </div>
           </div>
         </div>
     </td>            
   </tr>
+  <tr>
+    <td> <!-- Jeff Covington -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Covington.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Jeff Covington</a></h4>
+            <div class="card-desription">
+              <p>(Former Graduate Student, University of Wisconsin-Madison)</p>
+              <p>Fenior data scientist at Northern Arizona University</p>
+            </div>
+          </div>
+        </div>
+    </td> 
+    <td> <!-- Bryan Xu -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/Bryan_Xu.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Bryan Xu </a></h4>
+            <div class="card-desription">
+              <p>(Former Graduate Student, University of Wisconsin-Madison)</p>
+            </div>
+          </div>
+        </div>
+    </td>      
+  </tr>  
 </table>
 
 ## External Collaborators
