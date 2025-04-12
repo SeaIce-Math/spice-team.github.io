@@ -10,31 +10,33 @@ layout: default
 
 ## Submitted/In preparation:
 
-
 - Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M. (2024) “Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades of MODIS Data”, submitted to The Cryosphere. EGUsphere [[preprint](https://doi.org/10.5194/egusphere-2024-89)].
-
-- Chen, N.,Evelyn, L., Wiggins, S. (2023). Lagrangian Descriptors with Uncertainty, submitted. [[preprint](https://arxiv.org/abs/2307.04006)].
-
-- Covington, J., Chen, N., Lunasin, E. and Wiggins, S., 2024. Probabilistic Eddy Identification with Uncertainty Quantification.
-
-- Deng, Q., N. Chen, S.N. Stechmann, J. Hu (2024). LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework, submitted. [[preprint](https://arxiv.org/abs/2401.18048)].
 
 - Giannakis, D., M. J. Latifi Jebelli (2024). Kernel smoothing operators on thick open domains. submitted. [[preprint](https://arxiv.org/abs/2403.00173)].
 
-- Froyland, G., D. Giannakis, E. Luna, J. Slawinska (2024). Revealing trends and persistent cycles of non-autonomous systems with operator-theoretic techniques: Applications to past and present climate dynamics. Nature Communications. [[In press](https://arxiv.org/abs/2308.04045)].
+- Moncada, R., M. Gupta, A.F. Thompson, and J. Andrade (2024). Comparing the role of floe breakage and melt on summer sea ice loss. J. Geophys. Res. In press.
 
-- Moncada, R., M. Gupta, A.F. Thompson & J. Andrade, 2024. Comparing the role of floe breakage and melt on summer sea ice loss. J. Geophys. Res., in review
+- Watkins, Buckley, Kim, and Wilhelmus (2024) “Observing floe-scale sea ice motion in the Greenland Sea marginal ice zone during summer,” submitted to Annals of Glaciology. [[preprint](https://doi.org/10.22541/essoar.170431114.48516908/v1)].
 
-- Watkins, Buckley, Kim, and Wilhelmus (2023) “Observing floe-scale sea ice motion in the Greenland Sea marginal ice zone during summer,” submitted to Annals of Glaciology. [[preprint](https://doi.org/10.22541/essoar.170431114.48516908/v1)].
+- Montemuro, B. P. and Manucharyan, G. E. (2024). The Role of Islands in Sea Ice Transport Through Nares Strait. submitted [[preprint] (https://doi.org/10.31223/X5J12G)]. 
 
-- Montemuro, B. P. and Manucharyan, G. E. (2024). The Role of Islands in Sea Ice Transport Through Nares Straitn. In preparation. 
+## 2025
+
+- Covington, J., Chen, N., Lunasin, E. and Wiggins, S. (2025). Probabilistic Eddy Identification with Uncertainty Quantification, Physica D: Nonlinear Phenomena, 473. [[link](https://doi.org/10.1016/j.physd.2025.134542)]
+
+- Deng, Q., N. Chen, S.N. Stechmann, J. Hu (2025). LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework, Journal of Advances in Modeling Earth Systems, 17. [[link](https://doi.org/10.1029/2024MS004259)].
 
 ## 2024
+
+- Chen, N.,Evelyn, L., Wiggins, S. (2024). Lagrangian Descriptors with Uncertainty, Physica D: Nonlinear Phenomena, 467. [[link](https://doi.org/10.1016/j.physd.2024.134282)].
+
+- Froyland, G., D. Giannakis, E. Luna, J. Slawinska (2024). Revealing trends and persistent cycles of non-autonomous systems with operator-theoretic techniques: Applications to past and present climate dynamics. Nature Communications 15, Article number: 4268. [[link](https://www.nature.com/articles/s41467-024-48033-6)].
+
 - De Diego, G., Gupta, M., Gering, S., Haris, R., and Stadler, G. (2024) Modelling sea ice in the marginal ice zone as a dense granular flow with rheology inferred from discrete element model data. Journal of Fluid Mechanics, 1000:A22 [[link](https://doi.org/10.1017/jfm.2024.1026)].
 
-- Chen, N., Lunasin, E. and Wiggins, S., 2024. Launching drifter observations in the presence of uncertainty. Physica D: Nonlinear Phenomena, p.134086.
+- Chen, N., Lunasin, E. and Wiggins, S. (2024). Launching drifter observations in the presence of uncertainty. Physica D: Nonlinear Phenomena, p.134086.
 
-- Deng, Quanling, Samuel N. Stechmann, and Nan Chen. "Particle-continuum multiscale modeling of sea ice floes." Multiscale Modeling & Simulation 22.1 (2024): 230-255. [[link](https://doi.org/10.1137/23M155904X)].
+- Deng, Quanling, Samuel N. Stechmann, and Nan Chen. (2024). Particle-continuum multiscale modeling of sea ice floes. Multiscale Modeling & Simulation 22.1: 230-255. [[link](https://doi.org/10.1137/23M155904X)].
 
 - Gupta, M., Gürcan, E., & Thompson, A. F. (2024). Eddy-induced dispersion of sea ice floes at the marginal ice zone. Geophysical Research Letters, 51, e2023GL105656. [[link](https://doi.org/10.1029/2023GL105656)].
 
