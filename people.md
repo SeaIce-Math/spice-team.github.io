@@ -206,19 +206,6 @@ layout: default
         </div>
       </div>
     </td>    
-    <td> <!-- Jiuhua Hu -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/JiuhuaHu.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Jiuhua Hu</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
-            </div>
-          </div>
-        </div>
-    </td>
     <td> <!-- Mohammad Javad Latifi -->
         <div class="card" style="width: 10rem;">
           <a href="https://math.dartmouth.edu/~mjebelli/" title="" class="card-image hover-overlay" target="_blank">
@@ -231,9 +218,7 @@ layout: default
             </div>
           </div>
         </div>
-    </td>      
-  </tr>
-  <tr>
+    </td> 
     <td> <!-- Minki Kim -->
         <div class="card" style="width: 10rem;">
           <a href="https://www.minki-kim.com/" title="" class="card-image hover-overlay" target="_blank">
@@ -247,19 +232,8 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Changhong Mou -->
-        <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/team/ChanghongMou.jpg" alt="" class="img-responsive">
-          </a>  
-          <div class="card-text">
-            <h4><a href="" target="_blank">Changhong Mou</a></h4>
-            <div class="card-desription">
-              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
-            </div>
-          </div>
-        </div>
-    </td>
+  </tr>
+  <tr>
     <td> <!-- Daniel Watkins -->
         <div class="card" style="width: 10rem;">
 	  <a href="https://www.danielmwatkins.com/" title="" class="card-image hover-overlay" target="_blank">
@@ -490,7 +464,33 @@ layout: default
             </div>
           </div>
         </div>
-    </td>    
+    </td>
+    <td> <!-- Jiuhua Hu -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/JiuhuaHu.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Jiuhua Hu</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
+            </div>
+          </div>
+        </div>
+    </td>
+    <td> <!-- Changhong Mou -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/ChanghongMou.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Changhong Mou</a></h4>
+            <div class="card-desription">
+              <p>Postdoctoral Research Scientist, University of Wisconsin-Madison</p>
+            </div>
+          </div>
+        </div>
+    </td>            
   </tr>
 </table>
 
