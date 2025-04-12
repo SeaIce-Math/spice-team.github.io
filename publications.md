@@ -14,11 +14,9 @@ layout: default
 
 - Giannakis, D., M. J. Latifi Jebelli (2024). Kernel smoothing operators on thick open domains. submitted. [[preprint](https://arxiv.org/abs/2403.00173)].
 
-- Moncada, R., M. Gupta, A.F. Thompson, and J. Andrade (2024). Comparing the role of floe breakage and melt on summer sea ice loss. J. Geophys. Res. In press.
-
 - Watkins, Buckley, Kim, and Wilhelmus (2024) “Observing floe-scale sea ice motion in the Greenland Sea marginal ice zone during summer,” submitted to Annals of Glaciology. [[preprint](https://doi.org/10.22541/essoar.170431114.48516908/v1)].
 
-- Montemuro, B. P. and Manucharyan, G. E. (2024). The Role of Islands in Sea Ice Transport Through Nares Strait. submitted [[preprint] (https://doi.org/10.31223/X5J12G)]. 
+- Montemuro, B. P. and Manucharyan, G. E. (2024). The Role of Islands in Sea Ice Transport Through Nares Strait. submitted [[preprint](https://doi.org/10.31223/X5J12G)]. 
 
 ## 2025
 
@@ -27,6 +25,8 @@ layout: default
 - Deng, Q., N. Chen, S.N. Stechmann, J. Hu (2025). LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework, Journal of Advances in Modeling Earth Systems, 17. [[link](https://doi.org/10.1029/2024MS004259)].
 
 ## 2024
+
+- Moncada, R., M. Gupta, A.F. Thompson, and J. Andrade (2024). Comparing the role of floe breakage and melt on summer sea ice loss. J. Geophys. Res. In press.
 
 - Chen, N.,Evelyn, L., Wiggins, S. (2024). Lagrangian Descriptors with Uncertainty, Physica D: Nonlinear Phenomena, 467. [[link](https://doi.org/10.1016/j.physd.2024.134282)].
 
