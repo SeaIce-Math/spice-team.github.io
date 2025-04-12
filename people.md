@@ -458,7 +458,7 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Changhong Mou</a></h4>
             <div class="card-desription">
-              <p>Former Postdoctoral Research Scientist, University of Wisconsin-Madison)</p>
+              <p>(Former Postdoctoral Research Scientist, University of Wisconsin-Madison)</p>
             </div>
           </div>
         </div>
@@ -474,7 +474,7 @@ layout: default
             <h4><a href="" target="_blank">Jeff Covington</a></h4>
             <div class="card-desription">
               <p>(Former Graduate Student, University of Wisconsin-Madison)</p>
-              <p>Fenior data scientist at Northern Arizona University</p>
+              <p>Senior data scientist at Northern Arizona University</p>
             </div>
           </div>
         </div>
