@@ -20,6 +20,8 @@ layout: default
 
 ## 2025
 
+- Gupta, M., Regan, H., Koo, Y., Chua, S. M. T., Li, X., & Heil, P. (2025). Inferring the seasonality of sea ice floes in the Weddell Sea using ICESat-2. The Cryosphere, 19(3), 1241-1257. [[link](https://doi.org/10.5194/tc-19-1241-2025)]
+
 - Covington, J., Chen, N., Lunasin, E. and Wiggins, S. (2025). Probabilistic Eddy Identification with Uncertainty Quantification, Physica D: Nonlinear Phenomena, 473. [[link](https://doi.org/10.1016/j.physd.2025.134542)]
 
 - Deng, Q., N. Chen, S.N. Stechmann, J. Hu (2025). LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework, Journal of Advances in Modeling Earth Systems, 17. [[link](https://doi.org/10.1029/2024MS004259)].
