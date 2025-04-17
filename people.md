@@ -225,7 +225,7 @@ layout: default
           <img src="images/team/maddy.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-	    <h4><a href="https://kovaleskima.github.io/" target="_blank">Daniel Watkins</a></h4>
+	    <h4><a href="https://kovaleskima.github.io/" target="_blank">Maddy Kovaleski</a></h4>
             <div class="card-desription">
               <p>Graduate Student, University of Washington</p>
             </div>
