@@ -219,6 +219,21 @@ layout: default
           </div>
         </div>
     </td>
+    <td> <!-- Maddy Kovaleski -->
+        <div class="card" style="width: 10rem;">
+	  <a href="https://kovaleskima.github.io//" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/team/maddy.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+	    <h4><a href="https://kovaleskima.github.io/" target="_blank">Daniel Watkins</a></h4>
+            <div class="card-desription">
+              <p>Graduate Student, University of Washington</p>
+            </div>
+          </div>
+        </div>
+    </td>         
+  </tr>
+  <tr>
     <td> <!-- Daniel Watkins -->
         <div class="card" style="width: 10rem;">
 	  <a href="https://www.danielmwatkins.com/" title="" class="card-image hover-overlay" target="_blank">
@@ -231,7 +246,7 @@ layout: default
             </div>
           </div>
         </div>
-    </td>     
+    </td>       
   </tr>
 </table>
 
