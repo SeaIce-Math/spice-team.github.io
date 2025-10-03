@@ -10,6 +10,8 @@ layout: default
 
 ## Submitted/In preparation:
 
+- de Diego, G. G., and Stadler, G. (2025) "Non-Newtonian viscous fluid models with learned rheology accurately reproduce Lagrangian sea ice simulations", submitted [[preprint](https://arxiv.org/abs/2509.16426)]
+
 - Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M. (2024) “Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades of MODIS Data”, submitted to The Cryosphere. EGUsphere [[preprint](https://doi.org/10.5194/egusphere-2024-89)].
 
 - Giannakis, D., M. J. Latifi Jebelli (2024). Kernel smoothing operators on thick open domains. submitted. [[preprint](https://arxiv.org/abs/2403.00173)].
