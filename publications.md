@@ -18,9 +18,9 @@ layout: default
 
 - Watkins, Buckley, Kim, and Wilhelmus (2024) “Observing floe-scale sea ice motion in the Greenland Sea marginal ice zone during summer,” submitted to Annals of Glaciology. [[preprint](https://doi.org/10.22541/essoar.170431114.48516908/v1)].
 
-- Montemuro, B. P. and Manucharyan, G. E. (2024). The Role of Islands in Sea Ice Transport Through Nares Strait. submitted [[preprint](https://doi.org/10.31223/X5J12G)]. 
 
 ## 2025
+- Montemuro, B. P. and Manucharyan, G. E. (2025). The Role of Islands in Sea Ice Transport Through Nares Strait. JGR Oceans, 130, e2025JC022357. [[link]( https://doi.org/10.1029/2025JC022357)]. 
 
 - Gupta, M., Regan, H., Koo, Y., Chua, S. M. T., Li, X., & Heil, P. (2025). Inferring the seasonality of sea ice floes in the Weddell Sea using ICESat-2. The Cryosphere, 19(3), 1241-1257. [[link](https://doi.org/10.5194/tc-19-1241-2025)]
 
