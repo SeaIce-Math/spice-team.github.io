@@ -10,6 +10,8 @@ layout: default
 
 ## Submitted/In preparation:
 
+- Stechmann, S. N., Hu, J., Montemuro, B. P., Chen, N., Manucharyan, G. E., Tollar, E., and Zhang, Y. (2026) “Power laws in the sea ice floe size distribution: a stochastic theory” submitted to GRL. [[preprint](http://arxiv.org/abs/2604.10292)].
+  
 - de Diego, G. G., and Stadler, G. (2025) "Non-Newtonian viscous fluid models with learned rheology accurately reproduce Lagrangian sea ice simulations", submitted [[preprint](https://arxiv.org/abs/2509.16426)]
 
 - Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M. (2024) “Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades of MODIS Data”, submitted to The Cryosphere. EGUsphere [[preprint](https://doi.org/10.5194/egusphere-2024-89)].
